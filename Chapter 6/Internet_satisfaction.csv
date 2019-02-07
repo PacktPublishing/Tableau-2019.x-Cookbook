@@ -1,0 +1,708 @@
+id,Region,HH internet type,Main provider,Satisfaction overall,Satisfaction speed,Satisfaction stability
+24830718,Belgrade,Cable,Other,5,2,3
+24831145,Belgrade,Wireless internet,Other,4,2,2
+24830340,Belgrade,Cable,Other,3,1,1
+24844366,Vojvodina,ADSL,Provider 1,3,2,1
+24833945,Central Serbia,ADSL,Provider 1,5,3,3
+24811945,Central Serbia,ADSL,Provider 1,2,1,1
+24841996,Vojvodina,Wireless internet,Provider 1,5,2,3
+24822827,Belgrade,ADSL,Provider 1,5,3,3
+24832202,Central Serbia,ADSL,Provider 1,3,2,2
+24831061,Belgrade,ADSL,Provider 1,4,3,3
+24837354,Vojvodina,Wireless internet,Provider 1,2,2,3
+24815436,Central Serbia,ADSL,Provider 1,3,2,3
+24814354,Central Serbia,ADSL,Provider 1,4,2,2
+24827670,Belgrade,ADSL,Provider 7,5,2,2
+24820898,Belgrade,ADSL,Provider 7,4,1,3
+24833506,Central Serbia,ADSL,Provider 7,5,3,3
+24842014,Vojvodina,ADSL,Provider 7,5,3,2
+24853342,Vojvodina,ADSL,Provider 7,4,3,3
+24854067,Vojvodina,ADSL,Provider 7,5,3,3
+24825151,Belgrade,ADSL,Provider 7,4,3,3
+24826998,Belgrade,ADSL,Provider 7,4,3,3
+24824251,Belgrade,ADSL,Provider 7,2,1,3
+24825460,Belgrade,ADSL,Provider 7,5,3,3
+24830428,Belgrade,ADSL,Provider 7,5,3,3
+24853624,Vojvodina,ADSL,Provider 7,3,2,2
+24853734,Vojvodina,ADSL,Provider 7,3,3,2
+24809974,Central Serbia,ADSL,Provider 7,3,2,2
+24849720,Vojvodina,ADSL,Provider 7,5,3,3
+24838967,Vojvodina,ADSL,Provider 7,3,2,3
+24829528,Belgrade,ADSL,Provider 7,4,2,3
+24848484,Vojvodina,ADSL,Provider 7,3,3,3
+24814671,Central Serbia,ADSL,Provider 7,5,3,2
+24834404,Central Serbia,Cable,Other,3,2,2
+24833407,Central Serbia,Wireless internet,Other,4,3,2
+24834560,Central Serbia,Cable,Other,2,2,1
+24834141,Central Serbia,Cable,Other,3,2,2
+24832754,Central Serbia,Wireless internet,Other,3,1,1
+24832508,Central Serbia,Cable,Other,3,2,2
+24833326,Central Serbia,Wireless internet,Other,5,3,2
+24824166,Belgrade,Wireless internet,Other,5,3,3
+24807441,Belgrade,Wireless internet,Other,3,2,1
+24820677,Belgrade,Cable,Provider 2,5,3,3
+24819583,Belgrade,Cable,Provider 2,3,2,2
+24828484,Belgrade,Cable,Provider 2,3,2,1
+24825926,Belgrade,Cable,Provider 2,5,3,3
+24826122,Belgrade,Cable,Provider 2,4,2,2
+24828743,Belgrade,Cable,Provider 2,5,3,3
+24825381,Belgrade,Cable,Provider 2,4,2,2
+24823015,Belgrade,Cable,Provider 2,4,2,3
+24826975,Belgrade,Cable,Provider 2,4,3,3
+24819696,Belgrade,Cable,Provider 2,3,2,3
+24819496,Belgrade,Cable,Provider 2,3,2,1
+24824168,Belgrade,Cable,Provider 2,4,3,2
+24827458,Belgrade,Cable,Provider 2,4,2,2
+24820824,Belgrade,Cable,Provider 2,5,3,3
+24818999,Belgrade,Cable,Provider 2,4,2,2
+24822084,Belgrade,Cable,Provider 2,5,3,3
+24818942,Belgrade,Cable,Provider 2,5,3,2
+24824894,Belgrade,Cable,Provider 2,4,3,2
+24828827,Belgrade,Cable,Provider 2,4,2,2
+24829939,Belgrade,Cable,Provider 2,4,3,2
+24818936,Belgrade,Cable,Provider 2,3,2,2
+24821006,Belgrade,Cable,Provider 2,5,3,3
+24824566,Belgrade,Cable,Provider 2,3,2,2
+24828482,Belgrade,Cable,Provider 2,4,3,3
+24827415,Belgrade,Cable,Provider 2,4,2,3
+24826149,Belgrade,Cable,Provider 2,4,2,2
+24827667,Belgrade,Cable,Provider 2,4,3,2
+24807892,Belgrade,Cable,Provider 2,5,3,3
+24825525,Belgrade,Cable,Provider 2,5,3,3
+24823490,Belgrade,Cable,Provider 2,3,1,2
+24833194,Central Serbia,Cable,Provider 6,4,2,2
+24815047,Central Serbia,Cable,Provider 6,4,3,2
+24814364,Central Serbia,Cable,Provider 6,4,2,2
+24832231,Central Serbia,Cable,Provider 6,5,3,3
+24831865,Central Serbia,Cable,Provider 6,4,3,3
+24834525,Central Serbia,Cable,Provider 6,4,2,2
+24834541,Central Serbia,Cable,Provider 6,2,2,2
+24814857,Central Serbia,Cable,Provider 6,4,3,2
+24814136,Central Serbia,Cable,Provider 6,4,2,2
+24814341,Central Serbia,Cable,Provider 6,5,3,3
+24831976,Central Serbia,Cable,Provider 6,4,2,2
+24831832,Central Serbia,Cable,Provider 6,5,3,3
+24814130,Central Serbia,Cable,Provider 6,5,2,2
+24832426,Central Serbia,Cable,Provider 6,4,3,3
+24832629,Central Serbia,Cable,Provider 6,4,2,2
+24832222,Central Serbia,Cable,Provider 6,4,2,3
+24833706,Central Serbia,Cable,Provider 6,3,2,1
+24823801,Belgrade,Cable,Provider 6,4,3,2
+24827026,Belgrade,Cable,Provider 6,5,3,3
+24853145,Vojvodina,Cable,Provider 6,4,3,2
+24815182,Central Serbia,Cable,Provider 6,5,3,3
+24806854,Central Serbia,Cable,Provider 6,5,3,3
+24813599,Central Serbia,Cable,Provider 6,4,2,2
+24832115,Central Serbia,Cable,Provider 6,5,3,3
+24853213,Vojvodina,Cable,Provider 6,5,3,3
+24853180,Vojvodina,Cable,Provider 6,4,2,2
+24852954,Vojvodina,Cable,Provider 6,5,3,3
+24812911,Central Serbia,Cable,Other,3,2,3
+24833364,Central Serbia,ADSL ,Provider 5,4,3,3
+24847672,Vojvodina,ADSL,Provider 5,2,1,2
+24817852,Central Serbia,ADSL,Provider 5,5,2,1
+24825085,Belgrade,ADSL,Provider 5,4,2,2
+24807611,Belgrade,ADSL,Provider 5,3,2,2
+24840761,Vojvodina,ADSL,Provider 5,3,1,2
+24819351,Belgrade,ADSL,Provider 5,4,3,3
+24831579,Belgrade,Wireless internet,Provider 5,5,3,2
+24817380,Central Serbia,ADSL,Provider 5,5,3,3
+24823635,Belgrade,ADSL,Provider 5,5,3,2
+24833522,Central Serbia,ADSL,Provider 5,3,2,2
+24839704,Vojvodina,ADSL,Provider 5,5,3,2
+24832674,Central Serbia,ADSL,Provider 5,5,3,3
+24832809,Central Serbia,ADSL,Provider 5,4,3,3
+24828346,Belgrade,ADSL,Provider 5,4,3,3
+24807500,Belgrade,ADSL,Provider 5,3,2,3
+24833525,Central Serbia,ADSL,Provider 5,4,3,3
+24823381,Belgrade,ADSL,Provider 5,3,2,2
+24854556,Vojvodina,ADSL,Provider 5,3,2,1
+24818416,Central Serbia,ADSL,Provider 5,5,3,3
+24821052,Belgrade,ADSL,Provider 5,2,2,2
+24841040,Vojvodina,ADSL,Provider 5,5,3,3
+24850516,Vojvodina,ADSL,Provider 5,4,2,2
+24808330,Central Serbia,ADSL,Provider 5,3,2,1
+24817153,Central Serbia,ADSL,Other,2,2,1
+24807480,Belgrade,Wireless internet,Other,5,3,3
+24826985,Belgrade,ADSL,Other,4,3,3
+24812660,Central Serbia,ADSL,Other,4,2,2
+24808115,Belgrade,Cable,Other,4,3,3
+24817820,Central Serbia,Cable,Other,4,2,2
+24807542,Belgrade,ADSL,Other,5,3,3
+24827028,Belgrade,ADSL,Other,5,3,3
+24807960,Belgrade,Cable,Other,4,2,2
+24807466,Belgrade,Wireless internet,Other,3,2,2
+24854489,Vojvodina,Wireless internet,Other,5,3,3
+24854613,Vojvodina,ADSL,Provider 4,3,2,2
+24830405,Belgrade,ADSL,Provider 4,4,3,3
+24826222,Belgrade,ADSL,Provider 4,3,2,2
+24821177,Belgrade,Cable,Provider 4,4,3,2
+24825676,Belgrade,Cable,Provider 4,4,2,2
+24853629,Vojvodina,Cable,Provider 4,4,2,2
+24828247,Belgrade,ADSL,Provider 4,4,3,2
+24853553,Vojvodina,ADSL,Provider 4,5,3,3
+24854090,Vojvodina,ADSL,Provider 4,3,2,2
+24812643,Central Serbia,ADSL,Provider 4,5,3,3
+24824945,Belgrade,ADSL,Provider 4,4,2,2
+24850017,Vojvodina,ADSL,Provider 4,5,3,3
+24807677,Belgrade,Cable,Provider 4,5,3,3
+24824002,Belgrade,Cable,Provider 4,4,3,2
+24807962,Belgrade,Cable,Provider 4,4,2,3
+24825899,Belgrade,Cable,Provider 4,3,2,1
+24807364,Belgrade,Cable,Provider 4,4,3,2
+24825132,Belgrade,Cable,Provider 4,3,2,2
+24838186,Vojvodina,Cable,Provider 4,3,2,2
+24839302,Vojvodina,Cable,Provider 3,5,3,3
+24828737,Belgrade,Cable,Provider 4,2,1,1
+24823048,Belgrade,Cable,Provider 4,4,2,2
+24818683,Belgrade,Cable,Provider 4,3,3,2
+24845054,Vojvodina,Cable,Provider 4,4,3,3
+24826429,Belgrade,Cable,Provider 4,4,3,2
+24825366,Belgrade,Cable,Provider 4,4,2,2
+24849052,Vojvodina,Cable,Provider 4,5,3,2
+24834659,Central Serbia,Cable,Provider 4,4,2,2
+24828197,Belgrade,Cable,Provider 4,4,3,3
+24817544,Central Serbia,Cable,Provider 4,2,1,1
+24834231,Central Serbia,Cable,Provider 4,4,3,3
+24820523,Belgrade,Cable,Provider 4,5,3,2
+24821213,Belgrade,Cable,Provider 4,5,3,3
+24845391,Vojvodina,Cable,Provider 4,4,2,3
+24850545,Vojvodina,Cable,Provider 4,4,3,3
+24828995,Belgrade,Cable,Provider 4,5,2,3
+24824551,Belgrade,Cable,Provider 4,3,2,2
+24813588,Central Serbia,Cable,Provider 4,3,2,1
+24845043,Vojvodina,Cable,Provider 4,2,2,1
+24851911,Vojvodina,Wireless internet,Provider 4,3,2,2
+24839605,Vojvodina,Cable,Provider 4,5,3,3
+24837501,Vojvodina,Cable,Provider 4,4,2,2
+24826952,Belgrade,Cable,Provider 4,4,2,2
+24818562,Central Serbia,Cable,Provider 4,4,2,2
+24812289,Central Serbia,Cable,Provider 4,5,3,3
+24844116,Vojvodina,Cable,Provider 4,5,2,3
+24813164,Central Serbia,Cable,Provider 4,4,3,2
+24820488,Belgrade,Cable,Provider 4,5,2,2
+24822857,Belgrade,Cable,Provider 4,4,2,2
+24842463,Vojvodina,Cable,Provider 4,3,2,2
+24834368,Central Serbia,Wireless internet,Provider 4,4,3,3
+24825780,Belgrade,Cable,Provider 4,5,2,3
+24846680,Vojvodina,Cable,Provider 4,4,2,2
+24827120,Belgrade,Cable,Provider 4,4,2,2
+24806993,Belgrade,Cable,Provider 4,4,2,2
+24811354,Central Serbia,Cable,Provider 4,2,1,1
+24845904,Vojvodina,Cable,Provider 4,4,2,2
+24825570,Belgrade,Cable,Provider 4,4,2,2
+24823835,Belgrade,Cable,Provider 4,4,3,3
+24831081,Belgrade,Cable,Provider 4,4,2,2
+24828029,Belgrade,Cable,Provider 4,5,3,2
+24808010,Belgrade,Cable,Provider 4,4,3,2
+24831419,Belgrade,Cable,Provider 4,5,3,2
+24840652,Vojvodina,Wireless internet,Provider 4,4,3,2
+24822172,Belgrade,Cable,Provider 4,5,3,3
+24828333,Belgrade,Cable,Provider 4,5,3,3
+24833499,Central Serbia,Cable,Provider 4,5,3,3
+24825377,Belgrade,Cable,Provider 4,4,2,2
+24817417,Central Serbia,Cable,Provider 4,3,2,2
+24807015,Belgrade,Cable,Provider 4,5,3,3
+24830081,Belgrade,Cable,Provider 4,5,3,3
+24822868,Belgrade,Wireless internet,Provider 4,5,3,3
+24823686,Belgrade,Cable,Provider 4,4,2,3
+24833731,Central Serbia,Cable,Provider 4,4,2,2
+24826648,Belgrade,Cable,Provider 4,3,1,1
+24811444,Central Serbia,Cable,Provider 4,5,2,2
+24812114,Central Serbia,Cable,Provider 4,4,3,3
+24827783,Belgrade,Cable,Provider 4,5,3,3
+24835659,Vojvodina,Cable,Provider 4,4,2,2
+24809587,Central Serbia,Cable,Provider 4,5,2,2
+24830269,Belgrade,Cable,Provider 4,4,2,1
+24814087,Central Serbia,Cable,Provider 4,5,3,3
+24820267,Belgrade,Cable,Provider 4,4,2,2
+24835090,Central Serbia,Cable,Provider 4,5,3,3
+24825416,Belgrade,Cable,Provider 4,5,3,2
+24830978,Belgrade,Cable,Provider 4,4,3,2
+24846707,Vojvodina,Cable,Provider 4,3,3,1
+24845450,Vojvodina,Cable,Provider 4,4,3,2
+24824143,Belgrade,Cable,Provider 4,5,3,3
+24830679,Belgrade,Cable,Provider 4,4,3,3
+24820167,Belgrade,Cable,Provider 4,4,3,2
+24813664,Central Serbia,Cable,Provider 4,5,3,3
+24846809,Vojvodina,Cable,Provider 4,5,3,3
+24827045,Belgrade,Cable,Provider 4,5,3,3
+24823050,Belgrade,Cable,Provider 4,3,2,2
+24828760,Belgrade,Cable,Provider 4,4,2,2
+24819443,Belgrade,Cable,Provider 4,4,3,3
+24820917,Belgrade,Cable,Provider 4,5,3,2
+24829218,Belgrade,Cable,Provider 4,3,3,3
+24822265,Belgrade,Cable,Provider 4,2,2,2
+24826544,Belgrade,Wireless internet,Provider 4,3,2,2
+24840649,Vojvodina,Cable,Provider 4,2,2,2
+24814056,Central Serbia,Cable,Provider 4,4,2,2
+24833884,Central Serbia,Cable,Provider 4,4,2,2
+24844674,Vojvodina,Cable,Provider 4,4,2,3
+24837027,Vojvodina,Cable,Provider 4,3,2,2
+24827657,Belgrade,Cable,Provider 4,1,2,1
+24847995,Vojvodina,Cable,Provider 4,5,3,3
+24822686,Belgrade,Cable,Provider 4,5,3,3
+24831568,Belgrade,Cable,Provider 4,5,3,3
+24819424,Belgrade,Cable,Provider 4,5,3,3
+24838841,Vojvodina,Cable,Provider 4,5,3,3
+24828739,Belgrade,Cable,Provider 4,5,3,3
+24824461,Belgrade,Cable,Provider 4,4,2,2
+24820061,Belgrade,Cable,Provider 4,5,3,3
+24829873,Belgrade,Cable,Provider 4,4,2,2
+24824983,Belgrade,Cable,Provider 4,5,3,3
+24851218,Vojvodina,Cable,Provider 4,4,2,2
+24836835,Vojvodina,Cable,Provider 4,4,3,3
+24843603,Vojvodina,Cable,Provider 4,3,2,2
+24807880,Belgrade,Cable,Provider 4,5,3,2
+24819711,Belgrade,Cable,Provider 4,5,3,3
+24823294,Belgrade,Cable,Provider 4,5,3,2
+24820302,Belgrade,Cable,Provider 4,5,3,3
+24822694,Belgrade,Cable,Provider 4,4,2,2
+24835244,Vojvodina,Wireless internet,Provider 4,5,2,3
+24836740,Vojvodina,Cable,Provider 4,2,3,2
+24847410,Vojvodina,Cable,Provider 4,5,3,3
+24841652,Vojvodina,Cable,Provider 4,4,3,2
+24843117,Vojvodina,Cable,Provider 4,5,3,3
+24848333,Vojvodina,Cable,Provider 4,4,2,3
+24818129,Central Serbia,Cable,Provider 4,3,2,3
+24812853,Central Serbia,Cable,Provider 4,5,3,3
+24842509,Vojvodina,Cable,Provider 4,5,3,3
+24841458,Vojvodina,Cable,Provider 4,4,2,2
+24831574,Belgrade,Cable,Provider 4,4,3,2
+24850574,Vojvodina,Cable,Provider 4,5,3,3
+24839817,Central Serbia,Cable,Provider 4,4,2,2
+24817981,Central Serbia,Cable,Provider 4,5,3,3
+24851444,Vojvodina,Cable,Provider 4,5,3,3
+24829658,Belgrade,Cable,Provider 4,5,3,3
+24834689,Central Serbia,Cable,Provider 4,4,2,3
+24819628,Belgrade,Cable,Provider 4,5,3,3
+24852593,Vojvodina,Cable,Provider 4,3,2,2
+24834353,Central Serbia,Cable,Provider 4,3,2,2
+24849736,Vojvodina,Cable,Provider 4,4,2,3
+24812536,Central Serbia,Cable,Provider 4,5,3,2
+24819883,Belgrade,Cable,Provider 4,3,2,2
+24818179,Central Serbia,Cable,Provider 4,4,3,2
+24814067,Central Serbia,Cable,Provider 4,4,2,2
+24834402,Central Serbia,Cable,Provider 4,4,2,2
+24828273,Belgrade,Cable,Provider 4,5,2,3
+24828425,Belgrade,Cable,Provider 4,4,3,3
+24829877,Belgrade,Cable,Provider 4,4,3,3
+24823600,Belgrade,Cable,Provider 4,4,3,2
+24820145,Belgrade,Wireless internet,Provider 4,4,2,2
+24844418,Vojvodina,Cable,Provider 4,3,2,2
+24818376,Central Serbia,Cable,Provider 4,4,3,3
+24811955,Central Serbia,Cable,Provider 4,5,3,2
+24820218,Belgrade,Cable,Provider 4,4,3,3
+24813399,Central Serbia,Cable,Provider 4,4,2,3
+24847093,Vojvodina,Cable,Provider 4,3,2,1
+24836178,Vojvodina,Cable,Provider 4,3,2,2
+24820123,Belgrade,Cable,Provider 4,4,3,2
+24830974,Belgrade,Cable,Provider 4,3,2,2
+24823365,Belgrade,Cable,Provider 4,4,3,3
+24828863,Belgrade,Cable,Provider 4,4,2,2
+24828462,Belgrade,Cable,Provider 4,4,2,2
+24833873,Central Serbia,Cable,Provider 4,3,2,2
+24836646,Vojvodina,Cable,Provider 4,4,3,2
+24831571,Belgrade,Cable,Provider 4,4,3,3
+24817969,Central Serbia,Cable,Provider 4,4,2,2
+24815574,Central Serbia,Wireless internet,Provider 4,5,3,3
+24811509,Central Serbia,Cable,Provider 4,3,2,2
+24822147,Belgrade,Cable,Provider 4,5,2,2
+24827888,Belgrade,Cable,Provider 4,3,2,2
+24831282,Belgrade,Cable,Provider 4,4,3,3
+24826280,Belgrade,Cable,Provider 4,4,3,3
+24840121,Vojvodina,Cable,Provider 4,4,2,3
+24839768,Vojvodina,Cable,Provider 4,5,3,3
+24813881,Central Serbia,Cable,Provider 4,4,3,2
+24827490,Belgrade,Cable,Provider 4,4,2,3
+24819382,Belgrade,Cable,Provider 4,4,3,2
+24841845,Vojvodina,Wireless internet,Provider 4,4,3,3
+24850863,Vojvodina,Cable,Provider 4,5,3,3
+24819679,Belgrade,Wireless internet,Provider 4,2,2,1
+24830840,Belgrade,Cable,Provider 4,5,3,3
+24812685,Central Serbia,Cable,Provider 4,4,3,2
+24845461,Vojvodina,Cable,Provider 4,4,2,2
+24829677,Belgrade,Cable,Provider 4,4,3,3
+24828433,Belgrade,Cable,Provider 4,4,3,2
+24830660,Belgrade,Cable,Provider 4,4,2,3
+24814098,Central Serbia,Cable,Provider 4,3,2,2
+24852195,Vojvodina,Cable,Provider 4,3,2,2
+24821039,Belgrade,Cable,Provider 4,4,3,1
+24808498,Central Serbia,Cable,Provider 4,3,2,2
+24822292,Belgrade,Cable,Provider 4,5,3,3
+24823148,Belgrade,Cable,Provider 4,3,2,2
+24825733,Belgrade,Cable,Provider 4,4,3,2
+24826531,Belgrade,Cable,Provider 4,5,3,3
+24819394,Belgrade,Cable,Provider 4,5,3,3
+24824998,Belgrade,Cable,Provider 4,4,2,2
+24821837,Belgrade,Cable,Provider 4,1,1,1
+24847558,Vojvodina,Cable,Provider 4,5,3,3
+24846394,Vojvodina,Cable,Provider 4,4,2,2
+24812007,Central Serbia,Cable,Provider 4,4,2,2
+24810016,Central Serbia,Cable,Provider 4,5,3,2
+24831871,Central Serbia,Cable,Provider 4,5,2,3
+24852327,Vojvodina,Cable,Provider 4,4,3,3
+24823422,Belgrade,Cable,Provider 4,5,3,3
+24833743,Central Serbia,Cable,Provider 4,4,2,2
+24818883,Belgrade,Cable,Provider 4,5,3,3
+24838759,Vojvodina,Cable,Provider 4,5,3,3
+24822824,Belgrade,Cable,Provider 4,3,2,2
+24837480,Vojvodina,Cable,Provider 4,4,2,2
+24833375,Central Serbia,Cable,Provider 4,5,3,3
+24823678,Belgrade,Cable,Provider 4,5,3,2
+24833120,Central Serbia,Cable,Provider 4,5,3,3
+24820736,Belgrade,Cable,Provider 4,3,1,1
+24836382,Vojvodina,Cable,Provider 4,4,2,2
+24848495,Vojvodina,Cable,Provider 4,4,3,3
+24843297,Vojvodina,Cable,Provider 4,4,2,3
+24823866,Belgrade,Cable,Provider 4,5,3,3
+24833752,Central Serbia,Cable,Provider 4,4,2,2
+24821559,Belgrade,Cable,Provider 4,4,2,2
+24834640,Central Serbia,Cable,Provider 4,5,3,3
+24842391,Vojvodina,Cable,Provider 4,2,1,1
+24824414,Belgrade,Cable,Provider 4,4,3,3
+24833128,Central Serbia,Cable,Provider 4,5,3,3
+24809590,Central Serbia,Cable,Provider 4,4,2,2
+24831874,Central Serbia,Cable,Provider 4,5,2,2
+24834348,Central Serbia,Cable,Provider 4,4,3,2
+24845325,Vojvodina,Cable,Provider 4,5,3,3
+24836399,Vojvodina,Cable,Provider 4,3,3,1
+24820792,Belgrade,Cable,Provider 4,3,2,2
+24822173,Belgrade,Cable,Provider 4,5,3,3
+24828074,Belgrade,Cable,Provider 4,4,2,2
+24806998,Belgrade,Cable,Provider 4,5,3,3
+24835556,Vojvodina,Cable,Provider 4,4,2,2
+24812933,Central Serbia,Cable,Provider 4,5,3,3
+24835943,Vojvodina,Cable,Provider 4,4,3,2
+24812855,Central Serbia,Wireless internet,Provider 4,4,2,2
+24815459,Central Serbia,Cable,Provider 4,4,3,3
+24817955,Central Serbia,Cable,Provider 4,3,2,2
+24822653,Belgrade,Cable,Provider 4,4,2,2
+24847687,Vojvodina,Cable,Provider 4,4,3,3
+24834922,Central Serbia,Cable,Provider 4,3,2,2
+24853126,Vojvodina,Cable,Provider 3,4,3,2
+24828284,Belgrade,ADSL,Provider 3,4,2,2
+24833154,Central Serbia,ADSL,Provider 3,5,3,2
+24827113,Belgrade,ADSL,Provider 3,5,3,3
+24852992,Vojvodina,ADSL,Provider 3,5,2,3
+24853789,Vojvodina,ADSL,Provider 3,4,2,2
+24827489,Belgrade,ADSL,Provider 3,3,2,1
+24834753,Central Serbia,ADSL,Provider 3,4,3,3
+24836983,Vojvodina,ADSL,Provider 3,4,2,3
+24817465,Central Serbia,ADSL,Provider 3,4,3,3
+24832257,Central Serbia,ADSL,Provider 3,5,3,3
+24817710,Central Serbia,ADSL,Provider 3,4,2,3
+24853677,Vojvodina,ADSL,Provider 3,4,2,3
+24827143,Belgrade,ADSL,Provider 3,3,2,2
+24813740,Central Serbia,ADSL,Provider 3,2,1,1
+24817759,Central Serbia,ADSL,Provider 3,3,1,1
+24825190,Belgrade,ADSL,Provider 3,1,1,1
+24854671,Vojvodina,ADSL,Provider 3,4,2,3
+24831781,Central Serbia,ADSL,Provider 3,3,1,1
+24846904,Vojvodina,ADSL,Provider 3,3,2,2
+24816265,Central Serbia,ADSL,Provider 3,5,3,3
+24839145,Vojvodina,ADSL,Provider 3,3,2,3
+24833940,Central Serbia,ADSL,Provider 3,1,2,2
+24821863,Belgrade,ADSL,Provider 3,5,3,3
+24827585,Belgrade,ADSL,Provider 3,5,3,2
+24817203,Central Serbia,ADSL,Provider 3,4,2,2
+24837014,Vojvodina,ADSL,Provider 3,4,3,2
+24813908,Central Serbia,ADSL,Provider 3,3,2,2
+24833317,Central Serbia,ADSL,Provider 3,3,2,3
+24845252,Vojvodina,ADSL,Provider 3,2,2,1
+24833420,Central Serbia,ADSL,Provider 3,4,3,2
+24815454,Central Serbia,ADSL,Provider 3,4,3,3
+24806895,Belgrade,ADSL,Provider 3,5,2,3
+24814805,Central Serbia,ADSL,Provider 3,5,3,3
+24813717,Central Serbia,ADSL,Provider 3,4,2,3
+24832999,Central Serbia,ADSL,Provider 3,4,2,2
+24838061,Vojvodina,ADSL,Provider 3,5,3,3
+24807355,Belgrade,ADSL,Provider 3,4,2,2
+24816293,Central Serbia,ADSL,Provider 3,3,1,1
+24853271,Vojvodina,ADSL,Provider 3,4,2,2
+24808164,Belgrade,ADSL,Provider 3,5,1,3
+24844184,Vojvodina,ADSL,Provider 3,3,3,3
+24854807,Vojvodina,ADSL,Provider 3,4,2,3
+24832869,Central Serbia,ADSL,Provider 3,5,3,2
+24806778,Central Serbia,ADSL,Provider 3,3,2,2
+24811703,Central Serbia,ADSL,Provider 3,3,2,1
+24825419,Belgrade,ADSL,Provider 3,4,2,2
+24848187,Vojvodina,ADSL,Provider 3,4,2,2
+24834773,Central Serbia,ADSL,Provider 3,5,3,3
+24819903,Belgrade,ADSL,Provider 3,4,2,3
+24808683,Central Serbia,ADSL,Provider 3,5,2,2
+24820858,Belgrade,ADSL,Provider 3,1,2,2
+24807922,Belgrade,ADSL,Provider 3,5,3,3
+24819488,Belgrade,ADSL,Provider 3,5,2,3
+24827348,Belgrade,ADSL,Provider 3,3,1,3
+24853638,Vojvodina,ADSL,Provider 3,2,2,2
+24847702,Vojvodina,ADSL,Provider 3,5,3,3
+24827325,Belgrade,ADSL,Provider 3,4,3,3
+24831699,Belgrade,ADSL,Provider 3,3,2,3
+24821548,Belgrade,ADSL,Provider 3,3,2,2
+24817962,Central Serbia,ADSL,Provider 3,5,3,3
+24814400,Central Serbia,ADSL,Provider 3,5,3,2
+24847696,Vojvodina,ADSL,Provider 3,4,2,3
+24827266,Belgrade,ADSL,Provider 3,5,2,3
+24822518,Belgrade,ADSL,Provider 3,5,2,3
+24817537,Central Serbia,ADSL,Provider 3,4,2,3
+24819913,Belgrade,ADSL,Provider 3,4,2,3
+24828442,Belgrade,ADSL,Provider 3,5,3,3
+24818094,Central Serbia,ADSL,Provider 3,3,2,2
+24807468,Belgrade,ADSL,Provider 3,4,3,3
+24826711,Belgrade,ADSL,Provider 3,3,3,1
+24820746,Belgrade,ADSL,Provider 3,5,3,3
+24822362,Belgrade,ADSL,Provider 3,5,3,3
+24832740,Central Serbia,ADSL,Provider 3,3,2,2
+24821671,Belgrade,ADSL,Provider 3,4,3,3
+24825205,Belgrade,ADSL,Provider 3,1,2,2
+24852936,Vojvodina,ADSL,Provider 3,5,3,3
+24839512,Vojvodina,ADSL,Provider 3,5,2,3
+24838190,Vojvodina,ADSL,Provider 3,5,3,3
+24839808,Vojvodina,ADSL,Provider 3,5,3,3
+24810056,Central Serbia,ADSL,Provider 3,5,3,3
+24817784,Central Serbia,ADSL,Provider 3,1,1,2
+24815348,Central Serbia,ADSL,Provider 3,4,3,3
+24817715,Central Serbia,ADSL,Provider 3,3,2,2
+24817536,Central Serbia,ADSL,Provider 3,5,2,3
+24830434,Belgrade,ADSL,Provider 3,3,2,2
+24854499,Vojvodina,ADSL,Provider 3,5,3,3
+24813640,Central Serbia,ADSL,Provider 3,3,2,1
+24812063,Central Serbia,ADSL,Provider 3,4,2,2
+24854769,Vojvodina,ADSL,Provider 3,5,3,3
+24817184,Central Serbia,ADSL,Provider 3,4,2,3
+24826052,Belgrade,ADSL,Provider 3,4,2,3
+24844360,Vojvodina,ADSL,Provider 3,3,2,2
+24815926,Central Serbia,ADSL,Provider 3,5,3,2
+24817503,Central Serbia,ADSL,Provider 3,4,3,3
+24832329,Central Serbia,ADSL,Provider 3,4,2,3
+24833125,Central Serbia,ADSL,Provider 3,4,3,3
+24827781,Belgrade,ADSL,Provider 3,3,2,2
+24844568,Vojvodina,ADSL,Provider 3,5,3,3
+24851702,Vojvodina,ADSL,Provider 3,4,3,2
+24846216,Vojvodina,ADSL,Provider 3,4,2,2
+24815264,Central Serbia,ADSL,Provider 3,4,3,3
+24817364,Central Serbia,ADSL,Provider 3,4,3,3
+24834216,Central Serbia,ADSL,Provider 3,4,2,3
+24814093,Central Serbia,ADSL,Provider 3,5,3,3
+24831974,Central Serbia,ADSL,Provider 3,5,2,3
+24827456,Belgrade,ADSL,Provider 3,5,3,3
+24837906,Vojvodina,ADSL,Provider 3,5,3,3
+24835094,Central Serbia,ADSL,Provider 3,4,3,2
+24814575,Central Serbia,ADSL,Provider 3,4,2,2
+24818596,Belgrade,ADSL,Provider 3,3,2,2
+24814254,Central Serbia,ADSL,Provider 3,4,3,3
+24854829,Central Serbia,ADSL,Provider 3,4,2,2
+24834635,Central Serbia,ADSL,Provider 3,5,3,3
+24821061,Belgrade,ADSL,Provider 3,5,3,3
+24823904,Belgrade,ADSL,Provider 3,3,2,2
+24828086,Belgrade,ADSL,Provider 3,4,3,2
+24841316,Vojvodina,ADSL,Provider 3,5,3,3
+24842235,Vojvodina,ADSL,Provider 3,4,3,3
+24842476,Vojvodina,ADSL,Provider 3,4,3,3
+24854758,Vojvodina,ADSL,Provider 3,4,3,3
+24817341,Central Serbia,ADSL,Provider 3,5,3,3
+24808680,Central Serbia,ADSL,Provider 3,3,2,1
+24819262,Belgrade,ADSL,Provider 3,3,2,1
+24808876,Central Serbia,ADSL,Provider 3,5,2,3
+24831602,Belgrade,ADSL,Provider 3,4,3,2
+24818173,Central Serbia,ADSL,Provider 3,3,2,2
+24831497,Belgrade,ADSL,Provider 3,5,3,2
+24825520,Belgrade,ADSL,Provider 3,4,2,3
+24822118,Belgrade,ADSL,Provider 3,3,2,2
+24824568,Belgrade,ADSL,Provider 3,5,2,3
+24853137,Vojvodina,ADSL,Provider 3,1,1,1
+24814533,Central Serbia,ADSL,Provider 3,4,2,2
+24854679,Vojvodina,ADSL,Provider 3,3,2,3
+24853870,Vojvodina,ADSL,Provider 3,5,3,3
+24827794,Belgrade,ADSL,Provider 3,3,2,2
+24854274,Vojvodina,ADSL,Provider 3,3,2,2
+24825628,Belgrade,ADSL,Provider 3,5,3,3
+24814007,Central Serbia,ADSL,Provider 3,4,2,2
+24825495,Belgrade,ADSL,Provider 3,5,3,2
+24829278,Belgrade,ADSL,Provider 3,4,3,3
+24819324,Belgrade,ADSL,Provider 3,4,3,3
+24824291,Belgrade,ADSL,Provider 3,4,3,2
+24820017,Belgrade,ADSL,Provider 3,3,1,3
+24843851,Vojvodina,ADSL,Provider 3,3,2,2
+24840891,Vojvodina,ADSL,Provider 3,5,3,3
+24854582,Vojvodina,ADSL,Provider 3,4,3,3
+24814635,Central Serbia,ADSL,Provider 3,5,3,3
+24818532,Central Serbia,ADSL,Provider 3,3,2,2
+24817568,Central Serbia,ADSL,Provider 3,4,2,2
+24832524,Central Serbia,ADSL,Provider 3,4,2,3
+24814891,Central Serbia,ADSL,Provider 3,4,3,2
+24817082,Central Serbia,ADSL,Provider 3,4,3,3
+24829969,Belgrade,ADSL,Provider 3,4,2,1
+24823847,Belgrade,ADSL,Provider 3,5,3,2
+24828555,Belgrade,ADSL,Provider 3,2,1,2
+24835582,Vojvodina,ADSL,Provider 3,3,2,2
+24846310,Vojvodina,ADSL,Provider 3,4,2,2
+24810344,Central Serbia,ADSL,Provider 3,3,2,3
+24834647,Central Serbia,ADSL,Provider 3,5,3,3
+24833778,Central Serbia,ADSL,Provider 3,4,2,3
+24831961,Central Serbia,ADSL,Provider 3,5,3,3
+24817596,Central Serbia,ADSL,Provider 3,4,3,3
+24821719,Belgrade,ADSL,Provider 3,4,2,2
+24815836,Central Serbia,ADSL,Provider 3,4,2,2
+24823648,Belgrade,ADSL,Provider 3,2,2,2
+24826191,Belgrade,ADSL,Provider 3,5,3,3
+24813777,Central Serbia,ADSL,Provider 3,4,2,2
+24813983,Central Serbia,ADSL,Provider 3,3,2,3
+24820509,Belgrade,ADSL,Provider 3,2,1,1
+24815358,Central Serbia,ADSL,Provider 3,5,3,3
+24827135,Belgrade,ADSL,Provider 3,3,2,2
+24814623,Central Serbia,ADSL,Provider 3,4,3,3
+24818618,Belgrade,ADSL,Provider 3,3,2,2
+24821404,Belgrade,ADSL,Provider 3,4,2,2
+24853505,Vojvodina,ADSL,Provider 3,4,3,2
+24851644,Vojvodina,ADSL,Provider 3,4,3,3
+24835190,Vojvodina,ADSL,Provider 3,4,2,2
+24838273,Vojvodina,ADSL,Provider 3,4,2,2
+24814636,Central Serbia,ADSL,Provider 3,5,3,3
+24812140,Central Serbia,ADSL,Provider 3,5,2,3
+24816261,Central Serbia,ADSL,Provider 3,4,2,2
+24813900,Central Serbia,ADSL,Provider 3,4,2,2
+24832606,Central Serbia,ADSL,Provider 3,4,2,2
+24814022,Central Serbia,ADSL,Provider 3,4,2,3
+24813963,Central Serbia,ADSL,Provider 3,5,3,3
+24835140,Central Serbia,ADSL,Provider 3,5,3,3
+24820529,Belgrade,ADSL,Provider 3,3,1,2
+24817073,Central Serbia,ADSL,Provider 3,4,3,2
+24833505,Central Serbia,ADSL,Provider 3,4,2,3
+24825298,Belgrade,ADSL,Provider 3,3,1,3
+24854711,Vojvodina,ADSL,Provider 3,4,2,2
+24846727,Vojvodina,ADSL,Provider 3,5,2,3
+24817389,Central Serbia,ADSL,Provider 3,5,3,3
+24806742,Central Serbia,ADSL,Provider 3,5,3,3
+24816306,Central Serbia,ADSL,Provider 3,4,2,3
+24808952,Central Serbia,ADSL,Provider 3,4,3,3
+24832764,Central Serbia,ADSL,Provider 3,4,2,2
+24834988,Central Serbia,ADSL,Provider 3,5,3,2
+24832669,Central Serbia,ADSL,Provider 3,4,2,2
+24850009,Vojvodina,ADSL,Provider 3,5,2,3
+24854437,Vojvodina,ADSL,Provider 3,2,1,2
+24826261,Belgrade,ADSL,Provider 3,5,3,3
+24821476,Belgrade,ADSL,Provider 3,4,3,2
+24854019,Vojvodina,ADSL,Provider 3,4,3,2
+24854401,Vojvodina,ADSL,Provider 3,4,2,2
+24814765,Central Serbia,ADSL,Provider 3,4,2,2
+24834958,Central Serbia,ADSL,Provider 3,4,3,3
+24838176,Vojvodina,ADSL,Provider 3,4,3,3
+24854083,Vojvodina,ADSL,Provider 3,3,2,2
+24815321,Central Serbia,ADSL,Provider 3,5,3,2
+24832063,Central Serbia,ADSL,Provider 3,4,2,2
+24814332,Central Serbia,ADSL,Provider 3,5,3,3
+24841820,Vojvodina,ADSL,Provider 3,4,2,3
+24850108,Vojvodina,ADSL,Provider 3,2,2,1
+24806754,Central Serbia,ADSL,Provider 3,5,1,2
+24815487,Central Serbia,ADSL,Provider 3,4,2,2
+24853343,Vojvodina,ADSL,Provider 3,5,2,3
+24812667,Central Serbia,ADSL,Provider 3,4,2,2
+24834399,Central Serbia,ADSL,Provider 3,4,3,3
+24816715,Central Serbia,ADSL,Provider 3,4,2,2
+24842177,Vojvodina,ADSL,Provider 3,4,3,3
+24822272,Belgrade,ADSL,Provider 3,3,1,1
+24830944,Belgrade,ADSL,Provider 3,4,3,3
+24825244,Belgrade,ADSL,Provider 3,3,3,3
+24849601,Vojvodina,ADSL,Provider 3,5,2,2
+24838541,Vojvodina,ADSL,Provider 3,5,3,3
+24850211,Vojvodina,ADSL,Provider 3,5,3,3
+24853053,Vojvodina,ADSL,Provider 3,3,2,1
+24853773,Vojvodina,ADSL,Provider 3,3,2,2
+24838640,Vojvodina,ADSL,Provider 3,4,2,3
+24809547,Central Serbia,ADSL,Provider 3,3,3,3
+24815232,Central Serbia,ADSL,Provider 3,3,2,2
+24812678,Central Serbia,ADSL,Provider 3,1,1,1
+24811835,Central Serbia,ADSL,Provider 3,3,2,2
+24831985,Central Serbia,ADSL,Provider 3,4,3,3
+24832808,Central Serbia,ADSL,Provider 3,5,3,3
+24815458,Central Serbia,ADSL,Provider 3,3,2,1
+24854103,Vojvodina,ADSL,Provider 3,5,3,3
+24815434,Central Serbia,ADSL,Provider 3,4,3,3
+24832263,Central Serbia,ADSL,Provider 3,5,3,3
+24853469,Vojvodina,ADSL,Provider 3,4,3,2
+24854094,Vojvodina,ADSL,Provider 3,5,2,2
+24854797,Vojvodina,ADSL,Provider 3,4,2,2
+24849837,Vojvodina,ADSL,Provider 3,4,3,2
+24812343,Central Serbia,ADSL,Provider 3,4,3,3
+24817762,Central Serbia,ADSL,Provider 3,5,3,3
+24817466,Central Serbia,ADSL,Provider 3,3,2,2
+24833590,Central Serbia,ADSL,Provider 3,5,3,3
+24832473,Central Serbia,ADSL,Provider 3,5,2,2
+24832484,Central Serbia,ADSL,Provider 3,4,2,3
+24831731,Central Serbia,ADSL,Provider 3,4,2,2
+24813670,Central Serbia,ADSL,Provider 3,4,2,3
+24828618,Belgrade,ADSL,Provider 3,4,2,2
+24823947,Belgrade,ADSL,Provider 3,4,3,3
+24831784,Central Serbia,ADSL,Provider 3,3,2,2
+24853781,Vojvodina,ADSL,Provider 3,4,2,2
+24833579,Central Serbia,ADSL,Provider 3,4,2,2
+24822859,Belgrade,ADSL,Provider 3,5,3,3
+24815514,Central Serbia,ADSL,Provider 3,3,2,2
+24838744,Vojvodina,ADSL,Provider 3,5,3,2
+24809276,Central Serbia,ADSL,Provider 3,3,2,2
+24854050,Vojvodina,ADSL,Provider 3,4,3,3
+24811306,Central Serbia,ADSL,Provider 3,5,3,3
+24809322,Central Serbia,ADSL,Provider 3,4,2,2
+24851505,Vojvodina,ADSL,Provider 3,4,3,3
+24809765,Central Serbia,ADSL,Provider 3,5,3,2
+24817606,Central Serbia,ADSL,Provider 3,4,3,2
+24825979,Belgrade,ADSL,Provider 3,1,1,2
+24819647,Belgrade,ADSL,Provider 3,3,2,1
+24838753,Vojvodina,ADSL,Provider 3,5,3,3
+24854591,Vojvodina,ADSL,Provider 3,5,3,3
+24839989,Vojvodina,ADSL,Provider 3,4,3,3
+24848628,Vojvodina,ADSL,Provider 3,5,3,3
+24831754,Central Serbia,ADSL,Provider 3,5,3,3
+24806683,Central Serbia,ADSL,Provider 3,4,2,2
+24814145,Central Serbia,ADSL,Provider 3,5,2,3
+24838298,Vojvodina,ADSL,Provider 3,4,2,2
+24825409,Belgrade,ADSL,Provider 3,4,3,2
+24817742,Central Serbia,ADSL,Provider 3,4,2,3
+24832178,Central Serbia,ADSL,Provider 3,4,2,2
+24849069,Vojvodina,ADSL,Provider 3,5,3,3
+24826029,Belgrade,ADSL,Provider 3,4,2,2
+24806658,Central Serbia,ADSL,Provider 3,5,3,3
+24809391,Central Serbia,ADSL,Provider 3,5,3,2
+24815619,Central Serbia,ADSL,Provider 3,3,2,3
+24817080,Central Serbia,ADSL,Provider 3,4,3,3
+24814603,Central Serbia,ADSL,Provider 3,4,1,3
+24854042,Vojvodina,ADSL,Provider 3,4,2,2
+24812661,Central Serbia,ADSL,Provider 3,3,1,3
+24839371,Vojvodina,ADSL,Provider 3,5,3,3
+24815091,Central Serbia,ADSL,Provider 3,4,3,2
+24810996,Central Serbia,ADSL,Provider 3,4,2,2
+24809460,Central Serbia,ADSL,Provider 3,4,3,3
+24832403,Central Serbia,ADSL,Provider 3,3,2,2
+24807546,Belgrade,ADSL,Provider 3,3,1,2
+24815092,Central Serbia,ADSL,Provider 3,4,1,1
+24833712,Central Serbia,ADSL,Provider 3,5,3,3
+24814969,Central Serbia,ADSL,Provider 3,4,2,2
+24815380,Central Serbia,ADSL,Provider 3,5,3,3
+24815271,Central Serbia,ADSL,Provider 3,4,2,2
+24854027,Vojvodina,ADSL,Provider 3,5,3,3
+24821271,Belgrade,ADSL,Provider 3,5,3,2
+24823992,Belgrade,ADSL,Provider 3,4,2,2
+24809813,Central Serbia,ADSL,Provider 3,3,3,2
+24812440,Central Serbia,ADSL,Provider 3,3,1,1
+24814381,Central Serbia,ADSL,Provider 3,3,2,2
+24809512,Central Serbia,ADSL,Provider 3,4,2,2
+24813428,Central Serbia,ADSL,Provider 3,5,3,3
+24813033,Central Serbia,ADSL,Provider 3,3,1,2
+24829671,Belgrade,ADSL,Provider 3,4,2,3
+24852811,Vojvodina,ADSL,Provider 3,4,3,2
+24833453,Central Serbia,ADSL,Provider 3,4,2,2
+24831627,Belgrade,ADSL,Provider 3,3,2,2
+24815441,Central Serbia,ADSL,Provider 3,4,2,2
+24807636,Belgrade,ADSL,Provider 3,3,2,2
+24817207,Central Serbia,ADSL,Provider 3,3,2,2
+24812552,Central Serbia,Cable,Provider 2,5,3,3
+24817355,Central Serbia,Cable,Provider 2,3,2,1
+24817102,Central Serbia,Cable,Provider 2,4,2,2
+24817845,Central Serbia,Cable,Provider 2,4,2,2
+24817676,Central Serbia,Cable,Provider 2,1,2,2
+24817511,Central Serbia,Cable,Provider 2,4,3,3
+24817821,Central Serbia,Cable,Provider 2,4,2,2
+24817843,Central Serbia,Cable,Provider 2,5,3,3
+24834995,Central Serbia,ADSL,Provider 2,3,1,2
