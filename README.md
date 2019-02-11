@@ -1,4 +1,4 @@
-# Tableau 2019.x Cookbok 
+# Tableau 2019.x Cookbook 
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/tableau-2019x-cookbook?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="" height="256px" align="right"></a>
 
@@ -19,12 +19,7 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1-78
 alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter02.
-
-The code will look like the following:
-```
-0
-```
+All of the code is organized into folders. For example, Chapter 2.
 
 **Following is what you need for this book:**
 Tableau 2019.x Cookbook is for data analysts, data engineers, BI developers, and users who are looking for quick solutions to common and not-so-common problems faced while using Tableau products. Put each recipe into practice by bringing the latest offerings of Tableau 2019.x to solve real-world analytics and business intelligence challenges. Some understanding of BI concepts and Tableau is required.
