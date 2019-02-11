@@ -35,9 +35,9 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/9781789533385_ColorImages.pdf).
 
 ### Related products
-*  [[Getting Started with Tableau 2018.x]]() [[Amazon]](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-tableau-2018x)
+*  [[Getting Started with Tableau 2018.x]]() [[Amazon]](https://www.amazon.in/Getting-Started-Tableau-2018-x-visualization/dp/1788838688/ref=sr_1_1?ie=UTF8&qid=1549869846&sr=8-1&keywords=Getting+Started+with+Tableau+2018.x)
 
-*  [[Advanced Analytics with R and Tableau]]() [[Amazon]](https://www.packtpub.com/big-data-and-business-intelligence/advanced-analytics-r-and-tableau)
+*  [[Advanced Analytics with R and Tableau]]() [[Amazon]](https://www.amazon.in/Advanced-Analytics-Tableau-Jen-Stirrup/dp/1786460114/ref=sr_1_1?ie=UTF8&qid=1549869924&sr=8-1&keywords=Advanced+Analytics+with+R+and+Tableau)
 
 
 ## Get to Know the Author
