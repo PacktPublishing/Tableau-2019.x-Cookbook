@@ -7,10 +7,11 @@ This is the code repository for [](https://www.packtpub.com/big-data-and-busines
 **Over 115 recipes to build end-to-end analytical solutions using Tableau**
 
 ## What is this book about?
-0
+Tableau has been one of the most popular business intelligence solutions in recent times, thanks to its powerful and interactive data visualization capabilities. Tableau 2019.x Cookbook is full of useful recipes from industry experts, who will help you master Tableau skills and learn each aspect of Tableau's ecosystem.
 
-This book covers the following exciting features:
+This book is enriched with features such as Tableau extracts, Tableau advanced calculations, geospatial analysis, and building dashboards. It will guide you with exciting data manipulation, storytelling, advanced filtering, expert visualization, and forecasting techniques using real-world examples. From basic functionalities of Tableau to complex deployment on Linux, you will cover it all. Moreover, you will learn advanced features of Tableau using R, Python, and various APIs. You will learn how to prepare data for analysis using the latest Tableau Prep. In the concluding chapters, you will learn how Tableau fits the modern world of analytics and works with modern data platforms such as Snowflake and Redshift. In addition, you will learn about the best practices of integrating Tableau with ETL using Matillion ETL.
 
+By the end of the book, you will be ready to tackle business intelligence challenges using Tableau's feature.
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1-789-53338-4) today!
 
@@ -35,24 +36,14 @@ With the following software and hardware list you can run all code files present
 | All | R 3.5 (latest version) | Windows, Mac OS X, and Linux (Any) |
 | All | Tableau 2019.x | Windows, Mac OS X, and Linux (Any) |
 | 10 to 16 | AWS  | Windows, Mac OS X, and Linux (Any) |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/9781789533385_ColorImages.pdf).
 
 ### Related products
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
+*  [[Packt]](Getting Started with Tableau 2018.x) [[Amazon]](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-tableau-2018x)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
+*  [[Packt]](Advanced Analytics with R and Tableau) [[Amazon]](https://www.packtpub.com/big-data-and-business-intelligence/advanced-analytics-r-and-tableau)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
 
 ## Get to Know the Author
 **Dmitry Anoshin**
@@ -69,18 +60,6 @@ Teodora Matic is a data analyst with a strong background in statistics and more 
 Tania Lincoln has over 12 years of development experience in BI and data analytics domain. She has a strong SQL, visualization, and analytics skill set and has demonstrated the ability to mentor others on new technologies and process improvements. She is also experienced in taking a product from inception to launch and managing post-launch growth.
 
 ****
-0
-
-## Other books by the authors
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
