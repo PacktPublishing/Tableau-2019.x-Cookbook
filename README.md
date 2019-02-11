@@ -55,7 +55,7 @@ Teodora Matic is a data analyst with a strong background in statistics and more 
 Tania Lincoln has over 12 years of development experience in BI and data analytics domain. She has a strong SQL, visualization, and analytics skill set and has demonstrated the ability to mentor others on new technologies and process improvements. She is also experienced in taking a product from inception to launch and managing post-launch growth.
 
 **Dmitrii Shirokov**
-Dmitrii Shirokov has over 11 years of design and development of data-driven solutions. He has been using Tableau since 2011 in the majority of analytics projects. His expertise covers building data warehouse and sophisticated analytical solutions. Currently, he works as a solutions architect at Rock Your Data consulting company. Previously he was big data architect at Sberbank and also worked as a professional service consultant at Teradata
+Dmitrii Shirokov has over 11 years of design and development of data-driven solutions. He has been using Tableau since 2011 in the majority of analytics projects. His expertise covers building data warehouse and sophisticated analytical solutions. Currently, he works as a solutions architect at Rock Your Data consulting company. Previously he was big data architect at Sberbank and also worked as a professional service consultant at Teradata.
 
 ****
 
