@@ -1,4 +1,4 @@
-# 
+# Tableau 2019.x Cookbok 
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/tableau-2019x-cookbook?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="" height="256px" align="right"></a>
 
@@ -40,9 +40,9 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/9781789533385_ColorImages.pdf).
 
 ### Related products
-*  [[Packt]](Getting Started with Tableau 2018.x) [[Amazon]](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-tableau-2018x)
+*  [[Getting Started with Tableau 2018.x]]() [[Amazon]](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-tableau-2018x)
 
-*  [[Packt]](Advanced Analytics with R and Tableau) [[Amazon]](https://www.packtpub.com/big-data-and-business-intelligence/advanced-analytics-r-and-tableau)
+*  [[Advanced Analytics with R and Tableau]]() [[Amazon]](https://www.packtpub.com/big-data-and-business-intelligence/advanced-analytics-r-and-tableau)
 
 
 ## Get to Know the Author
