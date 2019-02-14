@@ -1,8 +1,8 @@
 # Tableau 2019.x Cookbook 
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/tableau-2019x-cookbook?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/tableau-2019x-cookbook?utm_source=github&utm_medium=repository&utm_campaign=">  <img src="https://www.packtpub.com/sites/default/files/9781789533385_New.png" alt="Tableau 2019.x Cookbook" height="256px" align="right"></a>
 
-This is the code repository for [](https://www.packtpub.com/big-data-and-business-intelligence/tableau-2019x-cookbook?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
+This is the code repository for [Tableau 2019.x Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/tableau-2019x-cookbook?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
 
 **Over 115 recipes to build end-to-end analytical solutions using Tableau**
 
@@ -40,22 +40,22 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 *  [[Advanced Analytics with R and Tableau]]() [[Amazon]](https://www.amazon.in/Advanced-Analytics-Tableau-Jen-Stirrup/dp/1786460114/ref=sr_1_1?ie=UTF8&qid=1549869924&sr=8-1&keywords=Advanced+Analytics+with+R+and+Tableau)
 
 
-## Get to Know the Author
+## Get to Know the Authors
 **Dmitry Anoshin**
-Dmitry Anoshin is an expert in analytics area with 10 years of experience. Start using Tableau as primary BI tool in 2011 as a BI consultant in Teradata. He is certified with both Tableau Desktop and Server. He leads probably the biggest Tableau user community with more than 2000 active users. This community has 2-3 Tableau talks every month leading by the top Tableau experts, Tableau Zen Masters, Viz Champions, and so on. In addition, Dmitry previously has written three books with Packt and reviewed more than seven books. Finally, he is an active speaker at Data conferences and helping to adopt Cloud Analytics.
+is an expert in analytics area with 10 years of experience. Start using Tableau as primary BI tool in 2011 as a BI consultant in Teradata. He is certified with both Tableau Desktop and Server. He leads probably the biggest Tableau user community with more than 2000 active users. This community has 2-3 Tableau talks every month leading by the top Tableau experts, Tableau Zen Masters, Viz Champions, and so on. In addition, Dmitry previously has written three books with Packt and reviewed more than seven books. Finally, he is an active speaker at Data conferences and helping to adopt Cloud Analytics.
 
 **Slaven Bogdanovic**
-Slaven Bogdanovic has more than 10 years of experience in data analysis and reporting within both business and academic field. His expertise covers complex statistical analysis and insight communication. He has been using Tableau since 2013. Currently, he works as a BI/big data developer at NCR Corporation. Previously, he was a senior research executive at Ipsos. Also, Slaven is a PhD candidate and a member of the Laboratory for Research of Individual Differences at the University of Belgrade. In addition, Slaven is the author of six articles published in academic and professional journals.
+has more than 10 years of experience in data analysis and reporting within both business and academic field. His expertise covers complex statistical analysis and insight communication. He has been using Tableau since 2013. Currently, he works as a BI/big data developer at NCR Corporation. Previously, he was a senior research executive at Ipsos. Also, Slaven is a PhD candidate and a member of the Laboratory for Research of Individual Differences at the University of Belgrade. In addition, Slaven is the author of six articles published in academic and professional journals.
 
 
 **Teodora Matic**
-Teodora Matic is a data analyst with a strong background in statistics and more than 5 years of experience in data analytics and reporting. She has been using Tableau since 2014. She has been working as a project manager and data analyst for leading market research companies, such as Ipsos and EyeSee Research, levering the power of Tableau to bring business insights to clients. She currently does data analysis and reporting at the International Committee of the Red Cross.
+is a data analyst with a strong background in statistics and more than 5 years of experience in data analytics and reporting. She has been using Tableau since 2014. She has been working as a project manager and data analyst for leading market research companies, such as Ipsos and EyeSee Research, levering the power of Tableau to bring business insights to clients. She currently does data analysis and reporting at the International Committee of the Red Cross.
 
 **Tania Lincoln**
-Tania Lincoln has over 12 years of development experience in BI and data analytics domain. She has a strong SQL, visualization, and analytics skill set and has demonstrated the ability to mentor others on new technologies and process improvements. She is also experienced in taking a product from inception to launch and managing post-launch growth.
+has over 12 years of development experience in BI and data analytics domain. She has a strong SQL, visualization, and analytics skill set and has demonstrated the ability to mentor others on new technologies and process improvements. She is also experienced in taking a product from inception to launch and managing post-launch growth.
 
 **Dmitrii Shirokov**
-Dmitrii Shirokov has over 11 years of design and development of data-driven solutions. He has been using Tableau since 2011 in the majority of analytics projects. His expertise covers building data warehouse and sophisticated analytical solutions. Currently, he works as a solutions architect at Rock Your Data consulting company. Previously he was big data architect at Sberbank and also worked as a professional service consultant at Teradata.
+has over 11 years of design and development of data-driven solutions. He has been using Tableau since 2011 in the majority of analytics projects. His expertise covers building data warehouse and sophisticated analytical solutions. Currently, he works as a solutions architect at Rock Your Data consulting company. Previously he was big data architect at Sberbank and also worked as a professional service consultant at Teradata.
 
 ****
 
