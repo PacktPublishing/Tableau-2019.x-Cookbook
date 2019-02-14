@@ -1,0 +1,2391 @@
+﻿id,Age,Gender,Income,Education,FamilyStatus,CurrentCar,AgeOfCurrentCar,MunicipalityType,FuturePurchase
+63415,44,Female,52001,University,Divorced,Purchased as used,2011,Urban,Used
+174315,40,Male,11501,University,Divorced,Purchased as used,2011,Urban,Used
+39338,35,Female,27001,University,Divorced,Purchased as used,2005,Urban,Used
+310861,48,Female,26750,University,Divorced,Purchased as used,2004,Rural,Used
+75147,42,Female,30000.5,University,Divorced,Purchased as used,2004,Urban,Used
+67392,46,Female,69001,University,Divorced,Purchased as used,2004,Urban,Used
+131476,46,Female,52001,University,Divorced,Purchased as a new,2004,Urban,Used
+195761,45,Female,33001,University,Divorced,Purchased as used,2003,Urban,Used
+307508,42,Male,45001,University,Divorced,Purchased as used,2003,Urban,Used
+117238,37,Female,39001,University,Divorced,Purchased as used,2002,Urban,Used
+118264,44,Female,45001,University,Divorced,Purchased as used,2002,Urban,Used
+44169,44,Female,93001,University,Divorced,Purchased as used,2002,Urban,Used
+183742,36,Male,33001,University,Divorced,Purchased as used,2001,Urban,Used
+37079,47,Male,53500,University,Divorced,Purchased as used,2001,Urban,Used
+136697,45,Female,80001,University,Divorced,Purchased as used,2000,Urban,Used
+193306,26,Female,17250.25,University,Divorced,Purchased as used,1999.33333333333,Rural,Used
+187045,34,Female,60001,University,Divorced,Purchased as used,1999,Urban,Used
+131744,35,Male,27001,University,Divorced,Purchased as used,1999,Rural,Used
+307112,45,Male,34500.5,University,Divorced,Purchased as used,1999,Urban,Used
+117326,49,Female,52001,University,Divorced,Purchased as used,1997,Urban,Used
+307047,36,Male,31000.3333333333,University,Divorced,Purchased as a new,1996,Urban,Used
+117651,48,Female,52001,University,Divorced,Purchased as used,1991,Urban,Used
+260878,43,Female,39001,University,Divorced,Purchased as used,1989,Urban,Used
+183932,33,Female,40000.5,University,Divorced,Purchased as used,1989,Urban,Used
+117755,38,Female,60001,University,Divorced,Purchased as used,1975,Urban,Used
+306828,39,Female,93001,College,Divorced,Purchased as used,2006,Urban,Used
+154107,43,Female,46500.5,College,Divorced,Purchased as used,2002,Urban,Used
+193427,37,Male,22500.5,College,Divorced,Purchased as used,1990,Urban,Used
+193681,37,Female,7001,College,Divorced,Purchased as used,1989,Rural,Used
+37177,35,Female,26667,Unfinished university,Divorced,Purchased as used,2005,Urban,Used
+306842,46,Female,20000.3333333333,Unfinished university,Divorced,Purchased as used,2000,Urban,Used
+159116,30,Male,14501,Unfinished university,Divorced,Purchased as used,1998.66666666667,Urban,Used
+131555,36,Female,13000.3333333333,Unfinished university,Divorced,Purchased as used,1989,Rural,Used
+131903,37,Female,33001,High school,Divorced,Purchased as used,2007,Rural,Used
+174363,44,Male,27001,High school,Divorced,Purchased as used,2006,Urban,Used
+141301,38,Male,30000.5,High school,Divorced,Purchased as used,2006,Urban,Used
+310806,38,Female,3500.5,High school,Divorced,Purchased as used,2005,Urban,Used
+178192,44,Male,22001,High school,Divorced,Purchased as used,2005,Rural,Used
+188212,30,Male,26000.5,High school,Divorced,Purchased as used,2005,Urban,Used
+117258,43,Male,13000.25,High school,Divorced,Purchased as a new,2003,Urban,Used
+310661,39,Female,22001,High school,Divorced,Purchased as used,2002,Rural,Used
+267435,44,Female,69001,High school,Divorced,Purchased as used,2002,Urban,Used
+150617,47,Male,53500,High school,Divorced,Purchased as used,2002,Urban,Used
+193400,40,Male,18001,High school,Divorced,Purchased as used,2000,Urban,Used
+306881,33,Female,11501,High school,Divorced,Purchased as used,1998,Urban,Used
+193388,46,Male,33001,High school,Divorced,Purchased as used,1995,Urban,Used
+252374,48,Male,45001,High school,Divorced,Purchased as used,1994,Urban,Used
+184059,30,Female,23000.3333333333,High school,Divorced,Purchased as used,1991,Urban,Used
+306773,37,Male,22001,High school,Divorced,Purchased as used,1990,Urban,Used
+234929,36,Female,31000.3333333333,High school,Divorced,Purchased as used,1989,Urban,Used
+193346,37,Male,3000.33333333333,High school,Divorced,Purchased as used,1989,Urban,Used
+117971,47,Male,30000.5,High school,Divorced,Purchased as used,1986,Urban,Used
+223424,32,Male,34500.5,Elementary school,Divorced,Purchased as used,2004,Urban,Used
+145995,35,Male,3500.5,No school,Divorced,Purchased as a new,1990.5,Urban,Used
+131690,48,Male,53500,University,Merried,Purchased as a new,2012,Urban,Used
+196525,29,Male,30000.5,University,Merried,Purchased as used,2010,Urban,Used
+117291,27,Male,40000.5,University,Merried,Purchased as used,2010,Urban,Used
+117901,49,Female,53500,University,Merried,Purchased as a new,2009,Urban,Used
+55560,29,Female,53500,University,Merried,Purchased as used,2008,Urban,Used
+140793,49,Male,40000.5,University,Merried,Purchased as a new,2008,Urban,Used
+164224,27,Female,34500.5,University,Merried,Purchased as used,2007,Urban,Used
+67952,37,Female,46500.5,University,Merried,Purchased as used,2007,Urban,Used
+267419,38,Female,46500.5,University,Merried,Purchased as used,2007,Urban,Used
+159833,25,Female,53500,University,Merried,Purchased as used,2007,Urban,Used
+193585,42,Female,93001,University,Merried,Purchased as used,2007,Urban,Used
+39230,25,Female,107000,University,Merried,Purchased as used,2007,Urban,Used
+277007,44,Female,34500.5,University,Merried,Purchased as a new,2007,Urban,Used
+163399,26,Female,5750.5,University,Merried,Purchased as used,2006,Urban,Used
+241376,32,Female,26000.5,University,Merried,Purchased as used,2006,Urban,Used
+149199,38,Female,30000.5,University,Merried,Purchased as used,2006,Urban,Used
+140949,44,Female,46500.5,University,Merried,Purchased as used,2006,Urban,Used
+63381,33,Female,53500,University,Merried,Purchased as used,2006,Urban,Used
+158819,40,Female,30000.5,University,Merried,Purchased as a new,2006,Urban,Used
+177972,38,Female,46500.5,University,Merried,Purchased as a new,2006,Urban,Used
+307330,41,Male,53500,University,Merried,Purchased as used,2006,Urban,Used
+183747,38,Male,53500,University,Merried,Purchased as used,2006,Urban,Used
+33590,35,Male,93001,University,Merried,Purchased as used,2006,Urban,Used
+123051,34,Male,93001,University,Merried,Purchased as used,2006,Urban,Used
+145193,27,Female,34500.5,University,Merried,Purchased as used,2005.5,Urban,Used
+131515,34,Female,46500.5,University,Merried,Purchased as a new,2005.5,Urban,Used
+141817,29,Male,53500,University,Merried,Purchased as used,2005.5,Urban,Used
+144730,38,Male,34500.5,University,Merried,Purchased as a new,2005.5,Urban,Used
+136542,26,Female,93001,University,Merried,Purchased as used,2005.33333333333,Urban,Used
+131613,31,Male,21400,University,Merried,Purchased as a new,2005.33333333333,Rural,Used
+154560,30,Female,26000.5,University,Merried,Purchased as used,2005,Urban,Used
+261050,28,Female,34500.5,University,Merried,Purchased as used,2005,Urban,Used
+183940,42,Female,40000.5,University,Merried,Purchased as used,2005,Urban,Used
+306642,45,Female,40000.5,University,Merried,Purchased as used,2005,Urban,Used
+163735,42,Female,40000.5,University,Merried,Purchased as used,2005,Urban,Used
+245948,32,Female,46500.5,University,Merried,Purchased as used,2005,Rural,Used
+276996,30,Female,52001,University,Merried,Purchased as used,2005,Urban,Used
+224592,48,Female,53500,University,Merried,Purchased as used,2005,Urban,Used
+146909,34,Female,53500,University,Merried,Purchased as used,2005,Urban,Used
+258973,49,Female,46500.5,University,Merried,Purchased as a new,2005,Urban,Used
+184072,42,Male,9000.5,University,Merried,Purchased as used,2005,Urban,Used
+278846,41,Male,14501,University,Merried,Purchased as used,2005,Urban,Used
+310802,31,Male,40000.5,University,Merried,Purchased as used,2005,Urban,Used
+145145,47,Male,46500.5,University,Merried,Purchased as used,2005,Urban,Used
+37082,34,Male,53500,University,Merried,Purchased as used,2005,Urban,Used
+42901,33,Male,53500,University,Merried,Purchased as used,2005,Urban,Used
+307108,37,Male,53500,University,Merried,Purchased as used,2005,Urban,Used
+58262,37,Male,69001,University,Merried,Purchased as used,2005,Urban,Used
+176135,31,Female,40000.5,University,Merried,Purchased as used,2004.5,Urban,Used
+183936,48,Female,53500,University,Merried,Purchased as used,2004.5,Urban,Used
+132065,29,Female,5750.5,University,Merried,Purchased as used,2004,Urban,Used
+163292,44,Female,26000.5,University,Merried,Purchased as used,2004,Urban,Used
+166903,41,Female,40000.5,University,Merried,Purchased as used,2004,Urban,Used
+174350,32,Female,46500.5,University,Merried,Purchased as used,2004,Urban,Used
+117833,26,Female,53500,University,Merried,Purchased as used,2004,Urban,Used
+183887,28,Female,53500,University,Merried,Purchased as used,2004,Urban,Used
+175407,48,Female,53500,University,Merried,Purchased as used,2004,Urban,Used
+117556,32,Female,60001,University,Merried,Purchased as used,2004,Urban,Used
+133745,34,Male,21400,University,Merried,Purchased as used,2004,Urban,Used
+39292,43,Male,40000.5,University,Merried,Purchased as used,2004,Urban,Used
+187124,37,Male,45001,University,Merried,Purchased as used,2004,Urban,Used
+37158,34,Male,46500.5,University,Merried,Purchased as used,2004,Urban,Used
+306638,36,Male,46500.5,University,Merried,Purchased as used,2004,Urban,Used
+310022,41,Male,46500.5,University,Merried,Purchased as used,2004,Urban,Used
+307273,42,Male,53500,University,Merried,Purchased as used,2004,Urban,Used
+43522,31,Male,53500,University,Merried,Purchased as used,2004,Urban,Used
+63592,37,Male,93001,University,Merried,Purchased as used,2004,Urban,Used
+33019,30,Male,107000,University,Merried,Purchased as used,2004,Urban,Used
+44019,37,Female,45001,University,Merried,Purchased as used,2003.5,Urban,Used
+131523,27,Female,53500,University,Merried,Purchased as used,2003.5,Urban,Used
+188352,23,Female,30000.5,University,Merried,Purchased as a new,2003.5,Urban,Used
+306877,42,Female,53500,University,Merried,Purchased as a new,2003.5,Urban,Used
+159139,33,Female,13500.5,University,Merried,Purchased as used,2003,Urban,Used
+258959,29,Female,23000.3333333333,University,Merried,Purchased as used,2003,Rural,Used
+307219,28,Female,26667,University,Merried,Purchased as used,2003,Urban,Used
+306865,32,Female,40000.5,University,Merried,Purchased as used,2003,Urban,Used
+117705,49,Female,46500.5,University,Merried,Purchased as used,2003,Urban,Used
+131861,28,Female,46500.5,University,Merried,Purchased as used,2003,Urban,Used
+39320,38,Female,46500.5,University,Merried,Purchased as used,2003,Urban,Used
+188448,45,Female,53500,University,Merried,Purchased as used,2003,Urban,Used
+117908,41,Female,53500,University,Merried,Purchased as used,2003,Urban,Used
+157474,34,Female,53500,University,Merried,Purchased as used,2003,Rural,Used
+224236,28,Female,69001,University,Merried,Purchased as used,2003,Urban,Used
+273591,34,Female,80001,University,Merried,Purchased as used,2003,Urban,Used
+310775,41,Female,107000,University,Merried,Purchased as used,2003,Urban,Used
+141308,42,Female,34500.5,University,Merried,Purchased as a new,2003,Rural,Used
+131646,27,Male,26750,University,Merried,Purchased as used,2003,Urban,Used
+226913,38,Male,34500.5,University,Merried,Purchased as used,2003,Urban,Used
+141640,42,Male,35666.6666666667,University,Merried,Purchased as used,2003,Rural,Used
+144702,41,Male,40000.5,University,Merried,Purchased as used,2003,Urban,Used
+307010,37,Male,40000.5,University,Merried,Purchased as used,2003,Urban,Used
+150302,41,Male,46500.5,University,Merried,Purchased as used,2003,Urban,Used
+307188,41,Male,46500.5,University,Merried,Purchased as used,2003,Urban,Used
+133836,38,Male,52001,University,Merried,Purchased as used,2003,Urban,Used
+197025,34,Male,53500,University,Merried,Purchased as used,2003,Urban,Used
+223581,37,Male,53500,University,Merried,Purchased as used,2003,Urban,Used
+261096,45,Female,34500.5,University,Merried,Purchased as used,2002.5,Urban,Used
+157451,29,Female,27001,University,Merried,Purchased as used,2002,Urban,Used
+239554,29,Female,30000.5,University,Merried,Purchased as used,2002,Urban,Used
+284238,42,Female,33001,University,Merried,Purchased as used,2002,Urban,Used
+272025,38,Female,33001,University,Merried,Purchased as used,2002,Urban,Used
+195819,41,Female,34500.5,University,Merried,Purchased as used,2002,Urban,Used
+307471,44,Female,40000.5,University,Merried,Purchased as used,2002,Urban,Used
+307292,44,Female,40000.5,University,Merried,Purchased as used,2002,Urban,Used
+117849,35,Female,40000.5,University,Merried,Purchased as used,2002,Urban,Used
+188461,29,Female,40000.5,University,Merried,Purchased as used,2002,Urban,Used
+307458,27,Female,45001,University,Merried,Purchased as used,2002,Urban,Used
+140829,26,Female,46500.5,University,Merried,Purchased as used,2002,Urban,Used
+260868,38,Female,46500.5,University,Merried,Purchased as used,2002,Urban,Used
+278851,49,Female,46500.5,University,Merried,Purchased as used,2002,Urban,Used
+306496,34,Female,46500.5,University,Merried,Purchased as used,2002,Urban,Used
+60167,32,Female,46500.5,University,Merried,Purchased as used,2002,Urban,Used
+186923,29,Female,52001,University,Merried,Purchased as used,2002,Urban,Used
+306794,36,Female,53500,University,Merried,Purchased as used,2002,Urban,Used
+39284,28,Female,53500,University,Merried,Purchased as used,2002,Urban,Used
+122968,36,Female,53500,University,Merried,Purchased as used,2002,Urban,Used
+141657,47,Female,53500,University,Merried,Purchased as used,2002,Urban,Used
+160021,28,Female,53500,University,Merried,Purchased as used,2002,Urban,Used
+193654,38,Female,69001,University,Merried,Purchased as used,2002,Urban,Used
+67396,40,Female,107000,University,Merried,Purchased as used,2002,Urban,Used
+259271,37,Female,107000,University,Merried,Purchased as used,2002,Urban,Used
+246023,32,Male,7001,University,Merried,Purchased as used,2002,Urban,Used
+306965,39,Male,19500.5,University,Merried,Purchased as used,2002,Urban,Used
+306452,33,Male,26000.5,University,Merried,Purchased as used,2002,Urban,Used
+193632,33,Male,30000.5,University,Merried,Purchased as used,2002,Urban,Used
+131830,34,Male,33001,University,Merried,Purchased as used,2002,Urban,Used
+193520,36,Male,40000.5,University,Merried,Purchased as used,2002,Urban,Used
+57690,34,Male,45001,University,Merried,Purchased as used,2002,Urban,Used
+117329,31,Male,46500.5,University,Merried,Purchased as used,2002,Urban,Used
+183750,48,Male,46500.5,University,Merried,Purchased as used,2002,Urban,Used
+32998,36,Male,46500.5,University,Merried,Purchased as used,2002,Urban,Used
+131743,33,Male,46500.5,University,Merried,Purchased as used,2002,Urban,Used
+174413,46,Male,53500,University,Merried,Purchased as used,2002,Urban,Used
+117516,42,Male,53500,University,Merried,Purchased as used,2002,Urban,Used
+252426,36,Male,53500,University,Merried,Purchased as used,2002,Urban,Used
+37051,32,Male,53500,University,Merried,Purchased as used,2002,Urban,Used
+131936,34,Male,35666.6666666667,University,Merried,Purchased as a new,2002,Urban,Used
+46357,39,Male,53500,University,Merried,Purchased as a new,2002,Urban,Used
+150618,44,Female,34500.5,University,Merried,Purchased as used,2001.5,Urban,Used
+140911,30,Female,53500,University,Merried,Purchased as used,2001.5,Rural,Used
+174800,37,Male,34500.5,University,Merried,Purchased as a new,2001.5,Urban,Used
+131714,32,Female,5750.5,University,Merried,Purchased as used,2001,Urban,Used
+260872,38,Female,19500.5,University,Merried,Purchased as used,2001,Urban,Used
+75172,32,Female,26000.5,University,Merried,Purchased as used,2001,Rural,Used
+272938,28,Female,30000.5,University,Merried,Purchased as used,2001,Urban,Used
+273604,27,Female,30000.5,University,Merried,Purchased as used,2001,Urban,Used
+193569,33,Female,31000.3333333333,University,Merried,Purchased as used,2001,Urban,Used
+196147,28,Female,34500.5,University,Merried,Purchased as used,2001,Urban,Used
+310766,43,Female,40000.5,University,Merried,Purchased as used,2001,Urban,Used
+174294,45,Female,40000.5,University,Merried,Purchased as used,2001,Urban,Used
+68286,31,Female,40000.5,University,Merried,Purchased as used,2001,Urban,Used
+37287,39,Female,40000.5,University,Merried,Purchased as used,2001,Urban,Used
+71297,35,Female,40000.5,University,Merried,Purchased as used,2001,Urban,Used
+174302,32,Female,46500.5,University,Merried,Purchased as used,2001,Urban,Used
+259339,29,Female,52001,University,Merried,Purchased as used,2001,Urban,Used
+118869,40,Female,53500,University,Merried,Purchased as used,2001,Urban,Used
+165295,33,Female,53500,University,Merried,Purchased as used,2001,Urban,Used
+193517,32,Female,53500,University,Merried,Purchased as used,2001,Urban,Used
+175876,31,Female,60001,University,Merried,Purchased as used,2001,Urban,Used
+117581,31,Female,69001,University,Merried,Purchased as used,2001,Urban,Used
+286842,41,Female,93001,University,Merried,Purchased as used,2001,Urban,Used
+37284,30,Male,26000.5,University,Merried,Purchased as used,2001,Rural,Used
+183866,27,Male,26750,University,Merried,Purchased as used,2001,Urban,Used
+117712,31,Male,46500.5,University,Merried,Purchased as used,2001,Urban,Used
+223587,37,Male,46500.5,University,Merried,Purchased as used,2001,Urban,Used
+141632,30,Male,52001,University,Merried,Purchased as used,2001,Urban,Used
+61553,33,Male,53500,University,Merried,Purchased as used,2001,Urban,Used
+310099,27,Male,53500,University,Merried,Purchased as used,2001,Urban,Used
+118470,32,Male,53500,University,Merried,Purchased as used,2001,Urban,Used
+118078,35,Male,60001,University,Merried,Purchased as used,2001,Urban,Used
+37282,44,Male,60001,University,Merried,Purchased as used,2001,Urban,Used
+175448,31,Male,107000,University,Merried,Purchased as used,2001,Urban,Used
+117444,27,Female,9001,University,Merried,Purchased as used,2000.75,Urban,Used
+193461,29,Female,3500.5,University,Merried,Purchased as used,2000,Urban,Used
+61493,38,Female,7001,University,Merried,Purchased as used,2000,Urban,Used
+196233,44,Female,30000.5,University,Merried,Purchased as used,2000,Urban,Used
+37147,30,Female,40000.5,University,Merried,Purchased as used,2000,Rural,Used
+118048,38,Female,45001,University,Merried,Purchased as used,2000,Urban,Used
+251719,40,Female,46500.5,University,Merried,Purchased as used,2000,Rural,Used
+117280,30,Female,46500.5,University,Merried,Purchased as used,2000,Urban,Used
+174325,30,Female,60001,University,Merried,Purchased as used,2000,Rural,Used
+118892,34,Female,69001,University,Merried,Purchased as used,2000,Urban,Used
+281239,28,Female,46500.5,University,Merried,Purchased as a new,2000,Urban,Used
+147495,31,Female,53500,University,Merried,Purchased as a new,2000,Urban,Used
+223620,25,Male,35666.6666666667,University,Merried,Purchased as used,2000,Urban,Used
+310782,27,Male,46500.5,University,Merried,Purchased as used,2000,Urban,Used
+278833,47,Male,30000.5,University,Merried,Purchased as used,1999.5,Rural,Used
+201709,27,Female,22500.5,University,Merried,Purchased as used,1999,Urban,Used
+201454,35,Male,20000.3333333333,University,Merried,Purchased as used,1999,Urban,Used
+68435,35,Male,34500.5,University,Merried,Purchased as used,1999,Urban,Used
+307213,38,Male,40000.5,University,Merried,Purchased as a new,1999,Urban,Used
+193521,26,Female,19500.5,University,Merried,Purchased as used,1998.5,Rural,Used
+176098,39,Female,20000.3333333333,University,Merried,Purchased as used,1998,Rural,Used
+136465,25,Female,27001,University,Merried,Purchased as used,1998,Urban,Used
+39212,43,Female,30000.5,University,Merried,Purchased as used,1998,Urban,Used
+58256,32,Female,39001,University,Merried,Purchased as used,1998,Urban,Used
+306727,30,Female,39001,University,Merried,Purchased as used,1998,Rural,Used
+273524,33,Female,40000.5,University,Merried,Purchased as used,1998,Urban,Used
+157204,30,Female,46500.5,University,Merried,Purchased as used,1998,Urban,Used
+117781,33,Female,52001,University,Merried,Purchased as used,1998,Urban,Used
+133574,31,Female,60001,University,Merried,Purchased as used,1998,Urban,Used
+58323,43,Male,3625.25,University,Merried,Purchased as used,1998,Urban,Used
+272047,29,Male,22001,University,Merried,Purchased as used,1998,Urban,Used
+67411,49,Male,33001,University,Merried,Purchased as used,1998,Urban,Used
+174862,35,Male,40000.5,University,Merried,Purchased as used,1998,Urban,Used
+310628,45,Male,53500,University,Merried,Purchased as used,1998,Urban,Used
+159110,38,Female,4500.5,University,Merried,Purchased as used,1997,Urban,Used
+307389,34,Female,22500.5,University,Merried,Purchased as used,1997,Rural,Used
+306896,28,Female,27001,University,Merried,Purchased as used,1997,Urban,Used
+188509,38,Female,45001,University,Merried,Purchased as used,1997,Urban,Used
+37187,31,Female,34500.5,University,Merried,Purchased as a new,1997,Urban,Used
+174830,43,Male,17333.6666666667,University,Merried,Purchased as used,1997,Urban,Used
+123017,30,Male,20000.3333333333,University,Merried,Purchased as used,1997,Urban,Used
+307092,30,Male,34500.5,University,Merried,Purchased as used,1997,Urban,Used
+148801,33,Male,46500.5,University,Merried,Purchased as used,1997,Urban,Used
+72157,33,Male,53500,University,Merried,Purchased as used,1997,Urban,Used
+72094,28,Female,13500.5,University,Merried,Purchased as used,1996.5,Urban,Used
+117321,31,Female,22001,University,Merried,Purchased as used,1996,Urban,Used
+193770,27,Female,40000.5,University,Merried,Purchased as used,1996,Urban,Used
+31105,35,Female,53500,University,Merried,Purchased as used,1996,Urban,Used
+307018,42,Female,53500,University,Merried,Purchased as used,1996,Urban,Used
+307203,37,Female,46500.5,University,Merried,Purchased as a new,1996,Urban,Used
+309972,42,Male,40000.5,University,Merried,Purchased as used,1996,Urban,Used
+141316,37,Male,34500.5,University,Merried,Purchased as used,1995.5,Rural,Used
+77134,36,Female,35666.6666666667,University,Merried,Purchased as used,1995,Urban,Used
+44074,41,Female,45001,University,Merried,Purchased as used,1995,Urban,Used
+37052,30,Female,53500,University,Merried,Purchased as used,1995,Urban,Used
+150486,27,Female,52001,University,Merried,Purchased as used,1994.5,Urban,Used
+174684,41,Male,31000.3333333333,University,Merried,Purchased as used,1994.5,Urban,Used
+178164,40,Male,53500,University,Merried,Purchased as used,1994.5,Urban,Used
+178242,30,Male,53500,University,Merried,Purchased as used,1994.5,Urban,Used
+133843,45,Male,53500,University,Merried,Purchased as used,1994.5,Urban,Used
+175196,25,Female,11501,University,Merried,Purchased as used,1994,Urban,Used
+118361,33,Female,16500.5,University,Merried,Purchased as used,1994,Urban,Used
+201739,40,Female,46500.5,University,Merried,Purchased as used,1994,Urban,Used
+310723,38,Male,7001,University,Merried,Purchased as a new,1994,Urban,Used
+167176,30,Female,46500.5,University,Merried,Purchased as used,1993.5,Urban,Used
+32652,34,Male,21400,University,Merried,Purchased as used,1993.5,Rural,Used
+310764,31,Male,40000.5,University,Merried,Purchased as used,1993,Rural,Used
+306757,30,Female,45001,University,Merried,Purchased as used,1992,Urban,Used
+259080,28,Female,45001,University,Merried,Purchased as used,1992,Urban,Used
+140947,27,Female,46500.5,University,Merried,Purchased as used,1992,Urban,Used
+141602,37,Male,33001,University,Merried,Purchased as used,1992,Urban,Used
+235949,35,Male,40000.5,University,Merried,Purchased as used,1992,Urban,Used
+157200,30,Female,7001,University,Merried,Purchased as used,1991,Urban,Used
+178206,32,Female,26000.5,University,Merried,Purchased as used,1991,Rural,Used
+193314,40,Female,31000.3333333333,University,Merried,Purchased as used,1991,Urban,Used
+159144,25,Female,33001,University,Merried,Purchased as used,1991,Urban,Used
+306938,32,Female,34500.5,University,Merried,Purchased as used,1991,Rural,Used
+33621,38,Female,34500.5,University,Merried,Purchased as used,1991,Urban,Used
+117739,30,Female,16500.5,University,Merried,Purchased as a new,1991,Rural,Used
+49205,31,Female,39001,University,Merried,Purchased as a new,1991,Urban,Used
+310009,41,Male,53500,University,Merried,Purchased as used,1991,Urban,Used
+174293,27,Female,22001,University,Merried,Purchased as used,1990,Urban,Used
+166077,33,Male,22500.5,University,Merried,Purchased as used,1990,Urban,Used
+163423,39,Female,34500.5,University,Merried,Purchased as used,1989,Urban,Used
+175363,37,Male,26000.5,University,Merried,Purchased as used,1989,Urban,Used
+57694,37,Male,26750,University,Merried,Purchased as used,1989,Urban,Used
+140859,44,Male,34500.5,University,Merried,Purchased as used,1989,Urban,Used
+142217,28,Male,17250.25,University,Merried,Purchased as a new,1988.5,Rural,Used
+246051,33,Female,22001,University,Merried,Purchased as used,1988,Urban,Used
+157714,35,Female,3500.5,University,Merried,Purchased as used,1987,Urban,Used
+306700,30,Female,30000.5,University,Merried,Purchased as used,1987,Urban,Used
+276786,29,Female,33001,University,Merried,Purchased as used,1987,Urban,Used
+118198,32,Female,34500.5,University,Merried,Purchased as used,1987,Rural,Used
+188335,36,Male,34500.5,University,Merried,Purchased as used,1987,Urban,Used
+144774,28,Female,22001,University,Merried,Purchased as used,1986,Urban,Used
+174287,28,Female,23250.25,University,Merried,Purchased as used,1986,Rural,Used
+252172,28,Female,26000.5,University,Merried,Purchased as used,1986,Urban,Used
+307120,31,Female,27001,University,Merried,Purchased as used,1986,Urban,Used
+140926,36,Female,34500.5,University,Merried,Purchased as used,1986,Rural,Used
+118829,38,Male,26000.5,University,Merried,Purchased as used,1986,Urban,Used
+150630,39,Male,34500.5,University,Merried,Purchased as used,1986,Urban,Used
+251628,49,Female,23000.3333333333,University,Merried,Purchased as used,1985,Urban,Used
+177745,32,Female,69001,University,Merried,Purchased as used,1985,Rural,Used
+193326,46,Male,26000.5,University,Merried,Purchased as a new,1985,Urban,Used
+306973,28,Female,45001,University,Merried,Purchased as used,1984,Urban,Used
+176123,33,Female,39001,University,Merried,Purchased as used,1980,Urban,Used
+44108,42,Female,40000.5,College,Merried,Purchased as used,2013,Urban,Used
+163107,31,Female,26000.5,College,Merried,Purchased as used,2009,Urban,Used
+118076,46,Male,53500,College,Merried,Purchased as used,2009,Urban,Used
+156933,37,Male,45001,College,Merried,Purchased as a new,2009,Urban,Used
+281161,46,Female,40000.5,College,Merried,Purchased as used,2008,Urban,Used
+193563,33,Female,40000.5,College,Merried,Purchased as a new,2008,Urban,Used
+306481,34,Female,53500,College,Merried,Purchased as used,2007,Urban,Used
+37224,45,Male,53500,College,Merried,Purchased as used,2007,Urban,Used
+153826,43,Male,30000.5,College,Merried,Purchased as a new,2007,Urban,Used
+276829,34,Female,30000.5,College,Merried,Purchased as used,2006,Urban,Used
+118343,31,Male,40000.5,College,Merried,Purchased as used,2006,Urban,Used
+176039,43,Male,53500,College,Merried,Purchased as used,2006,Urban,Used
+39249,40,Male,53500,College,Merried,Purchased as used,2006,Urban,Used
+186869,22,Male,30000.5,College,Merried,Purchased as a new,2006,Urban,Used
+33202,29,Male,40000.5,College,Merried,Purchased as a new,2006,Urban,Used
+193558,45,Male,46500.5,College,Merried,Purchased as a new,2005.5,Urban,Used
+37265,38,Female,19500.5,College,Merried,Purchased as used,2005,Urban,Used
+136529,46,Female,39001,College,Merried,Purchased as used,2005,Urban,Used
+159082,25,Female,46500.5,College,Merried,Purchased as used,2005,Urban,Used
+193522,37,Female,46500.5,College,Merried,Purchased as used,2005,Urban,Used
+175897,46,Female,46500.5,College,Merried,Purchased as used,2005,Urban,Used
+57675,36,Female,52001,College,Merried,Purchased as used,2005,Urban,Used
+310896,46,Male,40000.5,College,Merried,Purchased as used,2005,Urban,Used
+306846,41,Male,11000.5,College,Merried,Purchased as a new,2005,Urban,Used
+310062,32,Female,17250.25,College,Merried,Purchased as a new,2004.5,Rural,Used
+141053,27,Female,52001,College,Merried,Purchased as used,2004,Urban,Used
+132005,36,Female,53500,College,Merried,Purchased as used,2004,Urban,Used
+174567,34,Male,53500,College,Merried,Purchased as used,2004,Rural,Used
+118746,28,Female,34500.5,College,Merried,Purchased as used,2003,Urban,Used
+118893,32,Female,40000.5,College,Merried,Purchased as used,2003,Urban,Used
+201760,26,Female,46500.5,College,Merried,Purchased as used,2003,Urban,Used
+306544,31,Female,52001,College,Merried,Purchased as used,2003,Urban,Used
+261067,27,Male,19500.5,College,Merried,Purchased as used,2003,Urban,Used
+62991,35,Male,26000.5,College,Merried,Purchased as used,2003,Urban,Used
+184283,38,Male,26750,College,Merried,Purchased as used,2003,Urban,Used
+183824,48,Male,34500.5,College,Merried,Purchased as used,2003,Urban,Used
+186685,49,Male,45001,College,Merried,Purchased as used,2003,Urban,Used
+157479,34,Male,53500,College,Merried,Purchased as used,2003,Urban,Used
+165281,34,Female,5750.5,College,Merried,Purchased as used,2002,Urban,Used
+201652,34,Female,26000.5,College,Merried,Purchased as used,2002,Urban,Used
+150291,42,Female,34500.5,College,Merried,Purchased as used,2002,Rural,Used
+41582,32,Female,45001,College,Merried,Purchased as used,2002,Urban,Used
+252053,31,Female,45001,College,Merried,Purchased as used,2002,Urban,Used
+150631,34,Female,46500.5,College,Merried,Purchased as used,2002,Urban,Used
+224454,32,Female,60001,College,Merried,Purchased as used,2002,Urban,Used
+184157,28,Female,23250.25,College,Merried,Purchased as a new,2002,Urban,Used
+159887,39,Male,9000.5,College,Merried,Purchased as used,2002,Urban,Used
+141433,33,Male,30000.5,College,Merried,Purchased as used,2002,Urban,Used
+149521,38,Male,34500.5,College,Merried,Purchased as used,2002,Urban,Used
+33587,34,Male,45001,College,Merried,Purchased as used,2002,Urban,Used
+144843,29,Male,53500,College,Merried,Purchased as used,2002,Urban,Used
+131491,31,Male,34500.5,College,Merried,Purchased as used,2001.5,Urban,Used
+118224,35,Male,39001,College,Merried,Purchased as used,2001.5,Urban,Used
+118044,44,Female,53500,College,Merried,Purchased as a new,2001.33333333333,Urban,Used
+310909,25,Female,11501,College,Merried,Purchased as used,2001,Urban,Used
+183999,48,Female,26750,College,Merried,Purchased as used,2001,Rural,Used
+156823,39,Female,34500.5,College,Merried,Purchased as used,2001,Urban,Used
+178304,28,Female,39001,College,Merried,Purchased as used,2001,Urban,Used
+277034,46,Female,40000.5,College,Merried,Purchased as used,2001,Rural,Used
+307187,45,Female,93001,College,Merried,Purchased as used,2001,Urban,Used
+145211,39,Male,13500.5,College,Merried,Purchased as used,2001,Urban,Used
+131537,43,Male,18001,College,Merried,Purchased as used,2001,Urban,Used
+46386,42,Male,19500.5,College,Merried,Purchased as used,2001,Urban,Used
+122992,40,Male,22001,College,Merried,Purchased as used,2001,Urban,Used
+174235,44,Male,30000.5,College,Merried,Purchased as used,2001,Urban,Used
+260153,39,Male,40000.5,College,Merried,Purchased as used,2001,Urban,Used
+310856,29,Female,26000.5,College,Merried,Purchased as used,2000,Rural,Used
+153754,33,Female,35666.6666666667,College,Merried,Purchased as used,2000,Rural,Used
+252019,34,Male,34500.5,College,Merried,Purchased as used,1999.5,Urban,Used
+306909,27,Female,23000.3333333333,College,Merried,Purchased as used,1999,Urban,Used
+145202,40,Female,52001,College,Merried,Purchased as used,1999,Urban,Used
+175209,40,Male,22500.5,College,Merried,Purchased as used,1999,Urban,Used
+178706,40,Male,52001,College,Merried,Purchased as used,1999,Urban,Used
+55568,33,Male,53500,College,Merried,Purchased as used,1998.66666666667,Urban,Used
+196583,34,Female,3500.5,College,Merried,Purchased as used,1998,Urban,Used
+197978,37,Female,18001,College,Merried,Purchased as used,1998,Urban,Used
+187040,24,Female,22500.5,College,Merried,Purchased as used,1998,Urban,Used
+187951,37,Female,26000.5,College,Merried,Purchased as used,1998,Urban,Used
+42924,29,Female,30000.5,College,Merried,Purchased as used,1998,Urban,Used
+145258,29,Female,40000.5,College,Merried,Purchased as used,1998,Urban,Used
+131731,42,Male,16500.5,College,Merried,Purchased as used,1998,Urban,Used
+118266,32,Male,17333.6666666667,College,Merried,Purchased as used,1998,Urban,Used
+145259,34,Male,22500.5,College,Merried,Purchased as used,1998,Urban,Used
+174923,37,Male,30000.5,College,Merried,Purchased as used,1998,Rural,Used
+45535,41,Male,53500,College,Merried,Purchased as used,1998,Urban,Used
+307033,36,Male,11501,College,Merried,Purchased as used,1997,Urban,Used
+184006,30,Male,22500.5,College,Merried,Purchased as used,1997,Urban,Used
+141293,34,Female,27001,College,Merried,Purchased as used,1996.5,Rural,Used
+174846,32,Female,34500.5,College,Merried,Purchased as a new,1996.5,Urban,Used
+174500,49,Female,33001,College,Merried,Purchased as used,1996,Urban,Used
+187016,33,Female,11501,College,Merried,Purchased as used,1995,Rural,Used
+307460,28,Female,13800.2,College,Merried,Purchased as used,1994,Urban,Used
+136671,47,Male,40000.5,College,Merried,Purchased as used,1992.5,Rural,Used
+183827,34,Female,20000.25,College,Merried,Purchased as used,1992,Urban,Used
+306992,40,Male,26000.5,College,Merried,Purchased as used,1992,Urban,Used
+223444,39,Male,93001,College,Merried,Purchased as used,1992,Urban,Used
+175413,37,Female,11000.5,College,Merried,Purchased as used,1991,Urban,Used
+136514,38,Male,33001,College,Merried,Purchased as used,1991,Urban,Used
+32649,36,Male,34500.5,College,Merried,Purchased as used,1991,Urban,Used
+174891,46,Male,39001,College,Merried,Purchased as a new,1990,Urban,Used
+33022,29,Male,46500.5,College,Merried,Purchased as a new,1990,Urban,Used
+251796,24,Female,22001,College,Merried,Purchased as used,1988,Urban,Used
+310864,29,Male,26667,College,Merried,Purchased as used,1988,Urban,Used
+310847,45,Male,30000.5,College,Merried,Purchased as used,1987,Urban,Used
+306995,22,Male,26000.5,College,Merried,Purchased as a new,1981,Rural,Used
+37235,31,Female,53500,Unfinished university,Merried,Purchased as used,2010,Urban,Used
+174746,46,Male,53500,Unfinished university,Merried,Purchased as a new,2009,Urban,Used
+33595,37,Male,46500.5,Unfinished university,Merried,Purchased as used,2008,Urban,Used
+307472,32,Female,39001,Unfinished university,Merried,Purchased as used,2006,Urban,Used
+31106,39,Female,46500.5,Unfinished university,Merried,Purchased as used,2005.5,Urban,Used
+175439,31,Female,30000.5,Unfinished university,Merried,Purchased as used,2005,Urban,Used
+118103,36,Female,45001,Unfinished university,Merried,Purchased as a new,2005,Rural,Used
+307220,42,Male,30000.5,Unfinished university,Merried,Purchased as used,2005,Urban,Used
+186972,31,Male,53500,Unfinished university,Merried,Purchased as used,2005,Urban,Used
+145822,31,Male,46500.5,Unfinished university,Merried,Purchased as a new,2005,Urban,Used
+44132,46,Female,45001,Unfinished university,Merried,Purchased as used,2004,Urban,Used
+133809,37,Female,53500,Unfinished university,Merried,Purchased as used,2004,Urban,Used
+195714,37,Female,34500.5,Unfinished university,Merried,Purchased as used,2003,Rural,Used
+132205,40,Female,35666.6666666667,Unfinished university,Merried,Purchased as used,2003,Rural,Used
+150554,25,Female,53500,Unfinished university,Merried,Purchased as used,2003,Urban,Used
+201502,45,Male,22001,Unfinished university,Merried,Purchased as used,2003,Urban,Used
+37222,27,Male,52001,Unfinished university,Merried,Purchased as used,2003,Urban,Used
+154612,31,Female,53500,Unfinished university,Merried,Purchased as used,2002,Urban,Used
+174375,36,Female,53500,Unfinished university,Merried,Purchased as used,2002,Urban,Used
+185401,36,Female,53500,Unfinished university,Merried,Purchased as used,2002,Urban,Used
+132047,35,Female,31000.3333333333,Unfinished university,Merried,Purchased as a new,2002,Urban,Used
+251170,32,Male,34500.5,Unfinished university,Merried,Purchased as used,2002,Urban,Used
+154161,31,Male,39001,Unfinished university,Merried,Purchased as used,2002,Urban,Used
+174722,29,Male,40000.5,Unfinished university,Merried,Purchased as used,2002,Urban,Used
+193433,49,Male,53500,Unfinished university,Merried,Purchased as used,2002,Urban,Used
+33610,33,Male,53500,Unfinished university,Merried,Purchased as used,2002,Urban,Used
+174845,32,Male,69001,Unfinished university,Merried,Purchased as used,2002,Urban,Used
+117248,41,Male,39001,Unfinished university,Merried,Purchased as a new,2002,Urban,Used
+37268,32,Female,3500.5,Unfinished university,Merried,Purchased as used,2001,Urban,Used
+260981,43,Female,30000.5,Unfinished university,Merried,Purchased as used,2001,Urban,Used
+188151,40,Female,52001,Unfinished university,Merried,Purchased as used,2001,Urban,Used
+39324,34,Male,13500.5,Unfinished university,Merried,Purchased as used,2001,Urban,Used
+184122,45,Male,26750,Unfinished university,Merried,Purchased as used,2001,Urban,Used
+261026,47,Male,30000.5,Unfinished university,Merried,Purchased as used,2001,Urban,Used
+45448,33,Male,35666.6666666667,Unfinished university,Merried,Purchased as used,2001,Urban,Used
+147108,37,Male,40000.5,Unfinished university,Merried,Purchased as used,2001,Urban,Used
+277002,43,Female,53500,Unfinished university,Merried,Purchased as a new,2000.5,Urban,Used
+272947,36,Female,40000.5,Unfinished university,Merried,Purchased as used,2000,Urban,Used
+118236,40,Male,107000,Unfinished university,Merried,Purchased as used,2000,Urban,Used
+187898,40,Female,46500.5,Unfinished university,Merried,Purchased as used,1999.5,Urban,Used
+39266,43,Female,53500,Unfinished university,Merried,Purchased as used,1999,Urban,Used
+267444,36,Male,34500.5,Unfinished university,Merried,Purchased as used,1999,Urban,Used
+193720,31,Male,34500.5,Unfinished university,Merried,Purchased as a new,1999,Rural,Used
+160003,26,Female,26667,Unfinished university,Merried,Purchased as used,1998,Urban,Used
+184954,30,Female,20000.25,Unfinished university,Merried,Purchased as a new,1998,Rural,Used
+175396,39,Male,46500.5,Unfinished university,Merried,Purchased as used,1998,Urban,Used
+55548,49,Male,30000.5,Unfinished university,Merried,Purchased as a new,1998,Urban,Used
+307312,35,Male,18600.2,Unfinished university,Merried,Purchased as used,1997.5,Urban,Used
+183781,41,Male,3500.5,Unfinished university,Merried,Purchased as used,1997,Rural,Used
+141470,37,Male,26750,Unfinished university,Merried,Purchased as used,1997,Urban,Used
+117726,33,Male,93001,Unfinished university,Merried,Purchased as used,1996.5,Urban,Used
+188396,28,Female,7001,Unfinished university,Merried,Purchased as used,1996,Urban,Used
+306695,29,Male,35666.6666666667,Unfinished university,Merried,Purchased as used,1996,Urban,Used
+174222,34,Male,23000.3333333333,Unfinished university,Merried,Purchased as used,1995,Urban,Used
+60214,33,Male,31000.3333333333,Unfinished university,Merried,Purchased as a new,1994.5,Urban,Used
+154111,33,Male,19500.5,Unfinished university,Merried,Purchased as used,1994,Urban,Used
+117940,41,Male,26000.5,Unfinished university,Merried,Purchased as used,1993,Urban,Used
+193455,44,Female,26000.5,Unfinished university,Merried,Purchased as used,1992,Urban,Used
+141230,34,Male,26750,Unfinished university,Merried,Purchased as used,1992,Urban,Used
+184019,42,Female,46500.5,Unfinished university,Merried,Purchased as a new,1991,Urban,Used
+57672,44,Male,3500.5,Unfinished university,Merried,Purchased as used,1991,Urban,Used
+42886,44,Male,19500.5,Unfinished university,Merried,Purchased as used,1991,Urban,Used
+179374,33,Male,22001,Unfinished university,Merried,Purchased as used,1991,Urban,Used
+154605,36,Male,15285.7142857143,Unfinished university,Merried,Purchased as used,1990,Rural,Used
+178700,41,Male,46500.5,Unfinished university,Merried,Purchased as used,1990,Urban,Used
+144793,34,Male,60001,Unfinished university,Merried,Purchased as used,1990,Urban,Used
+150308,49,Female,26000.5,Unfinished university,Merried,Purchased as used,1989,Urban,Used
+193324,30,Female,52001,Unfinished university,Merried,Purchased as used,1988.5,Urban,Used
+223553,37,Female,7001,Unfinished university,Merried,Purchased as used,1988,Urban,Used
+198011,42,Female,26000.5,Unfinished university,Merried,Purchased as used,1987,Urban,Used
+252408,43,Female,22001,Unfinished university,Merried,Purchased as used,1984,Urban,Used
+178126,26,Male,26000.5,Unfinished university,Merried,Purchased as used,1984,Urban,Used
+196580,33,Male,34500.5,Unfinished university,Merried,Purchased as used,1984,Rural,Used
+310064,35,Male,17333.6666666667,High school,Merried,Purchased as a new,2012,Urban,Used
+193496,35,Female,17333.6666666667,High school,Merried,Purchased as a new,2010,Urban,Used
+44087,42,Male,107000,High school,Merried,Purchased as a new,2009,Urban,Used
+118901,42,Female,40000.5,High school,Merried,Purchased as used,2008,Urban,Used
+151243,22,Male,26000.5,High school,Merried,Purchased as a new,2008,Urban,Used
+259340,31,Female,19500.5,High school,Merried,Purchased as used,2007,Urban,Used
+310849,43,Male,40000.5,High school,Merried,Purchased as used,2007,Urban,Used
+168333,23,Female,7001,High school,Merried,Purchased as used,2006,Rural,Used
+37188,42,Female,26000.5,High school,Merried,Purchased as used,2006,Urban,Used
+153916,23,Female,33001,High school,Merried,Purchased as used,2006,Urban,Used
+174837,39,Male,26000.5,High school,Merried,Purchased as used,2006,Urban,Used
+183809,29,Male,33001,High school,Merried,Purchased as used,2006,Urban,Used
+278817,38,Male,34500.5,High school,Merried,Purchased as used,2006,Urban,Used
+184011,39,Female,60001,High school,Merried,Purchased as used,2005,Urban,Used
+118888,48,Female,30000.5,High school,Merried,Purchased as a new,2005,Urban,Used
+117923,30,Male,22500.5,High school,Merried,Purchased as used,2005,Urban,Used
+177778,32,Male,26000.5,High school,Merried,Purchased as used,2005,Urban,Used
+175346,42,Male,39001,High school,Merried,Purchased as used,2005,Rural,Used
+310762,46,Male,60001,High school,Merried,Purchased as used,2005,Urban,Used
+118105,35,Female,53500,High school,Merried,Purchased as used,2004.5,Urban,Used
+259312,39,Female,22500.5,High school,Merried,Purchased as used,2004,Rural,Used
+74582,49,Female,22500.5,High school,Merried,Purchased as used,2004,Urban,Used
+136530,34,Female,40000.5,High school,Merried,Purchased as used,2004,Urban,Used
+193594,30,Female,40000.5,High school,Merried,Purchased as used,2004,Urban,Used
+251523,36,Female,52001,High school,Merried,Purchased as used,2004,Urban,Used
+37137,31,Female,53500,High school,Merried,Purchased as used,2004,Urban,Used
+276781,35,Female,60001,High school,Merried,Purchased as used,2004,Urban,Used
+165279,29,Male,7001,High school,Merried,Purchased as used,2004,Urban,Used
+144754,41,Male,9000.5,High school,Merried,Purchased as used,2004,Urban,Used
+159503,23,Male,22500.5,High school,Merried,Purchased as used,2004,Urban,Used
+251724,31,Male,27001,High school,Merried,Purchased as used,2004,Urban,Used
+259341,43,Male,30000.5,High school,Merried,Purchased as used,2004,Urban,Used
+136690,41,Male,34500.5,High school,Merried,Purchased as used,2004,Urban,Used
+174723,29,Male,40000.5,High school,Merried,Purchased as used,2004,Urban,Used
+260990,37,Male,46500.5,High school,Merried,Purchased as used,2004,Urban,Used
+159502,23,Male,52001,High school,Merried,Purchased as used,2004,Urban,Used
+136543,34,Male,53500,High school,Merried,Purchased as used,2004,Urban,Used
+183818,39,Male,9000.5,High school,Merried,Purchased as used,2003.5,Urban,Used
+260769,36,Male,22500.5,High school,Merried,Purchased as used,2003.5,Urban,Used
+39306,26,Female,21400,High school,Merried,Purchased as used,2003,Urban,Used
+186947,38,Female,26000.5,High school,Merried,Purchased as used,2003,Urban,Used
+131978,36,Female,30000.5,High school,Merried,Purchased as used,2003,Urban,Used
+144755,38,Female,53500,High school,Merried,Purchased as used,2003,Urban,Used
+117567,36,Female,60001,High school,Merried,Purchased as used,2003,Urban,Used
+187907,38,Female,69001,High school,Merried,Purchased as used,2003,Urban,Used
+117913,46,Female,107000,High school,Merried,Purchased as used,2003,Urban,Used
+141162,39,Male,4500.5,High school,Merried,Purchased as used,2003,Urban,Used
+153770,30,Male,19500.5,High school,Merried,Purchased as used,2003,Urban,Used
+306156,38,Male,34500.5,High school,Merried,Purchased as used,2003,Urban,Used
+175473,32,Male,39001,High school,Merried,Purchased as used,2003,Urban,Used
+150465,45,Male,46500.5,High school,Merried,Purchased as used,2003,Urban,Used
+306832,40,Male,46500.5,High school,Merried,Purchased as used,2003,Urban,Used
+153790,40,Male,53500,High school,Merried,Purchased as used,2003,Urban,Used
+118686,39,Male,80001,High school,Merried,Purchased as used,2003,Rural,Used
+153984,32,Male,26750,High school,Merried,Purchased as a new,2002.66666666667,Urban,Used
+141444,32,Female,3500.5,High school,Merried,Purchased as used,2002,Urban,Used
+177779,31,Female,7001,High school,Merried,Purchased as used,2002,Urban,Used
+224489,22,Female,7001,High school,Merried,Purchased as used,2002,Urban,Used
+175056,33,Female,16500.5,High school,Merried,Purchased as used,2002,Urban,Used
+163105,28,Female,30000.5,High school,Merried,Purchased as used,2002,Urban,Used
+261033,31,Female,30000.5,High school,Merried,Purchased as used,2002,Urban,Used
+163441,35,Female,40000.5,High school,Merried,Purchased as used,2002,Urban,Used
+251137,35,Female,40000.5,High school,Merried,Purchased as used,2002,Urban,Used
+33553,33,Female,45001,High school,Merried,Purchased as used,2002,Rural,Used
+178162,28,Female,52001,High school,Merried,Purchased as used,2002,Rural,Used
+251644,36,Female,53500,High school,Merried,Purchased as used,2002,Urban,Used
+260959,37,Male,11000.5,High school,Merried,Purchased as used,2002,Rural,Used
+242904,23,Male,11000.5,High school,Merried,Purchased as used,2002,Rural,Used
+307260,37,Male,26667,High school,Merried,Purchased as used,2002,Urban,Used
+157220,43,Male,27001,High school,Merried,Purchased as used,2002,Urban,Used
+310002,36,Male,30000.5,High school,Merried,Purchased as used,2002,Urban,Used
+251524,39,Male,30000.5,High school,Merried,Purchased as used,2002,Urban,Used
+131457,36,Male,30000.5,High school,Merried,Purchased as used,2002,Rural,Used
+33013,37,Male,33001,High school,Merried,Purchased as used,2002,Urban,Used
+174777,31,Male,34500.5,High school,Merried,Purchased as used,2002,Urban,Used
+260887,42,Male,46500.5,High school,Merried,Purchased as used,2002,Urban,Used
+174247,41,Male,46500.5,High school,Merried,Purchased as used,2002,Rural,Used
+251156,40,Male,46500.5,High school,Merried,Purchased as used,2002,Urban,Used
+154218,31,Male,53500,High school,Merried,Purchased as used,2002,Urban,Used
+42922,37,Male,53500,High school,Merried,Purchased as used,2002,Urban,Used
+123011,31,Female,31000.3333333333,High school,Merried,Purchased as used,2001.5,Urban,Used
+31091,33,Female,34500.5,High school,Merried,Purchased as used,2001.5,Urban,Used
+174576,28,Male,26750,High school,Merried,Purchased as used,2001.5,Urban,Used
+193627,30,Male,40000.5,High school,Merried,Purchased as used,2001.5,Rural,Used
+306497,36,Male,40000.5,High school,Merried,Purchased as used,2001.5,Urban,Used
+123039,37,Male,93001,High school,Merried,Purchased as used,2001.5,Urban,Used
+188347,44,Female,19500.5,High school,Merried,Purchased as used,2001,Urban,Used
+224612,30,Female,22001,High school,Merried,Purchased as used,2001,Urban,Used
+226915,25,Female,22500.5,High school,Merried,Purchased as used,2001,Urban,Used
+141794,42,Female,31000.3333333333,High school,Merried,Purchased as used,2001,Urban,Used
+131605,37,Female,34500.5,High school,Merried,Purchased as used,2001,Urban,Used
+141157,29,Female,35666.6666666667,High school,Merried,Purchased as used,2001,Rural,Used
+176093,30,Female,46500.5,High school,Merried,Purchased as used,2001,Urban,Used
+306577,35,Male,5750.5,High school,Merried,Purchased as used,2001,Rural,Used
+272074,31,Male,13500.5,High school,Merried,Purchased as used,2001,Urban,Used
+284201,28,Male,22001,High school,Merried,Purchased as used,2001,Rural,Used
+157193,28,Male,26000.5,High school,Merried,Purchased as used,2001,Urban,Used
+131642,36,Male,26000.5,High school,Merried,Purchased as used,2001,Urban,Used
+272927,40,Male,26000.5,High school,Merried,Purchased as used,2001,Urban,Used
+162026,28,Male,30000.5,High school,Merried,Purchased as used,2001,Urban,Used
+310076,39,Male,30000.5,High school,Merried,Purchased as used,2001,Urban,Used
+179380,35,Male,30000.5,High school,Merried,Purchased as used,2001,Urban,Used
+75161,37,Male,30000.5,High school,Merried,Purchased as used,2001,Urban,Used
+154095,36,Male,30000.5,High school,Merried,Purchased as used,2001,Urban,Used
+46322,43,Male,34500.5,High school,Merried,Purchased as used,2001,Urban,Used
+148877,40,Male,34500.5,High school,Merried,Purchased as used,2001,Rural,Used
+60119,22,Male,40000.5,High school,Merried,Purchased as used,2001,Urban,Used
+68265,43,Male,40000.5,High school,Merried,Purchased as used,2001,Urban,Used
+183800,41,Male,40000.5,High school,Merried,Purchased as used,2001,Rural,Used
+310013,45,Male,46500.5,High school,Merried,Purchased as used,2001,Urban,Used
+306886,42,Male,52001,High school,Merried,Purchased as used,2001,Urban,Used
+164196,31,Male,52001,High school,Merried,Purchased as used,2001,Urban,Used
+140789,42,Male,53500,High school,Merried,Purchased as used,2001,Urban,Used
+175906,35,Male,69001,High school,Merried,Purchased as used,2001,Urban,Used
+140889,40,Female,40000.5,High school,Merried,Purchased as used,2000.5,Urban,Used
+195946,36,Female,53500,High school,Merried,Purchased as used,2000.5,Rural,Used
+187899,42,Male,31000.3333333333,High school,Merried,Purchased as used,2000.5,Urban,Used
+144989,42,Female,53500,High school,Merried,Purchased as a new,2000.33333333333,Urban,Used
+258833,42,Female,3500.5,High school,Merried,Purchased as used,2000,Urban,Used
+307521,32,Female,22500.5,High school,Merried,Purchased as used,2000,Urban,Used
+159449,45,Female,26000.5,High school,Merried,Purchased as used,2000,Rural,Used
+178160,25,Female,34500.5,High school,Merried,Purchased as used,2000,Urban,Used
+258865,37,Female,39001,High school,Merried,Purchased as used,2000,Urban,Used
+44089,29,Male,39001,High school,Merried,Purchased as used,2000,Urban,Used
+118413,36,Male,45001,High school,Merried,Purchased as used,2000,Urban,Used
+26579,37,Male,53500,High school,Merried,Purchased as used,2000,Urban,Used
+267447,46,Female,26750,High school,Merried,Purchased as a new,1999.5,Urban,Used
+166039,31,Female,26000.5,High school,Merried,Purchased as used,1999,Urban,Used
+310696,37,Female,26000.5,High school,Merried,Purchased as used,1999,Rural,Used
+259286,39,Female,30000.5,High school,Merried,Purchased as used,1999,Rural,Used
+175843,34,Female,46500.5,High school,Merried,Purchased as used,1999,Urban,Used
+307482,42,Female,52001,High school,Merried,Purchased as used,1999,Rural,Used
+151234,45,Male,22500.5,High school,Merried,Purchased as used,1999,Urban,Used
+201771,30,Male,34500.5,High school,Merried,Purchased as used,1999,Urban,Used
+307078,44,Male,34500.5,High school,Merried,Purchased as used,1999,Urban,Used
+185490,39,Male,45001,High school,Merried,Purchased as used,1999,Urban,Used
+118283,45,Male,53500,High school,Merried,Purchased as used,1999,Urban,Used
+306637,33,Male,11501,High school,Merried,Purchased as a new,1999,Urban,Used
+118002,47,Female,46500.5,High school,Merried,Purchased as used,1998.5,Urban,Used
+272061,24,Female,30000.5,High school,Merried,Purchased as used,1998,Urban,Used
+145731,45,Female,39001,High school,Merried,Purchased as used,1998,Urban,Used
+118020,36,Female,40000.5,High school,Merried,Purchased as used,1998,Rural,Used
+186945,38,Female,45001,High school,Merried,Purchased as used,1998,Urban,Used
+63084,47,Male,27001,High school,Merried,Purchased as used,1998,Urban,Used
+310027,33,Male,31000.3333333333,High school,Merried,Purchased as used,1998,Rural,Used
+184034,36,Male,33001,High school,Merried,Purchased as used,1998,Urban,Used
+184046,44,Male,39001,High school,Merried,Purchased as used,1998,Urban,Used
+267450,39,Male,46500.5,High school,Merried,Purchased as used,1998,Urban,Used
+188245,44,Male,46500.5,High school,Merried,Purchased as used,1998,Urban,Used
+158763,37,Male,69001,High school,Merried,Purchased as used,1998,Urban,Used
+174675,38,Male,107000,High school,Merried,Purchased as used,1998,Urban,Used
+141055,35,Female,11501,High school,Merried,Purchased as used,1997,Urban,Used
+174888,25,Female,14501,High school,Merried,Purchased as used,1997,Urban,Used
+183846,30,Female,16500.5,High school,Merried,Purchased as used,1997,Urban,Used
+307547,34,Female,22500.5,High school,Merried,Purchased as used,1997,Rural,Used
+284188,44,Female,26000.5,High school,Merried,Purchased as used,1997,Urban,Used
+307363,29,Female,27001,High school,Merried,Purchased as used,1997,Urban,Used
+133821,39,Female,30000.5,High school,Merried,Purchased as used,1997,Urban,Used
+174954,40,Female,35666.6666666667,High school,Merried,Purchased as used,1997,Urban,Used
+273735,40,Female,39001,High school,Merried,Purchased as used,1997,Urban,Used
+307423,40,Female,39001,High school,Merried,Purchased as used,1997,Rural,Used
+123027,45,Female,40000.5,High school,Merried,Purchased as used,1997,Urban,Used
+151233,37,Male,22001,High school,Merried,Purchased as used,1997,Rural,Used
+306724,41,Male,27001,High school,Merried,Purchased as used,1997,Rural,Used
+174706,44,Male,33001,High school,Merried,Purchased as used,1997,Urban,Used
+33029,33,Male,34500.5,High school,Merried,Purchased as used,1997,Urban,Used
+306431,41,Male,52001,High school,Merried,Purchased as used,1997,Rural,Used
+251940,26,Male,22001,High school,Merried,Purchased as used,1996.5,Urban,Used
+193629,42,Male,46500.5,High school,Merried,Purchased as used,1996.5,Urban,Used
+118307,43,Female,33001,High school,Merried,Purchased as used,1996,Urban,Used
+310680,48,Female,40000.5,High school,Merried,Purchased as used,1996,Rural,Used
+58295,23,Female,27001,High school,Merried,Purchased as used,1995.5,Urban,Used
+157278,33,Male,16500.5,High school,Merried,Purchased as used,1995.5,Rural,Used
+259279,27,Male,19500.5,High school,Merried,Purchased as used,1995.5,Urban,Used
+132142,40,Female,16500.5,High school,Merried,Purchased as used,1995,Urban,Used
+118257,35,Female,20000.25,High school,Merried,Purchased as used,1995,Urban,Used
+251576,24,Female,22001,High school,Merried,Purchased as used,1995,Rural,Used
+307281,40,Female,27001,High school,Merried,Purchased as used,1995,Urban,Used
+306506,29,Female,39001,High school,Merried,Purchased as used,1995,Urban,Used
+175662,26,Female,52001,High school,Merried,Purchased as used,1995,Urban,Used
+166007,34,Female,52001,High school,Merried,Purchased as used,1995,Rural,Used
+258970,38,Female,60001,High school,Merried,Purchased as used,1995,Urban,Used
+37179,28,Male,60001,High school,Merried,Purchased as used,1995,Urban,Used
+45482,34,Male,18001,High school,Merried,Purchased as used,1994.5,Rural,Used
+188374,25,Female,30000.5,High school,Merried,Purchased as used,1994,Urban,Used
+156774,47,Male,46500.5,High school,Merried,Purchased as a new,1994,Urban,Used
+276934,30,Male,7250.5,High school,Merried,Purchased as used,1993,Rural,Used
+174849,36,Male,20000.3333333333,High school,Merried,Purchased as used,1993,Urban,Used
+117529,47,Male,46500.5,High school,Merried,Purchased as used,1993,Urban,Used
+60089,43,Female,22500.5,High school,Merried,Purchased as used,1992,Urban,Used
+153848,32,Female,27001,High school,Merried,Purchased as used,1992,Urban,Used
+118094,40,Female,33001,High school,Merried,Purchased as used,1992,Urban,Used
+306552,34,Female,60001,High school,Merried,Purchased as used,1992,Rural,Used
+148876,40,Male,34500.5,High school,Merried,Purchased as used,1992,Urban,Used
+141348,23,Male,52001,High school,Merried,Purchased as used,1992,Rural,Used
+306441,40,Male,52001,High school,Merried,Purchased as used,1992,Urban,Used
+310905,22,Female,20000.3333333333,High school,Merried,Purchased as used,1991,Urban,Used
+174291,33,Female,26667,High school,Merried,Purchased as used,1991,Rural,Used
+32618,37,Female,27001,High school,Merried,Purchased as used,1991,Rural,Used
+136051,43,Female,39001,High school,Merried,Purchased as used,1991,Urban,Used
+186882,39,Female,39001,High school,Merried,Purchased as used,1991,Urban,Used
+276917,39,Female,69001,High school,Merried,Purchased as used,1991,Urban,Used
+123030,34,Male,9001,High school,Merried,Purchased as used,1991,Urban,Used
+241387,37,Male,19500.5,High school,Merried,Purchased as used,1991,Rural,Used
+65482,49,Male,30000.5,High school,Merried,Purchased as used,1991,Urban,Used
+272083,41,Male,33001,High school,Merried,Purchased as used,1991,Urban,Used
+193745,47,Male,34500.5,High school,Merried,Purchased as used,1991,Urban,Used
+122977,38,Male,40000.5,High school,Merried,Purchased as used,1991,Urban,Used
+273491,48,Male,39001,High school,Merried,Purchased as a new,1991,Rural,Used
+39269,33,Female,34500.5,High school,Merried,Purchased as used,1990.5,Urban,Used
+307032,29,Female,27001,High school,Merried,Purchased as used,1990,Urban,Used
+159550,30,Female,30000.5,High school,Merried,Purchased as used,1990,Urban,Used
+159056,43,Female,40000.5,High school,Merried,Purchased as a new,1990,Urban,Used
+184251,45,Male,22500.5,High school,Merried,Purchased as used,1990,Urban,Used
+39333,38,Male,23000.3333333333,High school,Merried,Purchased as used,1990,Urban,Used
+159549,33,Male,30000.5,High school,Merried,Purchased as used,1990,Urban,Used
+118383,45,Male,18001,High school,Merried,Purchased as a new,1990,Urban,Used
+186928,26,Female,26000.5,High school,Merried,Purchased as a new,1989.5,Urban,Used
+272017,29,Female,22001,High school,Merried,Purchased as used,1989,Rural,Used
+183777,34,Female,30000.5,High school,Merried,Purchased as used,1989,Urban,Used
+193679,39,Female,22001,High school,Merried,Purchased as a new,1989,Urban,Used
+272022,39,Male,14501,High school,Merried,Purchased as used,1989,Rural,Used
+188130,29,Male,34500.5,High school,Merried,Purchased as used,1989,Rural,Used
+118430,47,Female,27001,High school,Merried,Purchased as used,1988,Rural,Used
+146930,34,Male,13500.5,High school,Merried,Purchased as used,1988,Rural,Used
+175229,31,Female,45001,High school,Merried,Purchased as used,1987,Urban,Used
+55570,37,Male,20000.3333333333,High school,Merried,Purchased as used,1987,Urban,Used
+141327,34,Male,30000.5,High school,Merried,Purchased as used,1987,Rural,Used
+37151,49,Male,40000.5,High school,Merried,Purchased as used,1987,Urban,Used
+306656,39,Male,23250.25,High school,Merried,Purchased as a new,1987,Urban,Used
+186858,31,Female,7001,High school,Merried,Purchased as used,1986,Urban,Used
+141471,26,Female,33001,High school,Merried,Purchased as used,1986,Urban,Used
+133540,44,Male,18001,High school,Merried,Purchased as used,1986,Rural,Used
+252002,47,Male,45001,High school,Merried,Purchased as used,1986,Urban,Used
+310799,46,Male,60001,High school,Merried,Purchased as used,1986,Urban,Used
+159158,39,Female,40000.5,High school,Merried,Purchased as used,1985,Urban,Used
+131570,30,Female,22500.5,High school,Merried,Purchased as used,1984,Urban,Used
+131439,39,Male,27001,High school,Merried,Purchased as used,1984,Urban,Used
+251993,25,Female,45001,High school,Merried,Purchased as used,1983,Urban,Used
+307170,37,Male,34500.5,Craftsman,Merried,Purchased as used,2002,Rural,Used
+118327,37,Female,34500.5,Craftsman,Merried,Purchased as used,1987,Rural,Used
+156849,44,Female,52001,Craftsman,Merried,Purchased as used,1987,Rural,Used
+267443,39,Male,30000.5,Not finsihed high school,Merried,Purchased as used,1996,Urban,Used
+145099,46,Male,27001,Elementary school,Merried,Purchased as used,1999,Urban,Used
+166456,30,Female,27001,Elementary school,Merried,Purchased as used,1995,Rural,Used
+188197,39,Female,18001,Elementary school,Merried,Purchased as used,1988,Rural,Used
+166882,36,Female,14501,Elementary school,Merried,Purchased as used,1986,Rural,Used
+150660,24,Male,35666.6666666667,University,Single,Purchased as a new,2012,Urban,Used
+150457,27,Male,52001,University,Single,Purchased as a new,2011,Urban,Used
+260882,25,Female,23000.3333333333,University,Single,Purchased as used,2010,Urban,Used
+306894,23,Female,23250.25,University,Single,Purchased as used,2010,Urban,Used
+56683,35,Female,26750,University,Single,Purchased as used,2010,Urban,Used
+175445,37,Male,35666.6666666667,University,Single,Purchased as a new,2010,Urban,Used
+245964,25,Female,31000.3333333333,University,Single,Purchased as used,2009,Rural,Used
+260815,30,Female,26750,University,Single,Purchased as a new,2009,Urban,Used
+176132,28,Female,35666.6666666667,University,Single,Purchased as a new,2009,Urban,Used
+150638,26,Male,23250.25,University,Single,Purchased as used,2009,Urban,Used
+174366,43,Male,52001,University,Single,Purchased as a new,2009,Urban,Used
+157837,26,Female,46500.5,University,Single,Purchased as used,2008.5,Urban,Used
+271990,33,Male,53500,University,Single,Purchased as a new,2008.5,Urban,Used
+272050,27,Male,45001,University,Single,Purchased as used,2008,Urban,Used
+153912,28,Male,35666.6666666667,University,Single,Purchased as a new,2008,Urban,Used
+44130,33,Male,107000,University,Single,Purchased as a new,2007.33333333333,Urban,Used
+131616,31,Female,53500,University,Single,Purchased as used,2007,Urban,Used
+117769,34,Male,60001,University,Single,Purchased as used,2007,Urban,Used
+37115,29,Female,34500.5,University,Single,Purchased as used,2006,Urban,Used
+271957,31,Female,22500.5,University,Single,Purchased as a new,2006,Urban,Used
+260914,26,Female,34500.5,University,Single,Purchased as a new,2006,Rural,Used
+37023,25,Male,22001,University,Single,Purchased as used,2006,Rural,Used
+193369,31,Male,26667,University,Single,Purchased as used,2006,Urban,Used
+259305,28,Female,17333.6666666667,University,Single,Purchased as used,2005,Rural,Used
+310894,24,Female,27001,University,Single,Purchased as used,2005,Urban,Used
+307156,38,Female,35666.6666666667,University,Single,Purchased as used,2005,Urban,Used
+251950,27,Female,39001,University,Single,Purchased as used,2005,Urban,Used
+159468,27,Female,46500.5,University,Single,Purchased as used,2005,Urban,Used
+306872,26,Female,26667,University,Single,Purchased as a new,2005,Urban,Used
+306901,25,Male,30000.5,University,Single,Purchased as used,2005,Urban,Used
+193268,29,Male,45001,University,Single,Purchased as used,2005,Urban,Used
+56708,30,Male,53500,University,Single,Purchased as used,2005,Urban,Used
+33194,32,Male,60001,University,Single,Purchased as used,2005,Urban,Used
+33541,29,Male,34500.5,University,Single,Purchased as a new,2005,Urban,Used
+307146,26,Female,34500.5,University,Single,Purchased as used,2004.5,Urban,Used
+136558,32,Female,26750,University,Single,Purchased as used,2004,Urban,Used
+260958,28,Female,30000.5,University,Single,Purchased as used,2004,Rural,Used
+46337,34,Female,31000.3333333333,University,Single,Purchased as used,2004,Urban,Used
+117965,25,Female,35666.6666666667,University,Single,Purchased as used,2004,Urban,Used
+60216,27,Female,53500,University,Single,Purchased as used,2004,Urban,Used
+277567,29,Female,60001,University,Single,Purchased as used,2004,Rural,Used
+307517,27,Female,69001,University,Single,Purchased as used,2004,Urban,Used
+306507,25,Male,11501,University,Single,Purchased as used,2004,Urban,Used
+186877,29,Male,23000.3333333333,University,Single,Purchased as used,2004,Urban,Used
+174361,26,Male,26667,University,Single,Purchased as used,2004,Urban,Used
+147481,29,Male,45001,University,Single,Purchased as used,2004,Urban,Used
+306472,42,Male,46500.5,University,Single,Purchased as used,2004,Urban,Used
+277019,39,Male,26750,University,Single,Purchased as a new,2004,Urban,Used
+132178,30,Female,18001,University,Single,Purchased as used,2003,Urban,Used
+196607,24,Female,23250.25,University,Single,Purchased as used,2003,Rural,Used
+307371,32,Female,33001,University,Single,Purchased as used,2003,Urban,Used
+141377,28,Female,45001,University,Single,Purchased as used,2003,Urban,Used
+118771,28,Female,52001,University,Single,Purchased as used,2003,Urban,Used
+175321,25,Female,45001,University,Single,Purchased as a new,2003,Urban,Used
+61504,31,Female,52001,University,Single,Purchased as a new,2003,Urban,Used
+307142,34,Male,26750,University,Single,Purchased as used,2003,Urban,Used
+157655,32,Male,31000.3333333333,University,Single,Purchased as used,2003,Urban,Used
+158294,29,Male,39001,University,Single,Purchased as used,2003,Urban,Used
+251870,25,Male,45001,University,Single,Purchased as used,2003,Urban,Used
+117535,38,Female,23250.25,University,Single,Purchased as used,2002.5,Rural,Used
+306537,36,Male,26667,University,Single,Purchased as used,2002.5,Rural,Used
+188339,25,Male,30000.5,University,Single,Purchased as a new,2002.5,Rural,Used
+131586,26,Female,7001,University,Single,Purchased as used,2002,Urban,Used
+234673,30,Female,20000.3333333333,University,Single,Purchased as used,2002,Urban,Used
+159226,26,Female,22001,University,Single,Purchased as used,2002,Urban,Used
+153807,29,Female,26750,University,Single,Purchased as used,2002,Urban,Used
+183884,37,Female,31000.3333333333,University,Single,Purchased as used,2002,Urban,Used
+278829,30,Female,31000.3333333333,University,Single,Purchased as used,2002,Urban,Used
+175900,26,Female,33001,University,Single,Purchased as used,2002,Urban,Used
+43994,28,Female,35666.6666666667,University,Single,Purchased as used,2002,Rural,Used
+131892,32,Female,46500.5,University,Single,Purchased as used,2002,Urban,Used
+306574,36,Female,93001,University,Single,Purchased as used,2002,Rural,Used
+136704,24,Male,7001,University,Single,Purchased as used,2002,Urban,Used
+44085,33,Male,13500.5,University,Single,Purchased as used,2002,Urban,Used
+145104,27,Male,16000.2,University,Single,Purchased as used,2002,Urban,Used
+267448,26,Male,19500.5,University,Single,Purchased as used,2002,Urban,Used
+284209,25,Male,22001,University,Single,Purchased as used,2002,Rural,Used
+306747,33,Male,33001,University,Single,Purchased as used,2002,Urban,Used
+131610,27,Male,33001,University,Single,Purchased as used,2002,Urban,Used
+33000,34,Male,46500.5,University,Single,Purchased as used,2002,Urban,Used
+141078,29,Male,19500.5,University,Single,Purchased as a new,2002,Urban,Used
+117414,26,Male,35666.6666666667,University,Single,Purchased as a new,2002,Urban,Used
+140786,23,Male,69001,University,Single,Purchased as used,2001.5,Urban,Used
+63272,27,Female,3000.33333333333,University,Single,Purchased as used,2001,Urban,Used
+275226,25,Female,7333.66666666667,University,Single,Purchased as used,2001,Urban,Used
+178303,25,Female,20000.3333333333,University,Single,Purchased as used,2001,Urban,Used
+306684,28,Female,23000.3333333333,University,Single,Purchased as used,2001,Urban,Used
+307536,33,Female,26000.5,University,Single,Purchased as used,2001,Rural,Used
+197483,32,Female,26000.5,University,Single,Purchased as used,2001,Urban,Used
+251764,25,Female,30000.5,University,Single,Purchased as used,2001,Rural,Used
+307325,30,Female,33001,University,Single,Purchased as used,2001,Urban,Used
+159955,27,Female,40000.5,University,Single,Purchased as used,2001,Urban,Used
+148773,28,Male,30000.5,University,Single,Purchased as used,2001,Urban,Used
+307256,37,Male,31000.3333333333,University,Single,Purchased as used,2001,Urban,Used
+252243,28,Male,31000.3333333333,University,Single,Purchased as used,2001,Urban,Used
+176166,26,Male,39001,University,Single,Purchased as used,2001,Urban,Used
+145073,25,Male,46500.5,University,Single,Purchased as used,2001,Urban,Used
+32995,26,Male,53500,University,Single,Purchased as used,2001,Urban,Used
+117239,27,Male,60001,University,Single,Purchased as used,2001,Urban,Used
+196655,35,Male,80001,University,Single,Purchased as used,2001,Urban,Used
+193288,35,Male,107000,University,Single,Purchased as used,2001,Urban,Used
+150304,26,Female,40000.5,University,Single,Purchased as a new,2000.75,Urban,Used
+306834,29,Male,46500.5,University,Single,Purchased as a new,2000.33333333333,Rural,Used
+251520,25,Female,17333.6666666667,University,Single,Purchased as used,2000,Rural,Used
+41574,29,Female,18001,University,Single,Purchased as used,2000,Urban,Used
+281247,25,Female,19500.5,University,Single,Purchased as used,2000,Urban,Used
+175029,24,Female,26750,University,Single,Purchased as used,2000,Urban,Used
+183779,24,Female,33001,University,Single,Purchased as used,2000,Urban,Used
+150565,27,Female,35666.6666666667,University,Single,Purchased as used,2000,Urban,Used
+133735,32,Female,26667,University,Single,Purchased as a new,2000,Urban,Used
+68959,34,Female,35666.6666666667,University,Single,Purchased as a new,2000,Urban,Used
+175474,29,Male,20000.3333333333,University,Single,Purchased as used,2000,Rural,Used
+175476,26,Male,39001,University,Single,Purchased as used,2000,Urban,Used
+150494,26,Male,60001,University,Single,Purchased as used,2000,Urban,Used
+307217,28,Female,26000.5,University,Single,Purchased as a new,1999.5,Urban,Used
+310071,27,Female,23250.25,University,Single,Purchased as used,1999,Urban,Used
+141277,26,Female,26000.5,University,Single,Purchased as used,1999,Urban,Used
+144865,30,Female,40000.5,University,Single,Purchased as used,1999,Urban,Used
+41557,34,Male,26750,University,Single,Purchased as used,1999,Urban,Used
+149079,32,Male,33001,University,Single,Purchased as used,1999,Urban,Used
+306827,26,Male,60001,University,Single,Purchased as used,1999,Rural,Used
+251416,26,Female,46500.5,University,Single,Purchased as used,1998.5,Urban,Used
+174913,49,Female,3500.5,University,Single,Purchased as used,1998,Rural,Used
+58327,31,Female,3833.66666666667,University,Single,Purchased as used,1998,Urban,Used
+144959,28,Female,7250.5,University,Single,Purchased as used,1998,Urban,Used
+258866,28,Female,22001,University,Single,Purchased as used,1998,Rural,Used
+272018,24,Female,23250.25,University,Single,Purchased as used,1998,Urban,Used
+163928,33,Female,34500.5,University,Single,Purchased as used,1998,Urban,Used
+306781,27,Female,35666.6666666667,University,Single,Purchased as used,1998,Urban,Used
+42909,33,Male,46500.5,University,Single,Purchased as used,1998,Urban,Used
+141408,29,Male,53500,University,Single,Purchased as used,1998,Urban,Used
+39246,34,Female,26000.5,University,Single,Purchased as used,1997,Urban,Used
+258977,27,Female,31000.3333333333,University,Single,Purchased as used,1997,Rural,Used
+37024,31,Male,31000.3333333333,University,Single,Purchased as used,1997,Rural,Used
+260113,26,Male,26750,University,Single,Purchased as used,1996.5,Urban,Used
+174298,25,Female,26000.5,University,Single,Purchased as used,1996,Rural,Used
+260813,35,Female,35666.6666666667,University,Single,Purchased as used,1996,Urban,Used
+246032,37,Female,30000.5,University,Single,Purchased as used,1995.5,Urban,Used
+307000,26,Female,52001,University,Single,Purchased as used,1995.5,Rural,Used
+178073,28,Female,4833.66666666667,University,Single,Purchased as used,1995,Urban,Used
+159534,27,Female,40000.5,University,Single,Purchased as used,1995,Urban,Used
+258885,25,Male,13000.3333333333,University,Single,Purchased as used,1995,Urban,Used
+307369,27,Male,69001,University,Single,Purchased as used,1995,Urban,Used
+310841,24,Male,22500.5,University,Single,Purchased as used,1994.5,Urban,Used
+150356,26,Male,26667,University,Single,Purchased as used,1994.5,Rural,Used
+306848,27,Male,80001,University,Single,Purchased as used,1994,Urban,Used
+251986,25,Female,15000.3333333333,University,Single,Purchased as used,1993.5,Rural,Used
+76003,36,Female,31000.3333333333,University,Single,Purchased as used,1993,Urban,Used
+118229,30,Female,34500.5,University,Single,Purchased as used,1993,Urban,Used
+154195,30,Female,19500.5,University,Single,Purchased as a new,1993,Urban,Used
+226955,45,Female,26000.5,University,Single,Purchased as a new,1993,Urban,Used
+37160,26,Male,17833.3333333333,University,Single,Purchased as used,1993,Rural,Used
+154074,26,Male,35666.6666666667,University,Single,Purchased as used,1993,Urban,Used
+149100,27,Male,26000.5,University,Single,Purchased as a new,1993,Urban,Used
+140846,25,Male,30000.5,University,Single,Purchased as used,1992.5,Rural,Used
+37149,28,Female,46500.5,University,Single,Purchased as a new,1992,Urban,Used
+267385,26,Male,11000.3333333333,University,Single,Purchased as used,1992,Urban,Used
+158868,26,Male,22001,University,Single,Purchased as used,1992,Rural,Used
+184284,41,Male,34500.5,University,Single,Purchased as used,1992,Urban,Used
+307583,30,Male,35666.6666666667,University,Single,Purchased as used,1992,Urban,Used
+226956,25,Male,52001,University,Single,Purchased as used,1992,Rural,Used
+251954,31,Female,16500.5,University,Single,Purchased as a new,1991,Urban,Used
+273511,31,Female,22001,University,Single,Purchased as a new,1991,Rural,Used
+132867,32,Male,31000.3333333333,University,Single,Purchased as used,1991,Urban,Used
+157231,33,Male,34500.5,University,Single,Purchased as used,1991,Urban,Used
+140963,49,Male,19500.5,University,Single,Purchased as a new,1991,Urban,Used
+131753,28,Male,33001,University,Single,Purchased as a new,1991,Urban,Used
+174320,40,Female,39001,University,Single,Purchased as a new,1990.5,Urban,Used
+261019,30,Female,5750.5,University,Single,Purchased as used,1990,Urban,Used
+174536,24,Female,16500.5,University,Single,Purchased as used,1990,Urban,Used
+37058,28,Female,22001,University,Single,Purchased as used,1990,Urban,Used
+58267,30,Female,23250.25,University,Single,Purchased as used,1990,Urban,Used
+148784,27,Female,26000.5,University,Single,Purchased as used,1990,Urban,Used
+141003,32,Female,9001,University,Single,Purchased as a new,1990,Urban,Used
+306453,28,Male,35666.6666666667,University,Single,Purchased as used,1990,Urban,Used
+144971,34,Male,46500.5,University,Single,Purchased as used,1990,Urban,Used
+131488,30,Male,53500,University,Single,Purchased as used,1990,Urban,Used
+156892,38,Male,34500.5,University,Single,Purchased as a new,1990,Urban,Used
+63717,31,Female,27001,University,Single,Purchased as used,1989,Urban,Used
+310014,31,Female,34500.5,University,Single,Purchased as used,1989,Urban,Used
+131489,31,Female,34500.5,University,Single,Purchased as used,1989,Urban,Used
+148858,30,Female,31000.3333333333,University,Single,Purchased as a new,1989,Urban,Used
+310685,27,Female,46500.5,University,Single,Purchased as a new,1989,Urban,Used
+44115,25,Male,13500.5,University,Single,Purchased as used,1989,Urban,Used
+168334,35,Male,45001,University,Single,Purchased as used,1989,Urban,Used
+159852,32,Male,53500,University,Single,Purchased as used,1989,Urban,Used
+157158,22,Male,22500.5,University,Single,Purchased as a new,1989,Urban,Used
+142270,24,Female,23000.3333333333,University,Single,Purchased as used,1988,Urban,Used
+144956,42,Male,26000.5,University,Single,Purchased as used,1988,Urban,Used
+306488,29,Male,13500.5,University,Single,Purchased as a new,1988,Urban,Used
+273634,23,Female,9000.5,University,Single,Purchased as used,1987,Urban,Used
+148813,24,Female,16500.5,University,Single,Purchased as used,1987,Urban,Used
+193786,26,Female,27001,University,Single,Purchased as used,1987,Rural,Used
+310801,30,Female,30000.5,University,Single,Purchased as used,1987,Rural,Used
+196155,24,Female,40000.5,University,Single,Purchased as used,1987,Rural,Used
+307412,27,Female,16500.5,University,Single,Purchased as a new,1987,Urban,Used
+33011,28,Male,19500.5,University,Single,Purchased as a new,1987,Urban,Used
+117692,34,Female,45001,University,Single,Purchased as used,1986,Urban,Used
+306626,29,Male,40000.5,University,Single,Purchased as used,1985,Rural,Used
+141411,26,Male,13500.5,University,Single,Purchased as used,1984,Rural,Used
+174539,28,Male,22001,University,Single,Purchased as used,1983,Urban,Used
+131578,47,Male,45001,University,Single,Purchased as used,1983,Rural,Used
+258998,26,Female,6750.25,University,Single,Purchased as used,1980,Urban,Used
+67939,30,Male,20000.3333333333,University,Single,Purchased as used,1980,Urban,Used
+193519,35,Female,22500.5,University,Single,Purchased as a new,1978,Urban,Used
+162021,31,Male,27001,University,Single,Purchased as used,1978,Rural,Used
+37096,28,Male,45001,University,Single,Purchased as used,1978,Urban,Used
+117706,30,Male,19500.5,University,Single,Purchased as a new,1978,Rural,Used
+226929,29,Male,22001,University,Single,Purchased as used,1977,Rural,Used
+144711,27,Female,19500.5,University,Single,Purchased as used,1975,Urban,Used
+117881,28,Female,53500,College,Single,Purchased as a new,2011,Urban,Used
+153983,28,Female,33001,College,Single,Purchased as used,2008.5,Rural,Used
+273668,25,Female,46500.5,College,Single,Purchased as a new,2008,Urban,Used
+177975,25,Female,13500.5,College,Single,Purchased as used,2007,Urban,Used
+154597,25,Female,35666.6666666667,College,Single,Purchased as a new,2007,Urban,Used
+165232,28,Female,60001,College,Single,Purchased as a new,2007,Urban,Used
+153978,29,Male,52001,College,Single,Purchased as a new,2007,Urban,Used
+39277,35,Female,6000.33333333333,College,Single,Purchased as used,2006,Urban,Used
+251515,23,Female,9000.5,College,Single,Purchased as used,2006,Urban,Used
+117870,29,Male,23000.3333333333,College,Single,Purchased as used,2006,Urban,Used
+133640,30,Male,46500.5,College,Single,Purchased as a new,2006,Urban,Used
+258883,31,Female,20000.3333333333,College,Single,Purchased as used,2005,Urban,Used
+70690,34,Male,26667,College,Single,Purchased as used,2005,Urban,Used
+141607,46,Male,34500.5,College,Single,Purchased as a new,2005,Urban,Used
+307344,26,Female,46500.5,College,Single,Purchased as used,2004,Urban,Used
+159558,30,Male,22500.5,College,Single,Purchased as used,2004,Urban,Used
+195654,23,Female,26667,College,Single,Purchased as used,2003,Urban,Used
+175921,25,Female,31000.3333333333,College,Single,Purchased as used,2003,Urban,Used
+183911,28,Female,33001,College,Single,Purchased as used,2003,Urban,Used
+272962,29,Female,19500.5,College,Single,Purchased as a new,2003,Urban,Used
+188088,33,Female,35666.6666666667,College,Single,Purchased as a new,2003,Urban,Used
+195721,34,Male,27001,College,Single,Purchased as used,2003,Urban,Used
+154130,27,Male,33001,College,Single,Purchased as used,2003,Urban,Used
+141273,33,Male,35666.6666666667,College,Single,Purchased as used,2003,Urban,Used
+131474,33,Male,53500,College,Single,Purchased as used,2003,Urban,Used
+187829,24,Male,7800.2,College,Single,Purchased as used,2002.5,Urban,Used
+184049,30,Male,23000.3333333333,College,Single,Purchased as used,2002.5,Urban,Used
+307240,24,Female,18001,College,Single,Purchased as used,2002,Rural,Used
+251747,36,Female,22500.5,College,Single,Purchased as used,2002,Urban,Used
+307196,45,Female,27001,College,Single,Purchased as used,2002,Urban,Used
+60185,31,Female,26000.5,College,Single,Purchased as used,2001,Urban,Used
+306765,32,Male,13000.3333333333,College,Single,Purchased as used,2001,Urban,Used
+118203,35,Male,18001,College,Single,Purchased as used,2001,Rural,Used
+306760,21,Female,80001,College,Single,Purchased as used,2000.5,Urban,Used
+260606,23,Female,13500.5,College,Single,Purchased as used,2000,Urban,Used
+310636,35,Male,30000.5,College,Single,Purchased as used,2000,Urban,Used
+76121,23,Male,40000.5,College,Single,Purchased as used,2000,Urban,Used
+258971,25,Male,16500.5,College,Single,Purchased as used,1999,Urban,Used
+177785,27,Female,7001,College,Single,Purchased as used,1998,Urban,Used
+193703,24,Female,27001,College,Single,Purchased as used,1998,Urban,Used
+306884,47,Male,40000.5,College,Single,Purchased as used,1998,Urban,Used
+136546,33,Male,45001,College,Single,Purchased as a new,1998,Urban,Used
+163098,24,Female,3500.5,College,Single,Purchased as used,1997,Rural,Used
+33204,34,Male,34500.5,College,Single,Purchased as used,1997,Urban,Used
+63839,32,Male,39001,College,Single,Purchased as used,1997,Rural,Used
+32985,33,Female,26000.5,College,Single,Purchased as a new,1996.5,Urban,Used
+60181,26,Male,26750,College,Single,Purchased as used,1996.5,Urban,Used
+39244,38,Male,26000.5,College,Single,Purchased as a new,1996.5,Urban,Used
+224538,23,Female,26750,College,Single,Purchased as used,1996,Rural,Used
+141093,30,Female,39001,College,Single,Purchased as used,1996,Rural,Used
+307236,25,Male,26000.5,College,Single,Purchased as used,1996,Urban,Used
+267440,29,Male,30000.5,College,Single,Purchased as used,1996,Urban,Used
+188523,31,Male,31000.3333333333,College,Single,Purchased as used,1996,Urban,Used
+184271,25,Male,34500.5,College,Single,Purchased as used,1996,Urban,Used
+276849,26,Male,1750.25,College,Single,Purchased as used,1995,Rural,Used
+267432,33,Male,30000.5,College,Single,Purchased as used,1995,Urban,Used
+307211,23,Male,26000.5,College,Single,Purchased as a new,1993.66666666667,Rural,Used
+258794,38,Female,9000.33333333333,College,Single,Purchased as used,1993,Urban,Used
+177934,37,Female,30000.5,College,Single,Purchased as used,1993,Urban,Used
+224431,27,Female,23000.3333333333,College,Single,Purchased as used,1992.5,Rural,Used
+153747,41,Female,33001,College,Single,Purchased as used,1992,Urban,Used
+168325,28,Male,40000.5,College,Single,Purchased as used,1991,Urban,Used
+176035,24,Male,16500.5,College,Single,Purchased as a new,1991,Urban,Used
+184116,30,Female,26000.5,College,Single,Purchased as used,1990,Urban,Used
+188370,24,Female,33001,College,Single,Purchased as used,1990,Urban,Used
+223627,25,Female,7001,College,Single,Purchased as used,1989,Rural,Used
+63010,33,Female,33001,College,Single,Purchased as used,1989,Urban,Used
+159149,26,Male,30000.5,College,Single,Purchased as used,1989,Urban,Used
+31102,30,Female,30000.5,College,Single,Purchased as used,1987,Urban,Used
+154525,29,Female,22001,College,Single,Purchased as a new,1987,Urban,Used
+132130,32,Male,23250.25,College,Single,Purchased as used,1987,Urban,Used
+150784,31,Male,34500.5,College,Single,Purchased as used,1987,Urban,Used
+42881,45,Male,52001,College,Single,Purchased as used,1987,Urban,Used
+162027,25,Male,14501,College,Single,Purchased as a new,1987,Urban,Used
+165993,28,Female,7001,College,Single,Purchased as used,1986,Urban,Used
+286857,28,Female,45001,College,Single,Purchased as used,1985,Urban,Used
+176138,28,Female,9000.5,Unfinished university,Single,Purchased as a new,2010,Urban,Used
+131513,32,Female,33001,Unfinished university,Single,Purchased as a new,2008,Urban,Used
+118339,31,Male,27001,Unfinished university,Single,Purchased as a new,2008,Urban,Used
+252356,24,Female,31000.3333333333,Unfinished university,Single,Purchased as used,2007,Urban,Used
+72160,28,Female,14501,Unfinished university,Single,Purchased as a new,2004,Urban,Used
+141442,31,Male,34500.5,Unfinished university,Single,Purchased as used,2004,Urban,Used
+144886,23,Female,14501,Unfinished university,Single,Purchased as used,2003,Urban,Used
+284253,31,Female,35666.6666666667,Unfinished university,Single,Purchased as used,2003,Urban,Used
+159202,25,Female,52001,Unfinished university,Single,Purchased as used,2003,Urban,Used
+224588,28,Male,16500.5,Unfinished university,Single,Purchased as used,2003,Urban,Used
+131516,31,Female,27001,Unfinished university,Single,Purchased as used,2002,Urban,Used
+118461,28,Male,31000.3333333333,Unfinished university,Single,Purchased as used,2002,Urban,Used
+118104,26,Female,35666.6666666667,Unfinished university,Single,Purchased as used,2001.5,Urban,Used
+141428,30,Female,34500.5,Unfinished university,Single,Purchased as used,2001,Urban,Used
+117871,29,Male,31000.3333333333,Unfinished university,Single,Purchased as used,2000,Rural,Used
+258905,25,Female,26000.5,Unfinished university,Single,Purchased as used,1999.5,Rural,Used
+150394,27,Male,20000.3333333333,Unfinished university,Single,Purchased as used,1999,Urban,Used
+141689,33,Male,53500,Unfinished university,Single,Purchased as used,1999,Urban,Used
+165220,28,Female,22500.5,Unfinished university,Single,Purchased as used,1998,Urban,Used
+306862,30,Male,35666.6666666667,Unfinished university,Single,Purchased as used,1997.5,Urban,Used
+166906,31,Male,26000.5,Unfinished university,Single,Purchased as used,1997,Rural,Used
+144714,26,Male,18001,Unfinished university,Single,Purchased as used,1996,Rural,Used
+188381,28,Male,35666.6666666667,Unfinished university,Single,Purchased as used,1995,Urban,Used
+193406,29,Male,52001,Unfinished university,Single,Purchased as a new,1994,Urban,Used
+141679,25,Male,33001,Unfinished university,Single,Purchased as used,1990,Urban,Used
+123052,32,Male,23000.3333333333,Unfinished university,Single,Purchased as used,1988,Rural,Used
+157244,28,Female,20000.3333333333,Unfinished university,Single,Purchased as used,1986,Rural,Used
+145999,35,Male,52001,Unfinished university,Single,Purchased as used,1986,Urban,Used
+307535,22,Female,45001,High school,Single,Purchased as a new,2011,Urban,Used
+159508,20,Female,18001,High school,Single,Purchased as used,2010,Urban,Used
+131829,30,Male,22500.5,High school,Single,Purchased as a new,2010,Urban,Used
+307520,21,Male,53500,High school,Single,Purchased as a new,2010,Urban,Used
+310843,19,Female,30000.5,High school,Single,Purchased as a new,2009,Urban,Used
+306580,21,Male,34500.5,High school,Single,Purchased as used,2008,Urban,Used
+175845,27,Male,35666.6666666667,High school,Single,Purchased as used,2008,Urban,Used
+306752,19,Female,30000.5,High school,Single,Purchased as used,2007,Urban,Used
+153823,23,Female,22001,High school,Single,Purchased as used,2006,Urban,Used
+246039,30,Female,22500.5,High school,Single,Purchased as used,2006,Rural,Used
+37243,24,Male,40000.5,High school,Single,Purchased as a new,2006,Urban,Used
+163994,22,Female,26000.5,High school,Single,Purchased as used,2005,Urban,Used
+307418,23,Female,26667,High school,Single,Purchased as used,2005,Urban,Used
+258986,20,Male,9000.33333333333,High school,Single,Purchased as a new,2005,Rural,Used
+199995,23,Male,19500.5,High school,Single,Purchased as a new,2005,Urban,Used
+306424,20,Male,53500,High school,Single,Purchased as a new,2005,Urban,Used
+118113,32,Female,26667,High school,Single,Purchased as used,2004.5,Urban,Used
+259289,19,Female,60001,High school,Single,Purchased as used,2004.5,Urban,Used
+307029,31,Female,30000.5,High school,Single,Purchased as used,2004,Rural,Used
+153803,23,Female,31000.3333333333,High school,Single,Purchased as used,2004,Urban,Used
+261059,24,Female,39001,High school,Single,Purchased as a new,2004,Rural,Used
+273649,26,Male,22001,High school,Single,Purchased as used,2004,Urban,Used
+252368,20,Male,27001,High school,Single,Purchased as used,2004,Urban,Used
+195738,26,Male,30000.5,High school,Single,Purchased as used,2004,Urban,Used
+188467,23,Male,35666.6666666667,High school,Single,Purchased as used,2004,Urban,Used
+307131,30,Male,40000.5,High school,Single,Purchased as used,2004,Urban,Used
+144737,23,Male,30000.5,High school,Single,Purchased as a new,2004,Urban,Used
+176167,24,Female,31000.3333333333,High school,Single,Purchased as used,2003,Urban,Used
+306640,22,Female,31000.3333333333,High school,Single,Purchased as used,2003,Rural,Used
+271989,20,Female,53500,High school,Single,Purchased as used,2003,Urban,Used
+274303,26,Female,60001,High school,Single,Purchased as used,2003,Urban,Used
+277398,22,Male,7001,High school,Single,Purchased as used,2003,Urban,Used
+154073,28,Male,20000.3333333333,High school,Single,Purchased as used,2003,Urban,Used
+136512,29,Male,26750,High school,Single,Purchased as used,2003,Urban,Used
+163277,20,Male,33001,High school,Single,Purchased as used,2003,Urban,Used
+37022,25,Male,34500.5,High school,Single,Purchased as used,2003,Rural,Used
+193467,29,Male,39001,High school,Single,Purchased as used,2003,Urban,Used
+176071,20,Male,46500.5,High school,Single,Purchased as used,2003,Urban,Used
+118884,22,Male,9001,High school,Single,Purchased as used,2002.5,Urban,Used
+224595,23,Female,16500.5,High school,Single,Purchased as used,2002,Urban,Used
+158789,29,Female,19500.5,High school,Single,Purchased as used,2002,Urban,Used
+133719,23,Female,26667,High school,Single,Purchased as used,2002,Urban,Used
+150529,24,Female,26750,High school,Single,Purchased as used,2002,Urban,Used
+187926,23,Female,30000.5,High school,Single,Purchased as used,2002,Rural,Used
+188253,20,Female,30000.5,High school,Single,Purchased as used,2002,Urban,Used
+188056,29,Female,35666.6666666667,High school,Single,Purchased as used,2002,Urban,Used
+276990,26,Female,35666.6666666667,High school,Single,Purchased as used,2002,Urban,Used
+306668,35,Female,69001,High school,Single,Purchased as used,2002,Urban,Used
+159939,22,Female,69001,High school,Single,Purchased as used,2002,Rural,Used
+153841,30,Male,9000.5,High school,Single,Purchased as used,2002,Rural,Used
+156920,25,Male,14501,High school,Single,Purchased as used,2002,Urban,Used
+278811,33,Male,20000.3333333333,High school,Single,Purchased as used,2002,Urban,Used
+178267,25,Male,22500.5,High school,Single,Purchased as used,2002,Urban,Used
+195718,30,Male,23000.3333333333,High school,Single,Purchased as used,2002,Urban,Used
+163317,24,Male,26667,High school,Single,Purchased as used,2002,Urban,Used
+188503,25,Male,30000.5,High school,Single,Purchased as used,2002,Urban,Used
+33532,38,Male,33001,High school,Single,Purchased as used,2002,Urban,Used
+49206,28,Male,45001,High school,Single,Purchased as used,2002,Rural,Used
+136646,37,Male,45001,High school,Single,Purchased as used,2002,Urban,Used
+58214,41,Male,46500.5,High school,Single,Purchased as used,2002,Rural,Used
+276787,25,Male,46500.5,High school,Single,Purchased as used,2002,Rural,Used
+306936,38,Male,69001,High school,Single,Purchased as used,2002,Urban,Used
+157184,26,Male,107000,High school,Single,Purchased as used,2001.5,Urban,Used
+234657,22,Female,22500.5,High school,Single,Purchased as used,2001,Urban,Used
+131854,27,Female,40000.5,High school,Single,Purchased as used,2001,Urban,Used
+251771,21,Female,40000.5,High school,Single,Purchased as used,2001,Urban,Used
+260767,22,Male,7001,High school,Single,Purchased as used,2001,Urban,Used
+306414,24,Male,30000.5,High school,Single,Purchased as used,2001,Urban,Used
+150889,23,Male,30000.5,High school,Single,Purchased as used,2001,Urban,Used
+131433,35,Male,34500.5,High school,Single,Purchased as used,2001,Urban,Used
+306627,21,Male,69001,High school,Single,Purchased as used,2001,Urban,Used
+310753,28,Female,11000.5,High school,Single,Purchased as used,2000,Urban,Used
+273574,22,Female,19500.5,High school,Single,Purchased as used,2000,Urban,Used
+131630,25,Female,22001,High school,Single,Purchased as used,2000,Urban,Used
+245892,20,Female,22001,High school,Single,Purchased as used,2000,Rural,Used
+306461,26,Female,23000.3333333333,High school,Single,Purchased as used,2000,Rural,Used
+159209,21,Female,26000.5,High school,Single,Purchased as used,2000,Rural,Used
+307106,24,Female,27001,High school,Single,Purchased as used,2000,Urban,Used
+259118,22,Female,33001,High school,Single,Purchased as used,2000,Urban,Used
+133909,25,Female,34500.5,High school,Single,Purchased as used,2000,Urban,Used
+162735,24,Female,34500.5,High school,Single,Purchased as used,2000,Urban,Used
+118071,27,Female,45001,High school,Single,Purchased as used,2000,Urban,Used
+251642,26,Male,23000.3333333333,High school,Single,Purchased as used,2000,Urban,Used
+42884,35,Male,26667,High school,Single,Purchased as used,2000,Urban,Used
+307028,21,Male,27001,High school,Single,Purchased as used,2000,Urban,Used
+131452,24,Male,30000.5,High school,Single,Purchased as used,2000,Urban,Used
+310674,23,Male,33001,High school,Single,Purchased as used,2000,Urban,Used
+163999,21,Male,33001,High school,Single,Purchased as used,2000,Rural,Used
+157291,32,Male,34500.5,High school,Single,Purchased as used,2000,Urban,Used
+310072,22,Male,60001,High school,Single,Purchased as used,2000,Urban,Used
+175837,24,Male,53500,High school,Single,Purchased as a new,2000,Urban,Used
+260837,24,Female,35666.6666666667,High school,Single,Purchased as used,1999,Rural,Used
+188126,26,Male,52001,High school,Single,Purchased as used,1999,Urban,Used
+197495,26,Male,69001,High school,Single,Purchased as used,1999,Urban,Used
+273671,25,Male,80001,High school,Single,Purchased as used,1999,Rural,Used
+306729,25,Female,27001,High school,Single,Purchased as used,1998,Urban,Used
+277531,21,Male,13500.5,High school,Single,Purchased as used,1998,Rural,Used
+75193,24,Male,14501,High school,Single,Purchased as used,1998,Urban,Used
+201701,25,Male,22500.5,High school,Single,Purchased as used,1998,Urban,Used
+179392,22,Male,27001,High school,Single,Purchased as used,1998,Urban,Used
+259136,23,Female,7001,High school,Single,Purchased as used,1997.5,Urban,Used
+251488,25,Female,14501,High school,Single,Purchased as used,1997,Urban,Used
+201666,24,Female,22500.5,High school,Single,Purchased as used,1997,Rural,Used
+145052,26,Female,23000.3333333333,High school,Single,Purchased as used,1997,Urban,Used
+307495,46,Male,7001,High school,Single,Purchased as used,1997,Rural,Used
+307082,30,Male,16500.5,High school,Single,Purchased as used,1997,Rural,Used
+200043,24,Male,22500.5,High school,Single,Purchased as used,1997,Urban,Used
+37033,25,Male,26000.5,High school,Single,Purchased as used,1997,Urban,Used
+140807,36,Male,35666.6666666667,High school,Single,Purchased as used,1997,Rural,Used
+142418,39,Female,15000.25,High school,Single,Purchased as used,1996.66666666667,Urban,Used
+145128,29,Male,13500.5,High school,Single,Purchased as a new,1996.5,Urban,Used
+159465,33,Male,3500.5,High school,Single,Purchased as used,1996,Urban,Used
+148852,26,Male,30000.5,High school,Single,Purchased as used,1996,Urban,Used
+117566,37,Male,31000.3333333333,High school,Single,Purchased as used,1996,Urban,Used
+193648,26,Male,40000.5,High school,Single,Purchased as used,1996,Rural,Used
+140870,20,Male,53500,High school,Single,Purchased as used,1996,Urban,Used
+67407,31,Female,31000.3333333333,High school,Single,Purchased as used,1995,Urban,Used
+251526,47,Female,35666.6666666667,High school,Single,Purchased as used,1995,Rural,Used
+306935,30,Male,22001,High school,Single,Purchased as used,1995,Urban,Used
+310745,27,Male,22001,High school,Single,Purchased as used,1995,Rural,Used
+142299,25,Male,17333.6666666667,High school,Single,Purchased as used,1994,Urban,Used
+307198,26,Female,26000.5,High school,Single,Purchased as used,1993,Urban,Used
+117806,32,Female,26750,High school,Single,Purchased as used,1993,Urban,Used
+281165,28,Male,14501,High school,Single,Purchased as used,1993,Rural,Used
+188488,28,Male,34500.5,High school,Single,Purchased as used,1993,Urban,Used
+164575,27,Female,45001,High school,Single,Purchased as used,1992.5,Rural,Used
+224601,23,Female,26000.5,High school,Single,Purchased as used,1992,Urban,Used
+176160,24,Female,30000.5,High school,Single,Purchased as used,1992,Rural,Used
+234899,26,Female,34500.5,High school,Single,Purchased as used,1992,Urban,Used
+307456,21,Female,23000.3333333333,High school,Single,Purchased as a new,1992,Rural,Used
+75265,26,Male,7001,High school,Single,Purchased as used,1992,Urban,Used
+117697,26,Male,16500.5,High school,Single,Purchased as used,1992,Rural,Used
+75281,20,Male,22001,High school,Single,Purchased as used,1992,Urban,Used
+273647,24,Female,3500.5,High school,Single,Purchased as used,1991,Urban,Used
+306982,23,Female,9001,High school,Single,Purchased as used,1991,Urban,Used
+224602,21,Female,26000.5,High school,Single,Purchased as used,1991,Urban,Used
+281246,35,Female,7001,High school,Single,Purchased as a new,1991,Urban,Used
+306996,30,Male,26000.5,High school,Single,Purchased as a new,1991,Urban,Used
+175849,26,Female,14501,High school,Single,Purchased as used,1990,Urban,Used
+149123,30,Female,26000.5,High school,Single,Purchased as used,1990,Urban,Used
+306169,38,Female,34500.5,High school,Single,Purchased as used,1990,Urban,Used
+276945,24,Female,34500.5,High school,Single,Purchased as used,1990,Urban,Used
+148796,26,Female,35666.6666666667,High school,Single,Purchased as used,1990,Urban,Used
+307498,27,Male,52001,High school,Single,Purchased as used,1990,Urban,Used
+147151,25,Female,53500,High school,Single,Purchased as used,1989.66666666667,Urban,Used
+157133,23,Female,45001,High school,Single,Purchased as used,1989.5,Rural,Used
+306410,22,Female,7001,High school,Single,Purchased as used,1989,Urban,Used
+251212,21,Female,9000.33333333333,High school,Single,Purchased as used,1989,Urban,Used
+175174,26,Female,13000.3333333333,High school,Single,Purchased as used,1989,Rural,Used
+251215,22,Female,13000.3333333333,High school,Single,Purchased as used,1989,Urban,Used
+145015,23,Female,17333.6666666667,High school,Single,Purchased as used,1989,Rural,Used
+307161,21,Male,7333.66666666667,High school,Single,Purchased as used,1989,Rural,Used
+174538,24,Male,16500.5,High school,Single,Purchased as used,1989,Urban,Used
+133796,38,Male,20000.3333333333,High school,Single,Purchased as used,1989,Urban,Used
+196605,29,Male,31000.3333333333,High school,Single,Purchased as used,1989,Rural,Used
+145095,40,Male,22500.5,High school,Single,Purchased as a new,1989,Urban,Used
+224545,22,Female,7001,High school,Single,Purchased as used,1988,Urban,Used
+141018,25,Female,7001,High school,Single,Purchased as used,1988,Urban,Used
+307359,26,Female,27001,High school,Single,Purchased as used,1988,Urban,Used
+122991,36,Male,33001,High school,Single,Purchased as used,1988,Rural,Used
+131883,24,Male,40000.5,High school,Single,Purchased as used,1988,Rural,Used
+310098,25,Male,46500.5,High school,Single,Purchased as used,1988,Rural,Used
+307062,24,Female,23000.3333333333,High school,Single,Purchased as used,1987,Urban,Used
+193275,28,Female,26000.5,High school,Single,Purchased as used,1987,Urban,Used
+178280,26,Female,26000.5,High school,Single,Purchased as a new,1987,Urban,Used
+132192,24,Male,11501,High school,Single,Purchased as used,1987,Urban,Used
+144718,40,Male,14501,High school,Single,Purchased as used,1987,Rural,Used
+188163,20,Male,19500.5,High school,Single,Purchased as used,1987,Urban,Used
+153997,23,Male,19500.5,High school,Single,Purchased as used,1987,Urban,Used
+158525,24,Male,26000.5,High school,Single,Purchased as used,1987,Urban,Used
+193666,30,Male,27001,High school,Single,Purchased as used,1987,Urban,Used
+201446,39,Male,27001,High school,Single,Purchased as used,1987,Urban,Used
+174929,22,Female,22500.5,High school,Single,Purchased as used,1986,Urban,Used
+275225,25,Female,39001,High school,Single,Purchased as used,1986,Rural,Used
+307525,20,Male,20000.3333333333,High school,Single,Purchased as used,1986,Rural,Used
+307402,28,Male,33001,High school,Single,Purchased as used,1986,Rural,Used
+148883,23,Female,33001,High school,Single,Purchased as used,1985,Urban,Used
+37234,27,Female,53500,High school,Single,Purchased as used,1984,Urban,Used
+307461,22,Male,15000.3333333333,High school,Single,Purchased as used,1984,Urban,Used
+174574,23,Male,45001,High school,Single,Purchased as used,1984,Urban,Used
+310016,30,Male,33001,High school,Single,Purchased as a new,1982,Rural,Used
+149570,23,Female,15000.3333333333,High school,Single,Purchased as used,1981,Rural,Used
+175208,22,Female,22500.5,High school,Single,Purchased as used,1980,Rural,Used
+307524,22,Female,23000.3333333333,High school,Single,Purchased as a new,1980,Urban,Used
+195772,21,Male,30000.5,High school,Single,Purchased as used,1980,Rural,Used
+146922,26,Female,22500.5,High school,Single,Purchased as a new,1977,Urban,Used
+276837,21,Female,3500.5,Craftsman,Single,Purchased as used,1990,Urban,Used
+223624,19,Female,19500.5,Not finsihed high school,Single,Purchased as used,1994,Urban,Used
+140972,36,Male,52001,Not finsihed high school,Single,Purchased as used,1988,Urban,Used
+252120,19,Female,30000.5,Elementary school,Single,Purchased as a new,2007,Urban,Used
+159199,19,Male,34500.5,Elementary school,Single,Purchased as used,2006,Urban,Used
+226948,19,Female,46500.5,Elementary school,Single,Purchased as used,2003,Urban,Used
+178220,28,Female,30000.5,Elementary school,Single,Purchased as used,2001,Rural,Used
+276949,18,Male,26000.5,Elementary school,Single,Purchased as used,2001,Rural,Used
+277554,18,Female,18001,Elementary school,Single,Purchased as used,1993,Urban,Used
+175178,38,Female,39001,University,Divorced,Purchased as a new,2009,Urban,New
+163463,43,Female,60001,University,Divorced,Purchased as a new,2009,Urban,New
+281142,42,Female,80001,University,Divorced,Purchased as a new,2009,Urban,New
+174263,47,Male,52001,University,Divorced,Purchased as used,2009,Urban,New
+174542,41,Female,60001,University,Divorced,Purchased as a new,2007,Urban,New
+174991,40,Female,60001,University,Divorced,Purchased as a new,2005,Urban,New
+157620,49,Female,69001,University,Divorced,Purchased as a new,2005,Urban,New
+310798,39,Female,33001,University,Divorced,Purchased as used,2003,Urban,New
+174224,39,Female,33001,University,Divorced,Purchased as used,2003,Urban,New
+136516,34,Female,16500.5,University,Divorced,Purchased as used,2002,Urban,New
+43233,38,Female,31000.3333333333,University,Divorced,Purchased as used,2002,Urban,New
+131805,36,Female,80001,University,Divorced,Purchased as used,2001,Urban,New
+174397,48,Female,30000.5,University,Divorced,Purchased as used,2000,Urban,New
+307009,39,Female,69001,University,Divorced,Purchased as used,1995,Urban,New
+132055,36,Female,53500,University,Divorced,Purchased as a new,1991,Urban,New
+117462,38,Female,23000.3333333333,University,Divorced,Purchased as a new,1990,Urban,New
+39228,45,Female,26000.5,University,Divorced,Purchased as used,1989,Urban,New
+142265,35,Female,30000.5,University,Divorced,Purchased as used,1984,Urban,New
+251460,28,Female,9001,University,Divorced,Purchased as used,1974,Urban,New
+184922,40,Male,23000.3333333333,College,Divorced,Purchased as a new,2007,Urban,New
+37087,49,Male,80001,College,Divorced,Purchased as used,2006,Urban,New
+131708,33,Female,52001,College,Divorced,Purchased as used,2001,Urban,New
+259088,43,Female,39001,Unfinished university,Divorced,Purchased as a new,2009,Urban,New
+183737,37,Male,40000.5,Unfinished university,Divorced,Purchased as a new,2007,Urban,New
+224146,48,Female,7001,Unfinished university,Divorced,Purchased as used,2000,Urban,New
+273505,28,Female,35666.6666666667,High school,Divorced,Purchased as a new,2013,Urban,New
+307297,44,Female,52001,High school,Divorced,Purchased as a new,2010,Urban,New
+272965,31,Female,26000.5,High school,Divorced,Purchased as used,2007,Urban,New
+272035,48,Female,45001,High school,Divorced,Purchased as a new,2007,Urban,New
+117500,47,Female,53500,High school,Divorced,Purchased as a new,2006.5,Urban,New
+272000,41,Male,34500.5,High school,Divorced,Purchased as used,2004,Urban,New
+306547,38,Female,17333.6666666667,High school,Divorced,Purchased as used,2002,Urban,New
+153905,39,Female,18001,High school,Divorced,Purchased as used,2002,Urban,New
+307362,44,Female,30000.5,High school,Divorced,Purchased as used,2002,Urban,New
+60679,31,Female,53500,High school,Divorced,Purchased as used,2002,Urban,New
+145794,39,Male,40000.5,High school,Divorced,Purchased as used,2002,Rural,New
+175344,49,Male,52001,High school,Divorced,Purchased as used,2002,Urban,New
+187828,42,Female,18001,High school,Divorced,Purchased as used,2000.33333333333,Rural,New
+163812,43,Female,11000.5,High school,Divorced,Purchased as used,1998,Urban,New
+118902,48,Female,52001,High school,Divorced,Purchased as used,1998,Urban,New
+117415,44,Male,34500.5,High school,Divorced,Purchased as used,1998,Rural,New
+310900,43,Female,69001,High school,Divorced,Purchased as used,1992,Urban,New
+277017,37,Male,46500.5,High school,Divorced,Purchased as used,1990,Urban,New
+118279,49,Female,7001,High school,Divorced,Purchased as used,1988,Urban,New
+118433,36,Male,34500.5,High school,Divorced,Purchased as used,1988,Urban,New
+247111,23,Female,27001,High school,Divorced,Purchased as a new,1986,Urban,New
+310862,36,Female,53500,Craftsman,Divorced,Purchased as a new,2004,Urban,New
+310683,37,Male,31000.3333333333,Not finsihed high school,Divorced,Purchased as used,2001.5,Urban,New
+75283,24,Male,34500.5,Not finsihed high school,Divorced,Purchased as used,1993,Urban,New
+145992,39,Male,53500,University,Merried,Purchased as a new,2013,Urban,New
+251436,32,Male,53500,University,Merried,Purchased as a new,2013,Urban,New
+43515,41,Female,2875.25,University,Merried,Purchased as used,2012,Urban,New
+39256,30,Female,40000.5,University,Merried,Purchased as a new,2012,Urban,New
+224542,39,Female,53500,University,Merried,Purchased as a new,2012,Urban,New
+159707,36,Female,53500,University,Merried,Purchased as a new,2012,Urban,New
+39297,49,Male,46500.5,University,Merried,Purchased as a new,2012,Urban,New
+306513,38,Male,53500,University,Merried,Purchased as a new,2012,Urban,New
+307529,42,Female,30000.5,University,Merried,Purchased as a new,2011,Urban,New
+117946,29,Female,33001,University,Merried,Purchased as a new,2011,Urban,New
+117425,39,Female,40000.5,University,Merried,Purchased as a new,2011,Urban,New
+61544,32,Female,40000.5,University,Merried,Purchased as a new,2011,Urban,New
+144924,30,Female,46500.5,University,Merried,Purchased as a new,2011,Urban,New
+39258,40,Female,46500.5,University,Merried,Purchased as a new,2011,Urban,New
+174664,40,Female,53500,University,Merried,Purchased as a new,2011,Urban,New
+186835,32,Female,53500,University,Merried,Purchased as a new,2011,Urban,New
+37065,37,Male,26000.5,University,Merried,Purchased as a new,2011,Urban,New
+122962,38,Male,53500,University,Merried,Purchased as a new,2011,Urban,New
+157482,36,Male,107000,University,Merried,Purchased as a new,2011,Urban,New
+174898,35,Male,107000,University,Merried,Purchased as a new,2011,Urban,New
+193694,35,Female,53500,University,Merried,Purchased as a new,2010.5,Urban,New
+42896,38,Male,53500,University,Merried,Purchased as a new,2010.5,Rural,New
+193707,31,Female,69001,University,Merried,Purchased as used,2010,Urban,New
+174951,45,Female,22500.5,University,Merried,Purchased as a new,2010,Urban,New
+224599,43,Female,53500,University,Merried,Purchased as a new,2010,Urban,New
+123035,35,Female,80001,University,Merried,Purchased as a new,2010,Urban,New
+310777,34,Male,46500.5,University,Merried,Purchased as used,2010,Urban,New
+60213,33,Male,53500,University,Merried,Purchased as used,2010,Urban,New
+252231,35,Male,53500,University,Merried,Purchased as used,2010,Urban,New
+150497,45,Male,53500,University,Merried,Purchased as used,2010,Urban,New
+73857,35,Male,46500.5,University,Merried,Purchased as a new,2010,Urban,New
+174307,43,Male,52001,University,Merried,Purchased as a new,2010,Urban,New
+164189,46,Male,53500,University,Merried,Purchased as a new,2010,Urban,New
+141443,39,Male,53500,University,Merried,Purchased as a new,2010,Urban,New
+37315,37,Male,53500,University,Merried,Purchased as a new,2010,Urban,New
+145087,37,Male,69001,University,Merried,Purchased as a new,2010,Urban,New
+131534,30,Male,80001,University,Merried,Purchased as a new,2010,Urban,New
+183758,45,Male,107000,University,Merried,Purchased as a new,2010,Urban,New
+159170,26,Female,46500.5,University,Merried,Purchased as used,2009,Urban,New
+278802,26,Female,53500,University,Merried,Purchased as used,2009,Urban,New
+150922,33,Female,4500.5,University,Merried,Purchased as a new,2009,Urban,New
+183797,38,Female,40000.5,University,Merried,Purchased as a new,2009,Urban,New
+132050,25,Female,40000.5,University,Merried,Purchased as a new,2009,Urban,New
+224507,33,Female,46500.5,University,Merried,Purchased as a new,2009,Urban,New
+145065,33,Female,46500.5,University,Merried,Purchased as a new,2009,Rural,New
+201494,27,Female,46500.5,University,Merried,Purchased as a new,2009,Urban,New
+252229,35,Female,53500,University,Merried,Purchased as a new,2009,Urban,New
+37192,49,Female,53500,University,Merried,Purchased as a new,2009,Urban,New
+157461,38,Female,53500,University,Merried,Purchased as a new,2009,Urban,New
+117417,40,Female,53500,University,Merried,Purchased as a new,2009,Urban,New
+224536,31,Female,69001,University,Merried,Purchased as a new,2009,Urban,New
+153960,37,Male,5750.5,University,Merried,Purchased as a new,2009,Urban,New
+37030,33,Male,34500.5,University,Merried,Purchased as a new,2009,Urban,New
+276851,36,Male,46500.5,University,Merried,Purchased as a new,2009,Urban,New
+66456,40,Male,46500.5,University,Merried,Purchased as a new,2009,Urban,New
+156909,45,Male,53500,University,Merried,Purchased as a new,2009,Urban,New
+33562,38,Male,53500,University,Merried,Purchased as a new,2009,Urban,New
+195722,33,Male,53500,University,Merried,Purchased as a new,2009,Urban,New
+193741,38,Male,53500,University,Merried,Purchased as a new,2009,Rural,New
+131449,34,Female,53500,University,Merried,Purchased as a new,2008.5,Urban,New
+174638,37,Female,53500,University,Merried,Purchased as a new,2008.5,Urban,New
+77111,29,Male,53500,University,Merried,Purchased as a new,2008.5,Urban,New
+131435,47,Female,1750.25,University,Merried,Purchased as used,2008,Urban,New
+37303,40,Female,5750.5,University,Merried,Purchased as used,2008,Urban,New
+193451,49,Female,53500,University,Merried,Purchased as used,2008,Urban,New
+37263,45,Female,53500,University,Merried,Purchased as used,2008,Urban,New
+174950,26,Female,26750,University,Merried,Purchased as a new,2008,Urban,New
+117290,33,Female,40000.5,University,Merried,Purchased as a new,2008,Urban,New
+148803,45,Female,46500.5,University,Merried,Purchased as a new,2008,Urban,New
+188150,36,Female,46500.5,University,Merried,Purchased as a new,2008,Urban,New
+154214,41,Female,53500,University,Merried,Purchased as a new,2008,Urban,New
+67402,35,Female,53500,University,Merried,Purchased as a new,2008,Urban,New
+44123,44,Male,53500,University,Merried,Purchased as used,2008,Urban,New
+310748,44,Male,53500,University,Merried,Purchased as a new,2008,Urban,New
+117735,46,Male,53500,University,Merried,Purchased as a new,2008,Urban,New
+67409,40,Male,107000,University,Merried,Purchased as a new,2008,Urban,New
+44102,32,Female,80001,University,Merried,Purchased as used,2007.66666666667,Urban,New
+174219,41,Female,53500,University,Merried,Purchased as a new,2007.5,Urban,New
+188294,28,Male,53500,University,Merried,Purchased as a new,2007.5,Urban,New
+37182,35,Female,30000.5,University,Merried,Purchased as used,2007,Urban,New
+176042,29,Female,52001,University,Merried,Purchased as used,2007,Urban,New
+136495,32,Female,53500,University,Merried,Purchased as used,2007,Urban,New
+276969,44,Female,53500,University,Merried,Purchased as used,2007,Urban,New
+166014,32,Female,35666.6666666667,University,Merried,Purchased as a new,2007,Urban,New
+260805,44,Female,46500.5,University,Merried,Purchased as a new,2007,Urban,New
+149262,40,Female,53500,University,Merried,Purchased as a new,2007,Urban,New
+193266,26,Female,53500,University,Merried,Purchased as a new,2007,Urban,New
+307053,49,Female,60001,University,Merried,Purchased as a new,2007,Urban,New
+67186,32,Male,53500,University,Merried,Purchased as used,2007,Urban,New
+150354,40,Male,9001,University,Merried,Purchased as a new,2007,Urban,New
+43236,39,Male,107000,University,Merried,Purchased as a new,2007,Urban,New
+148825,46,Female,53500,University,Merried,Purchased as a new,2006.5,Urban,New
+118303,41,Female,53500,University,Merried,Purchased as a new,2006.5,Urban,New
+37271,38,Male,53500,University,Merried,Purchased as a new,2006.5,Urban,New
+193443,37,Female,46500.5,University,Merried,Purchased as a new,2006.33333333333,Urban,New
+117746,36,Female,107000,University,Merried,Purchased as a new,2006.33333333333,Urban,New
+310023,27,Female,18001,University,Merried,Purchased as used,2006,Urban,New
+131974,37,Female,26750,University,Merried,Purchased as used,2006,Urban,New
+310726,38,Female,31000.3333333333,University,Merried,Purchased as used,2006,Urban,New
+310025,25,Female,40000.5,University,Merried,Purchased as used,2006,Urban,New
+117303,49,Female,53500,University,Merried,Purchased as used,2006,Urban,New
+175045,40,Female,35666.6666666667,University,Merried,Purchased as a new,2006,Urban,New
+252056,29,Female,46500.5,University,Merried,Purchased as a new,2006,Urban,New
+178291,45,Female,52001,University,Merried,Purchased as a new,2006,Urban,New
+176157,30,Male,30000.5,University,Merried,Purchased as used,2006,Urban,New
+251148,26,Male,53500,University,Merried,Purchased as used,2006,Urban,New
+45525,38,Male,53500,University,Merried,Purchased as a new,2006,Urban,New
+150451,28,Female,34500.5,University,Merried,Purchased as a new,2005.5,Urban,New
+63409,45,Female,46500.5,University,Merried,Purchased as a new,2005.5,Urban,New
+37310,42,Male,53500,University,Merried,Purchased as a new,2005.5,Urban,New
+153731,37,Male,93001,University,Merried,Purchased as a new,2005.5,Urban,New
+37207,35,Female,33001,University,Merried,Purchased as used,2005,Urban,New
+261068,28,Female,34500.5,University,Merried,Purchased as used,2005,Urban,New
+117936,37,Female,35666.6666666667,University,Merried,Purchased as used,2005,Urban,New
+185374,33,Female,40000.5,University,Merried,Purchased as used,2005,Urban,New
+44131,39,Female,46500.5,University,Merried,Purchased as used,2005,Urban,New
+148781,39,Female,53500,University,Merried,Purchased as used,2005,Urban,New
+133901,29,Female,53500,University,Merried,Purchased as used,2005,Urban,New
+306908,47,Female,53500,University,Merried,Purchased as used,2005,Urban,New
+252248,26,Female,35666.6666666667,University,Merried,Purchased as a new,2005,Urban,New
+162667,47,Female,53500,University,Merried,Purchased as a new,2005,Urban,New
+122982,34,Female,53500,University,Merried,Purchased as a new,2005,Urban,New
+184030,36,Male,52001,University,Merried,Purchased as used,2005,Urban,New
+63613,33,Male,53500,University,Merried,Purchased as used,2005,Urban,New
+193780,29,Male,69001,University,Merried,Purchased as used,2005,Urban,New
+43239,40,Male,93001,University,Merried,Purchased as used,2005,Urban,New
+68532,44,Male,53500,University,Merried,Purchased as a new,2005,Urban,New
+310620,32,Male,26750,University,Merried,Purchased as a new,2004.5,Urban,New
+145150,38,Female,3833.66666666667,University,Merried,Purchased as used,2004,Urban,New
+162737,34,Female,11501,University,Merried,Purchased as used,2004,Urban,New
+286845,36,Female,27001,University,Merried,Purchased as used,2004,Urban,New
+177782,36,Female,33001,University,Merried,Purchased as used,2004,Urban,New
+141026,45,Female,34500.5,University,Merried,Purchased as used,2004,Urban,New
+251139,29,Female,39001,University,Merried,Purchased as used,2004,Urban,New
+306819,33,Female,52001,University,Merried,Purchased as used,2004,Rural,New
+193445,31,Female,53500,University,Merried,Purchased as used,2004,Urban,New
+273519,31,Female,69001,University,Merried,Purchased as used,2004,Urban,New
+150378,32,Female,80001,University,Merried,Purchased as used,2004,Urban,New
+141034,35,Female,93001,University,Merried,Purchased as used,2004,Urban,New
+183733,46,Female,40000.5,University,Merried,Purchased as a new,2004,Urban,New
+117331,41,Male,3000.33333333333,University,Merried,Purchased as used,2004,Urban,New
+131819,31,Male,21400,University,Merried,Purchased as used,2004,Urban,New
+37190,30,Male,30000.5,University,Merried,Purchased as used,2004,Urban,New
+33573,27,Male,53500,University,Merried,Purchased as used,2004,Urban,New
+306745,40,Male,107000,University,Merried,Purchased as used,2004,Urban,New
+37104,44,Male,22500.5,University,Merried,Purchased as a new,2004,Urban,New
+140894,46,Male,53500,University,Merried,Purchased as a new,2004,Urban,New
+195990,40,Male,40000.5,University,Merried,Purchased as a new,2003.66666666667,Urban,New
+117281,31,Female,53500,University,Merried,Purchased as used,2003.5,Urban,New
+44086,30,Male,53500,University,Merried,Purchased as used,2003.5,Urban,New
+131896,32,Male,30000.5,University,Merried,Purchased as a new,2003.5,Urban,New
+307021,44,Female,26667,University,Merried,Purchased as used,2003,Urban,New
+45534,47,Female,35666.6666666667,University,Merried,Purchased as used,2003,Urban,New
+149137,36,Female,40000.5,University,Merried,Purchased as used,2003,Urban,New
+272010,34,Female,40000.5,University,Merried,Purchased as used,2003,Urban,New
+223582,37,Female,53500,University,Merried,Purchased as used,2003,Urban,New
+307237,33,Female,80001,University,Merried,Purchased as used,2003,Urban,New
+310634,26,Male,27001,University,Merried,Purchased as used,2003,Urban,New
+306798,41,Male,31000.3333333333,University,Merried,Purchased as used,2003,Urban,New
+224620,41,Male,34500.5,University,Merried,Purchased as used,2003,Rural,New
+37125,43,Male,34500.5,University,Merried,Purchased as used,2003,Urban,New
+33563,38,Male,45001,University,Merried,Purchased as used,2003,Urban,New
+33551,34,Male,46500.5,University,Merried,Purchased as used,2003,Urban,New
+58261,47,Male,52001,University,Merried,Purchased as used,2003,Urban,New
+227408,29,Male,107000,University,Merried,Purchased as used,2003,Urban,New
+131582,43,Male,53500,University,Merried,Purchased as a new,2003,Urban,New
+275171,33,Female,3500.5,University,Merried,Purchased as used,2002,Rural,New
+193298,33,Female,3500.5,University,Merried,Purchased as used,2002,Urban,New
+278828,41,Female,7001,University,Merried,Purchased as used,2002,Rural,New
+118409,49,Female,35666.6666666667,University,Merried,Purchased as used,2002,Rural,New
+37275,29,Female,53500,University,Merried,Purchased as used,2002,Urban,New
+306551,34,Female,53500,University,Merried,Purchased as used,2002,Urban,New
+141716,30,Female,53500,University,Merried,Purchased as used,2002,Urban,New
+149094,27,Female,60001,University,Merried,Purchased as used,2002,Urban,New
+307477,49,Male,5750.5,University,Merried,Purchased as used,2002,Urban,New
+196627,29,Male,46500.5,University,Merried,Purchased as used,2002,Urban,New
+157150,30,Male,53500,University,Merried,Purchased as used,2002,Urban,New
+157344,37,Male,53500,University,Merried,Purchased as used,2002,Urban,New
+117358,31,Male,53500,University,Merried,Purchased as used,2002,Urban,New
+193428,41,Male,69001,University,Merried,Purchased as used,2002,Urban,New
+153993,36,Female,39001,University,Merried,Purchased as used,2001.5,Urban,New
+178094,34,Male,53500,University,Merried,Purchased as used,2001.5,Urban,New
+252449,38,Female,34500.5,University,Merried,Purchased as used,2001,Urban,New
+240935,38,Female,40000.5,University,Merried,Purchased as used,2001,Urban,New
+306870,43,Female,40000.5,University,Merried,Purchased as used,2001,Urban,New
+251456,32,Female,45001,University,Merried,Purchased as used,2001,Urban,New
+223422,42,Female,46500.5,University,Merried,Purchased as used,2001,Urban,New
+153768,35,Female,46500.5,University,Merried,Purchased as used,2001,Urban,New
+163470,27,Female,52001,University,Merried,Purchased as used,2001,Urban,New
+159168,29,Female,53500,University,Merried,Purchased as used,2001,Urban,New
+149173,39,Female,69001,University,Merried,Purchased as used,2001,Urban,New
+175954,49,Female,46500.5,University,Merried,Purchased as a new,2001,Urban,New
+193469,48,Female,107000,University,Merried,Purchased as a new,2001,Urban,New
+196148,35,Male,34500.5,University,Merried,Purchased as used,2001,Urban,New
+57657,43,Male,34500.5,University,Merried,Purchased as used,2001,Urban,New
+150511,33,Male,45001,University,Merried,Purchased as used,2001,Rural,New
+310708,29,Male,46500.5,University,Merried,Purchased as used,2001,Urban,New
+142029,28,Male,52001,University,Merried,Purchased as used,2001,Urban,New
+166071,34,Male,53500,University,Merried,Purchased as used,2001,Urban,New
+183938,33,Male,69001,University,Merried,Purchased as used,2001,Urban,New
+141135,34,Male,93001,University,Merried,Purchased as used,2001,Urban,New
+141425,45,Male,107000,University,Merried,Purchased as used,2001,Urban,New
+260154,31,Female,46500.5,University,Merried,Purchased as used,2000.5,Urban,New
+306918,27,Female,26000.5,University,Merried,Purchased as used,2000,Rural,New
+68281,46,Female,40000.5,University,Merried,Purchased as used,2000,Urban,New
+251492,27,Female,46500.5,University,Merried,Purchased as used,2000,Urban,New
+306983,26,Female,52001,University,Merried,Purchased as used,2000,Urban,New
+39352,37,Male,46500.5,University,Merried,Purchased as a new,2000,Urban,New
+186888,32,Female,46500.5,University,Merried,Purchased as used,1999,Urban,New
+306713,33,Female,40000.5,University,Merried,Purchased as a new,1999,Urban,New
+277068,29,Female,46500.5,University,Merried,Purchased as a new,1999,Urban,New
+133910,30,Male,3500.5,University,Merried,Purchased as used,1999,Urban,New
+153753,34,Male,11000.5,University,Merried,Purchased as used,1999,Urban,New
+306885,47,Male,40000.5,University,Merried,Purchased as used,1999,Urban,New
+310096,29,Male,69001,University,Merried,Purchased as used,1999,Urban,New
+133595,32,Male,46500.5,University,Merried,Purchased as a new,1999,Urban,New
+306840,35,Male,46500.5,University,Merried,Purchased as a new,1999,Urban,New
+117796,40,Male,46500.5,University,Merried,Purchased as a new,1999,Urban,New
+33578,29,Male,22500.5,University,Merried,Purchased as a new,1998.66666666667,Urban,New
+131431,42,Female,53500,University,Merried,Purchased as a new,1998.5,Urban,New
+306678,34,Female,60001,University,Merried,Purchased as a new,1998.25,Urban,New
+118402,39,Female,15000.3333333333,University,Merried,Purchased as used,1998,Rural,New
+251972,25,Female,26000.5,University,Merried,Purchased as used,1998,Rural,New
+267438,34,Female,69001,University,Merried,Purchased as used,1998,Urban,New
+117487,30,Female,93001,University,Merried,Purchased as used,1998,Urban,New
+185407,27,Female,22500.5,University,Merried,Purchased as used,1997,Rural,New
+277062,36,Female,22500.5,University,Merried,Purchased as used,1997,Urban,New
+117659,39,Female,23000.3333333333,University,Merried,Purchased as used,1997,Urban,New
+193576,40,Female,45001,University,Merried,Purchased as used,1997,Urban,New
+306878,41,Female,53500,University,Merried,Purchased as used,1997,Urban,New
+260877,35,Female,53500,University,Merried,Purchased as used,1997,Urban,New
+63000,37,Male,22001,University,Merried,Purchased as used,1997,Urban,New
+37034,28,Female,45001,University,Merried,Purchased as used,1996.5,Rural,New
+117350,48,Male,34500.5,University,Merried,Purchased as a new,1996.5,Rural,New
+37042,48,Female,46500.5,University,Merried,Purchased as used,1996,Urban,New
+183890,31,Female,46500.5,University,Merried,Purchased as used,1996,Urban,New
+153895,39,Female,46500.5,University,Merried,Purchased as a new,1996,Urban,New
+122963,35,Male,46500.5,University,Merried,Purchased as used,1996,Urban,New
+310865,33,Male,60001,University,Merried,Purchased as used,1996,Urban,New
+174240,48,Female,31000.3333333333,University,Merried,Purchased as a new,1995.5,Urban,New
+151170,38,Female,7001,University,Merried,Purchased as used,1995,Urban,New
+157166,36,Female,26750,University,Merried,Purchased as used,1995,Urban,New
+26766,31,Female,40000.5,University,Merried,Purchased as used,1995,Urban,New
+307429,48,Male,40000.5,University,Merried,Purchased as used,1995,Urban,New
+153987,46,Male,53500,University,Merried,Purchased as used,1995,Urban,New
+174381,42,Female,26667,University,Merried,Purchased as used,1994.5,Urban,New
+132206,28,Male,40000.5,University,Merried,Purchased as used,1994,Rural,New
+183845,32,Male,26750,University,Merried,Purchased as used,1993.5,Urban,New
+224466,37,Female,34500.5,University,Merried,Purchased as used,1992.5,Urban,New
+307181,49,Female,53500,University,Merried,Purchased as used,1992,Urban,New
+261058,28,Female,19500.5,University,Merried,Purchased as used,1991,Rural,New
+118207,42,Female,60001,University,Merried,Purchased as used,1991,Urban,New
+200049,27,Female,60001,University,Merried,Purchased as a new,1991,Urban,New
+44140,33,Male,30000.5,University,Merried,Purchased as used,1991,Rural,New
+118249,34,Male,34500.5,University,Merried,Purchased as used,1991,Urban,New
+159819,29,Male,34500.5,University,Merried,Purchased as used,1991,Urban,New
+74630,35,Male,53500,University,Merried,Purchased as used,1991,Urban,New
+306821,42,Female,52001,University,Merried,Purchased as used,1990,Urban,New
+185504,35,Female,80001,University,Merried,Purchased as used,1990,Urban,New
+183843,45,Male,60001,University,Merried,Purchased as used,1990,Urban,New
+307380,38,Female,9000.5,University,Merried,Purchased as used,1989,Rural,New
+197466,40,Female,30000.5,University,Merried,Purchased as used,1989,Urban,New
+117798,31,Male,16500.5,University,Merried,Purchased as used,1989,Urban,New
+117802,47,Male,39001,University,Merried,Purchased as used,1989,Urban,New
+276922,40,Female,9001,University,Merried,Purchased as used,1988,Rural,New
+252342,25,Female,11501,University,Merried,Purchased as used,1988,Urban,New
+133732,44,Female,9000.5,University,Merried,Purchased as used,1987,Urban,New
+306677,41,Female,7001,University,Merried,Purchased as used,1986,Rural,New
+150367,35,Male,52001,University,Merried,Purchased as used,1986,Urban,New
+247053,34,Female,16500.5,University,Merried,Purchased as used,1985,Urban,New
+154589,36,Female,53500,University,Merried,Purchased as used,1984.66666666667,Urban,New
+267390,31,Male,53500,University,Merried,Purchased as a new,1982,Urban,New
+188239,46,Female,40000.5,College,Merried,Purchased as a new,2011,Urban,New
+123034,42,Male,107000,College,Merried,Purchased as a new,2010,Urban,New
+175477,30,Female,46500.5,College,Merried,Purchased as a new,2009.66666666667,Urban,New
+42865,42,Male,53500,College,Merried,Purchased as a new,2009.5,Urban,New
+174905,26,Female,26000.5,College,Merried,Purchased as used,2009,Urban,New
+267422,33,Female,7001,College,Merried,Purchased as a new,2009,Urban,New
+276830,30,Female,34500.5,College,Merried,Purchased as a new,2008,Urban,New
+159230,49,Male,23250.25,College,Merried,Purchased as used,2008,Urban,New
+307365,45,Male,53500,College,Merried,Purchased as a new,2008,Urban,New
+131441,46,Male,107000,College,Merried,Purchased as a new,2007.5,Urban,New
+184859,35,Female,93001,College,Merried,Purchased as used,2007,Urban,New
+33635,33,Female,30000.5,College,Merried,Purchased as a new,2007,Urban,New
+39305,32,Male,69001,College,Merried,Purchased as used,2007,Urban,New
+310639,36,Male,34500.5,College,Merried,Purchased as a new,2007,Rural,New
+151231,37,Male,34500.5,College,Merried,Purchased as a new,2007,Urban,New
+251935,33,Male,53500,College,Merried,Purchased as a new,2007,Urban,New
+150452,48,Female,17250.25,College,Merried,Purchased as used,2006,Urban,New
+175327,26,Female,33001,College,Merried,Purchased as a new,2006,Urban,New
+133647,46,Male,46500.5,College,Merried,Purchased as used,2006,Urban,New
+145203,33,Female,39001,College,Merried,Purchased as used,2005,Urban,New
+193447,37,Female,26750,College,Merried,Purchased as a new,2005,Urban,New
+66124,47,Male,53500,College,Merried,Purchased as used,2005,Urban,New
+307036,46,Male,40000.5,College,Merried,Purchased as a new,2005,Rural,New
+310835,35,Female,93001,College,Merried,Purchased as used,2004,Urban,New
+42899,48,Male,46500.5,College,Merried,Purchased as used,2004,Urban,New
+174842,36,Male,53500,College,Merried,Purchased as used,2004,Urban,New
+175345,34,Male,30000.5,College,Merried,Purchased as a new,2004,Urban,New
+144705,44,Female,46500.5,College,Merried,Purchased as used,2003,Urban,New
+176028,43,Female,46500.5,College,Merried,Purchased as used,2003,Urban,New
+184119,23,Female,52001,College,Merried,Purchased as used,2003,Urban,New
+42877,37,Female,53500,College,Merried,Purchased as used,2003,Urban,New
+306789,30,Female,35666.6666666667,College,Merried,Purchased as used,2002.5,Urban,New
+159220,35,Female,26000.5,College,Merried,Purchased as used,2002,Urban,New
+252119,36,Female,46500.5,College,Merried,Purchased as used,2002,Urban,New
+118807,43,Female,46500.5,College,Merried,Purchased as used,2002,Urban,New
+62992,47,Female,22500.5,College,Merried,Purchased as a new,2002,Urban,New
+117864,48,Male,23250.25,College,Merried,Purchased as used,2002,Urban,New
+118168,39,Male,34500.5,College,Merried,Purchased as used,2002,Rural,New
+42933,37,Male,40000.5,College,Merried,Purchased as used,2002,Urban,New
+185317,31,Male,40000.5,College,Merried,Purchased as used,2002,Urban,New
+144771,45,Male,46500.5,College,Merried,Purchased as a new,2002,Urban,New
+307419,36,Female,26000.5,College,Merried,Purchased as used,2001,Urban,New
+259067,46,Female,30000.5,College,Merried,Purchased as used,2001,Urban,New
+154667,29,Female,31000.3333333333,College,Merried,Purchased as used,2001,Rural,New
+142239,42,Female,34500.5,College,Merried,Purchased as used,2001,Urban,New
+193647,30,Female,40000.5,College,Merried,Purchased as used,2001,Urban,New
+57699,39,Male,39001,College,Merried,Purchased as used,2001,Urban,New
+145022,44,Male,40000.5,College,Merried,Purchased as used,2001,Urban,New
+306861,41,Male,46500.5,College,Merried,Purchased as used,2001,Urban,New
+57654,41,Male,53500,College,Merried,Purchased as used,2001,Urban,New
+132036,35,Male,53500,College,Merried,Purchased as used,2001,Rural,New
+251813,27,Female,31000.3333333333,College,Merried,Purchased as used,2000.33333333333,Urban,New
+176048,39,Female,40000.5,College,Merried,Purchased as used,2000,Urban,New
+193281,45,Male,107000,College,Merried,Purchased as used,2000,Urban,New
+175661,47,Male,3500.5,College,Merried,Purchased as used,1999,Urban,New
+178144,27,Female,33001,College,Merried,Purchased as a new,1998.5,Rural,New
+153743,47,Female,46500.5,College,Merried,Purchased as used,1998,Urban,New
+185330,40,Female,69001,College,Merried,Purchased as used,1998,Urban,New
+174667,33,Female,34500.5,College,Merried,Purchased as used,1997,Urban,New
+193526,32,Female,53500,College,Merried,Purchased as used,1997,Urban,New
+118209,44,Male,60001,College,Merried,Purchased as a new,1997,Urban,New
+159096,47,Male,22001,College,Merried,Purchased as used,1993.5,Urban,New
+306601,35,Male,13000.3333333333,College,Merried,Purchased as used,1992,Rural,New
+247077,44,Male,40000.5,College,Merried,Purchased as a new,1992,Urban,New
+117876,31,Female,46500.5,College,Merried,Purchased as used,1990,Urban,New
+307343,41,Male,18001,College,Merried,Purchased as used,1990,Urban,New
+267429,38,Female,30000.5,College,Merried,Purchased as used,1989,Urban,New
+306758,46,Female,40000.5,College,Merried,Purchased as used,1988,Rural,New
+227403,39,Male,16500.5,College,Merried,Purchased as used,1987,Urban,New
+272026,39,Male,26000.5,College,Merried,Purchased as used,1986,Rural,New
+156844,38,Male,80001,College,Merried,Purchased as used,1986,Urban,New
+133542,44,Female,107000,Unfinished university,Merried,Purchased as a new,2013,Urban,New
+267442,33,Female,19500.5,Unfinished university,Merried,Purchased as used,2011,Urban,New
+307247,40,Female,19500.5,Unfinished university,Merried,Purchased as a new,2011,Urban,New
+258792,42,Female,31000.3333333333,Unfinished university,Merried,Purchased as used,2010,Urban,New
+142266,38,Female,4500.5,Unfinished university,Merried,Purchased as a new,2010,Urban,New
+176024,34,Female,53500,Unfinished university,Merried,Purchased as a new,2010,Urban,New
+132818,28,Female,46500.5,Unfinished university,Merried,Purchased as a new,2009,Urban,New
+118301,44,Male,46500.5,Unfinished university,Merried,Purchased as used,2009,Urban,New
+259073,35,Male,5750.5,Unfinished university,Merried,Purchased as a new,2009,Urban,New
+67953,43,Male,31000.3333333333,Unfinished university,Merried,Purchased as a new,2009,Urban,New
+306735,40,Male,46500.5,Unfinished university,Merried,Purchased as a new,2009,Urban,New
+184018,44,Female,53500,Unfinished university,Merried,Purchased as a new,2008.5,Urban,New
+32626,32,Female,53500,Unfinished university,Merried,Purchased as used,2008,Urban,New
+145050,39,Female,53500,Unfinished university,Merried,Purchased as used,2008,Urban,New
+45445,42,Male,46500.5,Unfinished university,Merried,Purchased as used,2008,Urban,New
+145009,40,Male,53500,Unfinished university,Merried,Purchased as used,2008,Urban,New
+37269,36,Male,53500,Unfinished university,Merried,Purchased as used,2008,Urban,New
+37150,34,Male,53500,Unfinished university,Merried,Purchased as a new,2008,Urban,New
+158878,39,Female,53500,Unfinished university,Merried,Purchased as a new,2007,Urban,New
+68957,45,Male,23000.3333333333,Unfinished university,Merried,Purchased as used,2006,Urban,New
+117374,39,Male,53500,Unfinished university,Merried,Purchased as used,2006,Urban,New
+131865,26,Female,69001,Unfinished university,Merried,Purchased as a new,2005.5,Urban,New
+33555,33,Male,21400,Unfinished university,Merried,Purchased as a new,2005.5,Urban,New
+245997,36,Female,52001,Unfinished university,Merried,Purchased as used,2005,Urban,New
+39273,26,Female,11501,Unfinished university,Merried,Purchased as a new,2005,Urban,New
+174289,37,Female,53500,Unfinished university,Merried,Purchased as a new,2005,Urban,New
+193676,36,Male,35666.6666666667,Unfinished university,Merried,Purchased as a new,2005,Urban,New
+174658,29,Male,40000.5,Unfinished university,Merried,Purchased as a new,2005,Urban,New
+37292,30,Male,46500.5,Unfinished university,Merried,Purchased as a new,2004.66666666667,Urban,New
+117872,33,Female,39001,Unfinished university,Merried,Purchased as a new,2004.5,Urban,New
+281196,30,Male,30000.5,Unfinished university,Merried,Purchased as a new,2004.5,Urban,New
+39328,39,Female,30000.5,Unfinished university,Merried,Purchased as used,2004,Urban,New
+39301,38,Female,40000.5,Unfinished university,Merried,Purchased as a new,2004,Urban,New
+224796,43,Female,27001,Unfinished university,Merried,Purchased as used,2003,Urban,New
+259086,46,Female,45001,Unfinished university,Merried,Purchased as used,2003,Urban,New
+45538,45,Female,46500.5,Unfinished university,Merried,Purchased as used,2003,Urban,New
+142011,37,Female,53500,Unfinished university,Merried,Purchased as used,2003,Urban,New
+60222,29,Female,7250.5,Unfinished university,Merried,Purchased as a new,2003,Urban,New
+260804,45,Female,27001,Unfinished university,Merried,Purchased as a new,2003,Urban,New
+37256,49,Female,53500,Unfinished university,Merried,Purchased as a new,2002.5,Urban,New
+154121,38,Female,40000.5,Unfinished university,Merried,Purchased as used,2002,Urban,New
+131552,31,Female,46500.5,Unfinished university,Merried,Purchased as used,2002,Urban,New
+141658,39,Male,26000.5,Unfinished university,Merried,Purchased as used,2002,Urban,New
+277412,27,Male,35666.6666666667,Unfinished university,Merried,Purchased as used,2002,Urban,New
+307335,41,Male,60001,Unfinished university,Merried,Purchased as used,2002,Urban,New
+37085,37,Male,17333.6666666667,Unfinished university,Merried,Purchased as used,2001.5,Urban,New
+259350,30,Female,34500.5,Unfinished university,Merried,Purchased as used,2001,Urban,New
+117257,46,Male,22500.5,Unfinished university,Merried,Purchased as used,2001,Urban,New
+33540,38,Male,69001,Unfinished university,Merried,Purchased as used,2001,Urban,New
+259191,37,Female,4500.5,Unfinished university,Merried,Purchased as used,2000,Urban,New
+252083,42,Female,4500.5,Unfinished university,Merried,Purchased as used,2000,Urban,New
+144860,38,Female,30000.5,Unfinished university,Merried,Purchased as used,2000,Urban,New
+310822,31,Male,80001,Unfinished university,Merried,Purchased as used,2000,Urban,New
+117307,40,Female,46500.5,Unfinished university,Merried,Purchased as used,1999,Urban,New
+193270,32,Male,22500.5,Unfinished university,Merried,Purchased as used,1999,Urban,New
+157419,38,Male,33001,Unfinished university,Merried,Purchased as used,1999,Urban,New
+306567,42,Male,52001,Unfinished university,Merried,Purchased as used,1999,Urban,New
+118396,37,Female,23250.25,Unfinished university,Merried,Purchased as used,1998.5,Rural,New
+158513,31,Female,26000.5,Unfinished university,Merried,Purchased as used,1998,Urban,New
+147478,29,Female,26000.5,Unfinished university,Merried,Purchased as used,1998,Urban,New
+306994,27,Male,30000.5,Unfinished university,Merried,Purchased as used,1998,Urban,New
+144862,47,Male,40000.5,Unfinished university,Merried,Purchased as used,1998,Urban,New
+175878,35,Male,34500.5,Unfinished university,Merried,Purchased as used,1997,Urban,New
+37286,35,Male,53500,Unfinished university,Merried,Purchased as used,1996.5,Urban,New
+252209,37,Male,26000.5,Unfinished university,Merried,Purchased as a new,1996,Urban,New
+158831,39,Female,52001,Unfinished university,Merried,Purchased as a new,1995,Urban,New
+307154,36,Female,52001,Unfinished university,Merried,Purchased as used,1994,Rural,New
+118213,40,Male,35666.6666666667,Unfinished university,Merried,Purchased as used,1993,Urban,New
+159064,21,Female,20000.3333333333,Unfinished university,Merried,Purchased as used,1992,Rural,New
+307232,26,Female,33001,Unfinished university,Merried,Purchased as used,1992,Rural,New
+176037,38,Female,39001,Unfinished university,Merried,Purchased as used,1992,Urban,New
+118151,34,Female,40000.5,Unfinished university,Merried,Purchased as used,1991,Urban,New
+117232,44,Female,40000.5,Unfinished university,Merried,Purchased as used,1991,Urban,New
+157190,42,Male,27001,Unfinished university,Merried,Purchased as used,1991,Urban,New
+306930,44,Female,17833.3333333333,Unfinished university,Merried,Purchased as used,1990,Rural,New
+179140,30,Female,13000.3333333333,Unfinished university,Merried,Purchased as used,1985,Urban,New
+163713,30,Female,30000.5,Unfinished university,Merried,Purchased as used,1985,Urban,New
+310095,29,Female,34500.5,Unfinished university,Merried,Purchased as a new,1985,Urban,New
+306548,34,Female,20000.3333333333,High school,Merried,Purchased as a new,2011,Urban,New
+145736,35,Female,30000.5,High school,Merried,Purchased as a new,2011,Rural,New
+281214,37,Female,31000.3333333333,High school,Merried,Purchased as a new,2011,Rural,New
+306619,37,Male,60001,High school,Merried,Purchased as a new,2011,Rural,New
+175318,37,Female,34500.5,High school,Merried,Purchased as a new,2010,Urban,New
+267451,36,Male,40000.5,High school,Merried,Purchased as used,2010,Urban,New
+131593,37,Male,40000.5,High school,Merried,Purchased as a new,2010,Urban,New
+162755,32,Male,46500.5,High school,Merried,Purchased as a new,2010,Urban,New
+174377,48,Male,53500,High school,Merried,Purchased as a new,2010,Urban,New
+185334,41,Female,26000.5,High school,Merried,Purchased as a new,2009.5,Urban,New
+184089,22,Female,22500.5,High school,Merried,Purchased as a new,2009,Rural,New
+159535,29,Female,23000.3333333333,High school,Merried,Purchased as a new,2009,Urban,New
+310706,33,Female,40000.5,High school,Merried,Purchased as a new,2009,Urban,New
+183863,35,Female,40000.5,High school,Merried,Purchased as a new,2009,Urban,New
+184235,45,Female,46500.5,High school,Merried,Purchased as a new,2009,Urban,New
+307227,48,Male,31000.3333333333,High school,Merried,Purchased as a new,2009,Urban,New
+151154,26,Female,16500.5,High school,Merried,Purchased as used,2008,Urban,New
+118106,47,Female,5750.5,High school,Merried,Purchased as a new,2008,Urban,New
+252125,45,Male,46500.5,High school,Merried,Purchased as used,2008,Urban,New
+306931,46,Male,53500,High school,Merried,Purchased as used,2008,Urban,New
+306912,42,Female,30000.5,High school,Merried,Purchased as used,2007,Urban,New
+307500,30,Female,33001,High school,Merried,Purchased as a new,2007,Urban,New
+193660,26,Female,39001,High school,Merried,Purchased as a new,2007,Urban,New
+33543,49,Male,22500.5,High school,Merried,Purchased as a new,2007,Urban,New
+186997,39,Female,11501,High school,Merried,Purchased as used,2006,Urban,New
+39303,38,Female,35666.6666666667,High school,Merried,Purchased as used,2006,Urban,New
+46369,45,Female,21400,High school,Merried,Purchased as a new,2006,Urban,New
+307031,33,Female,34500.5,High school,Merried,Purchased as a new,2006,Rural,New
+44122,47,Male,22001,High school,Merried,Purchased as used,2006,Urban,New
+251912,35,Male,27001,High school,Merried,Purchased as used,2006,Urban,New
+66979,38,Male,35666.6666666667,High school,Merried,Purchased as used,2006,Urban,New
+307562,46,Male,31000.3333333333,High school,Merried,Purchased as a new,2006,Rural,New
+251810,30,Female,30000.5,High school,Merried,Purchased as a new,2005.5,Urban,New
+246054,36,Female,39001,High school,Merried,Purchased as used,2005,Urban,New
+159107,46,Female,53500,High school,Merried,Purchased as used,2005,Rural,New
+310647,37,Female,20000.3333333333,High school,Merried,Purchased as a new,2005,Rural,New
+174843,37,Female,22500.5,High school,Merried,Purchased as a new,2005,Urban,New
+174223,42,Male,35666.6666666667,High school,Merried,Purchased as a new,2005,Urban,New
+148873,37,Female,2333.66666666667,High school,Merried,Purchased as used,2004,Urban,New
+174733,25,Female,17333.6666666667,High school,Merried,Purchased as used,2004,Urban,New
+150280,46,Female,33001,High school,Merried,Purchased as used,2004,Urban,New
+118755,44,Female,34500.5,High school,Merried,Purchased as used,2004,Rural,New
+183968,47,Female,35666.6666666667,High school,Merried,Purchased as used,2004,Urban,New
+306581,27,Female,40000.5,High school,Merried,Purchased as used,2004,Rural,New
+306585,35,Female,39001,High school,Merried,Purchased as a new,2004,Urban,New
+306879,45,Male,26000.5,High school,Merried,Purchased as used,2004,Urban,New
+196576,41,Male,30000.5,High school,Merried,Purchased as used,2004,Urban,New
+156794,43,Male,31000.3333333333,High school,Merried,Purchased as used,2004,Urban,New
+186989,31,Male,34500.5,High school,Merried,Purchased as used,2004,Urban,New
+306900,38,Male,34500.5,High school,Merried,Purchased as used,2004,Urban,New
+201449,41,Male,46500.5,High school,Merried,Purchased as used,2004,Urban,New
+37204,26,Male,53500,High school,Merried,Purchased as used,2004,Urban,New
+159840,36,Male,53500,High school,Merried,Purchased as a new,2004,Urban,New
+74076,37,Female,34500.5,High school,Merried,Purchased as used,2003.5,Urban,New
+133648,49,Male,53500,High school,Merried,Purchased as used,2003.5,Rural,New
+196250,44,Male,35666.6666666667,High school,Merried,Purchased as a new,2003.33333333333,Urban,New
+306990,47,Female,22001,High school,Merried,Purchased as used,2003,Urban,New
+267359,38,Female,33001,High school,Merried,Purchased as used,2003,Urban,New
+251731,28,Female,39001,High school,Merried,Purchased as used,2003,Urban,New
+159088,33,Female,52001,High school,Merried,Purchased as used,2003,Urban,New
+45533,43,Female,53500,High school,Merried,Purchased as used,2003,Urban,New
+307233,27,Male,26000.5,High school,Merried,Purchased as used,2003,Urban,New
+306899,42,Male,30000.5,High school,Merried,Purchased as used,2003,Urban,New
+32999,36,Male,33001,High school,Merried,Purchased as used,2003,Urban,New
+61644,38,Male,53500,High school,Merried,Purchased as used,2003,Urban,New
+123028,41,Male,60001,High school,Merried,Purchased as used,2003,Urban,New
+193382,41,Male,53500,High school,Merried,Purchased as a new,2003,Urban,New
+154009,29,Female,3000.33333333333,High school,Merried,Purchased as used,2002,Rural,New
+307176,41,Female,19500.5,High school,Merried,Purchased as used,2002,Urban,New
+193436,39,Female,22001,High school,Merried,Purchased as used,2002,Urban,New
+174191,25,Female,22500.5,High school,Merried,Purchased as used,2002,Urban,New
+37043,32,Female,23250.25,High school,Merried,Purchased as used,2002,Urban,New
+177848,38,Female,30000.5,High school,Merried,Purchased as used,2002,Urban,New
+184233,44,Female,30000.5,High school,Merried,Purchased as used,2002,Urban,New
+174758,35,Female,31000.3333333333,High school,Merried,Purchased as used,2002,Urban,New
+306974,27,Female,33001,High school,Merried,Purchased as used,2002,Urban,New
+251946,31,Female,69001,High school,Merried,Purchased as used,2002,Urban,New
+260135,30,Female,107000,High school,Merried,Purchased as used,2002,Urban,New
+193383,36,Female,107000,High school,Merried,Purchased as used,2002,Urban,New
+150761,22,Male,11501,High school,Merried,Purchased as used,2002,Urban,New
+140886,32,Male,26000.5,High school,Merried,Purchased as used,2002,Urban,New
+196526,35,Male,27001,High school,Merried,Purchased as used,2002,Urban,New
+185368,31,Male,20000.25,High school,Merried,Purchased as used,2001.5,Urban,New
+179335,30,Female,19500.5,High school,Merried,Purchased as used,2001,Urban,New
+281217,25,Female,22001,High school,Merried,Purchased as used,2001,Rural,New
+224613,47,Female,30000.5,High school,Merried,Purchased as used,2001,Urban,New
+144701,39,Male,7001,High school,Merried,Purchased as used,2001,Rural,New
+184005,47,Male,30000.5,High school,Merried,Purchased as used,2001,Urban,New
+306860,49,Male,34500.5,High school,Merried,Purchased as used,2001,Urban,New
+60238,47,Male,45001,High school,Merried,Purchased as used,2001,Urban,New
+193361,36,Male,46500.5,High school,Merried,Purchased as used,2001,Urban,New
+63497,35,Male,46500.5,High school,Merried,Purchased as used,2001,Urban,New
+149263,39,Female,4500.5,High school,Merried,Purchased as used,2000,Urban,New
+147503,24,Female,34500.5,High school,Merried,Purchased as used,2000,Urban,New
+307407,34,Female,93001,High school,Merried,Purchased as used,2000,Urban,New
+159227,49,Female,3500.5,High school,Merried,Purchased as a new,2000,Urban,New
+201685,33,Male,34500.5,High school,Merried,Purchased as used,2000,Urban,New
+159169,38,Male,53500,High school,Merried,Purchased as used,2000,Urban,New
+150657,46,Female,35666.6666666667,High school,Merried,Purchased as used,1999,Urban,New
+196261,43,Female,11000.5,High school,Merried,Purchased as a new,1999,Urban,New
+307570,24,Female,52001,High school,Merried,Purchased as used,1998.66666666667,Urban,New
+259307,40,Female,31000.3333333333,High school,Merried,Purchased as used,1998.5,Urban,New
+117972,41,Female,22500.5,High school,Merried,Purchased as used,1998,Urban,New
+306820,40,Female,40000.5,High school,Merried,Purchased as used,1998,Urban,New
+131493,48,Male,22500.5,High school,Merried,Purchased as used,1998,Urban,New
+277542,38,Male,30000.5,High school,Merried,Purchased as used,1998,Urban,New
+117733,37,Male,31000.3333333333,High school,Merried,Purchased as used,1998,Urban,New
+150507,37,Female,17250.25,High school,Merried,Purchased as used,1997,Urban,New
+307318,49,Female,39001,High school,Merried,Purchased as used,1997,Urban,New
+44156,30,Female,53500,High school,Merried,Purchased as used,1997,Urban,New
+140856,36,Male,7001,High school,Merried,Purchased as used,1997,Urban,New
+187306,27,Male,14501,High school,Merried,Purchased as used,1997,Rural,New
+149571,34,Male,19500.5,High school,Merried,Purchased as used,1997,Urban,New
+147119,45,Male,26000.5,High school,Merried,Purchased as used,1997,Rural,New
+310858,30,Male,45001,High school,Merried,Purchased as used,1997,Urban,New
+272945,38,Male,30000.5,High school,Merried,Purchased as a new,1997,Rural,New
+141168,43,Male,35666.6666666667,High school,Merried,Purchased as a new,1997,Rural,New
+260114,32,Male,45001,High school,Merried,Purchased as a new,1997,Rural,New
+140934,41,Male,22500.5,High school,Merried,Purchased as used,1996.5,Urban,New
+310085,35,Female,16500.5,High school,Merried,Purchased as used,1996,Urban,New
+153799,36,Female,21400,High school,Merried,Purchased as used,1996,Rural,New
+258793,41,Female,52001,High school,Merried,Purchased as used,1996,Urban,New
+307391,35,Male,23250.25,High school,Merried,Purchased as used,1996,Urban,New
+133516,31,Male,45001,High school,Merried,Purchased as used,1996,Urban,New
+175342,28,Female,18001,High school,Merried,Purchased as used,1995,Rural,New
+259083,33,Female,20000.3333333333,High school,Merried,Purchased as used,1995,Rural,New
+118389,41,Female,60001,High school,Merried,Purchased as used,1995,Urban,New
+307582,35,Male,14501,High school,Merried,Purchased as used,1995,Rural,New
+153759,40,Male,26750,High school,Merried,Purchased as a new,1995,Urban,New
+310103,30,Male,26000.5,High school,Merried,Purchased as used,1994.5,Rural,New
+193705,24,Female,33001,High school,Merried,Purchased as used,1993,Urban,New
+140984,47,Male,5750.5,High school,Merried,Purchased as used,1993,Urban,New
+310786,39,Female,22001,High school,Merried,Purchased as used,1992,Urban,New
+157131,41,Female,33001,High school,Merried,Purchased as used,1992,Urban,New
+174543,45,Female,35666.6666666667,High school,Merried,Purchased as used,1992,Rural,New
+132719,29,Male,69001,High school,Merried,Purchased as a new,1992,Urban,New
+117525,38,Female,26000.5,High school,Merried,Purchased as used,1991.33333333333,Rural,New
+310039,43,Female,26000.5,High school,Merried,Purchased as used,1991,Urban,New
+159557,30,Female,34500.5,High school,Merried,Purchased as used,1991,Urban,New
+140864,30,Male,39001,High school,Merried,Purchased as used,1991,Rural,New
+133644,44,Female,22500.5,High school,Merried,Purchased as used,1990,Urban,New
+278798,27,Female,52001,High school,Merried,Purchased as used,1990,Rural,New
+306947,40,Female,46500.5,High school,Merried,Purchased as a new,1990,Urban,New
+272011,24,Male,31000.3333333333,High school,Merried,Purchased as a new,1990,Urban,New
+307158,43,Female,34500.5,High school,Merried,Purchased as used,1989,Urban,New
+260158,42,Female,34500.5,High school,Merried,Purchased as used,1989,Rural,New
+174264,32,Male,26667,High school,Merried,Purchased as used,1989,Urban,New
+166096,38,Male,18001,High school,Merried,Purchased as used,1988,Urban,New
+174238,42,Male,19500.5,High school,Merried,Purchased as used,1988,Urban,New
+306835,42,Male,26667,High school,Merried,Purchased as used,1987.66666666667,Rural,New
+307163,46,Female,31000.3333333333,High school,Merried,Purchased as used,1987,Rural,New
+306482,37,Male,45001,High school,Merried,Purchased as used,1987,Urban,New
+183822,31,Female,11000.5,High school,Merried,Purchased as used,1986,Rural,New
+193561,25,Female,11501,High school,Merried,Purchased as used,1986,Rural,New
+166015,37,Male,7001,High school,Merried,Purchased as used,1986,Urban,New
+65570,45,Male,13500.5,High school,Merried,Purchased as used,1985,Urban,New
+246060,33,Male,16500.5,High school,Merried,Purchased as used,1985,Urban,New
+260609,29,Female,33001,High school,Merried,Purchased as used,1984.5,Rural,New
+118391,44,Male,26000.5,High school,Merried,Purchased as used,1977,Urban,New
+272946,32,Male,46500.5,Craftsman,Merried,Purchased as used,2008,Rural,New
+307065,32,Female,93001,Craftsman,Merried,Purchased as used,1994,Urban,New
+153735,42,Male,33001,Not finsihed high school,Merried,Purchased as used,2006,Urban,New
+281140,49,Female,19500.5,Not finsihed high school,Merried,Purchased as used,2001,Rural,New
+307341,44,Male,60001,Not finsihed high school,Merried,Purchased as used,1986,Urban,New
+258838,42,Male,4500.5,Elementary school,Merried,Purchased as used,1991,Urban,New
+142169,28,Female,39001,University,Single,Purchased as a new,2013,Urban,New
+37138,26,Male,23250.25,University,Single,Purchased as a new,2013,Urban,New
+306960,26,Male,4500.5,University,Single,Purchased as a new,2012,Urban,New
+306805,36,Male,26750,University,Single,Purchased as a new,2012,Urban,New
+147486,30,Male,26750,University,Single,Purchased as a new,2012,Urban,New
+195734,30,Female,18001,University,Single,Purchased as a new,2011,Urban,New
+306624,24,Female,34500.5,University,Single,Purchased as a new,2011,Urban,New
+306440,42,Male,35666.6666666667,University,Single,Purchased as a new,2011,Urban,New
+184093,37,Male,107000,University,Single,Purchased as a new,2011,Urban,New
+259081,24,Male,93001,University,Single,Purchased as a new,2010.33333333333,Urban,New
+77133,24,Female,35666.6666666667,University,Single,Purchased as used,2010,Urban,New
+117392,32,Female,46500.5,University,Single,Purchased as used,2010,Urban,New
+259006,28,Female,35666.6666666667,University,Single,Purchased as a new,2010,Urban,New
+307398,34,Female,69001,University,Single,Purchased as a new,2010,Urban,New
+118338,38,Female,93001,University,Single,Purchased as a new,2010,Urban,New
+41554,37,Male,26750,University,Single,Purchased as a new,2010,Urban,New
+66771,32,Male,26750,University,Single,Purchased as a new,2010,Urban,New
+142170,28,Male,26750,University,Single,Purchased as a new,2010,Urban,New
+184129,39,Male,30000.5,University,Single,Purchased as a new,2010,Urban,New
+252391,27,Male,35666.6666666667,University,Single,Purchased as a new,2010,Urban,New
+306674,30,Female,26750,University,Single,Purchased as a new,2009.75,Urban,New
+306925,30,Male,35666.6666666667,University,Single,Purchased as a new,2009.5,Urban,New
+174595,30,Female,26750,University,Single,Purchased as used,2009,Urban,New
+75194,33,Female,20000.3333333333,University,Single,Purchased as a new,2009,Urban,New
+118844,24,Female,35666.6666666667,University,Single,Purchased as a new,2009,Urban,New
+154540,24,Male,26000.5,University,Single,Purchased as a new,2009,Urban,New
+33589,30,Male,26667,University,Single,Purchased as a new,2009,Urban,New
+58322,30,Male,46500.5,University,Single,Purchased as a new,2009,Urban,New
+153750,41,Male,53500,University,Single,Purchased as a new,2009,Urban,New
+159501,33,Male,80001,University,Single,Purchased as a new,2009,Urban,New
+144695,33,Male,107000,University,Single,Purchased as a new,2009,Urban,New
+37171,31,Male,35666.6666666667,University,Single,Purchased as a new,2008.5,Urban,New
+118284,29,Male,46500.5,University,Single,Purchased as a new,2008.5,Rural,New
+183810,36,Female,23250.25,University,Single,Purchased as used,2008,Urban,New
+174584,28,Female,45001,University,Single,Purchased as used,2008,Urban,New
+310059,43,Female,53500,University,Single,Purchased as used,2008,Urban,New
+184042,40,Female,53500,University,Single,Purchased as a new,2008,Rural,New
+185395,31,Male,60001,University,Single,Purchased as used,2008,Urban,New
+57659,29,Male,31000.3333333333,University,Single,Purchased as a new,2007.5,Urban,New
+165266,27,Male,35666.6666666667,University,Single,Purchased as a new,2007.5,Urban,New
+177766,29,Male,35666.6666666667,University,Single,Purchased as a new,2007.5,Urban,New
+187924,32,Female,33001,University,Single,Purchased as used,2007,Urban,New
+201726,26,Female,7001,University,Single,Purchased as a new,2007,Rural,New
+37070,31,Female,39001,University,Single,Purchased as a new,2007,Urban,New
+251626,46,Female,40000.5,University,Single,Purchased as a new,2007,Urban,New
+131530,35,Male,9001,University,Single,Purchased as a new,2007,Rural,New
+306999,37,Female,9001,University,Single,Purchased as used,2006,Urban,New
+252382,26,Female,12000.2,University,Single,Purchased as used,2006,Urban,New
+32642,28,Female,19500.5,University,Single,Purchased as a new,2006,Urban,New
+187885,30,Female,23250.25,University,Single,Purchased as a new,2006,Urban,New
+39250,37,Female,40000.5,University,Single,Purchased as a new,2006,Urban,New
+306807,29,Female,40000.5,University,Single,Purchased as a new,2006,Rural,New
+42878,30,Female,53500,University,Single,Purchased as a new,2006,Rural,New
+147163,26,Male,45001,University,Single,Purchased as used,2006,Urban,New
+307071,38,Male,30000.5,University,Single,Purchased as a new,2006,Urban,New
+177974,29,Male,35666.6666666667,University,Single,Purchased as a new,2006,Urban,New
+54612,47,Male,52001,University,Single,Purchased as a new,2006,Rural,New
+307195,31,Male,26667,University,Single,Purchased as used,2005.5,Urban,New
+306628,25,Female,35666.6666666667,University,Single,Purchased as used,2005,Urban,New
+44114,38,Female,80001,University,Single,Purchased as used,2005,Urban,New
+284211,33,Female,16500.5,University,Single,Purchased as a new,2005,Urban,New
+144992,25,Female,22500.5,University,Single,Purchased as a new,2005,Urban,New
+224190,38,Female,40000.5,University,Single,Purchased as a new,2005,Urban,New
+187959,26,Female,46500.5,University,Single,Purchased as a new,2005,Urban,New
+162025,26,Male,20000.3333333333,University,Single,Purchased as used,2005,Rural,New
+178299,29,Male,21400,University,Single,Purchased as used,2005,Urban,New
+157672,32,Male,30000.5,University,Single,Purchased as used,2005,Urban,New
+159445,27,Male,52001,University,Single,Purchased as used,2005,Urban,New
+183768,30,Male,53500,University,Single,Purchased as used,2005,Urban,New
+306823,34,Male,31000.3333333333,University,Single,Purchased as a new,2005,Rural,New
+306976,40,Male,45001,University,Single,Purchased as a new,2005,Urban,New
+163295,24,Female,22001,University,Single,Purchased as used,2004,Urban,New
+188329,29,Female,22500.5,University,Single,Purchased as used,2004,Urban,New
+188535,26,Female,30000.5,University,Single,Purchased as used,2004,Urban,New
+223633,29,Female,46500.5,University,Single,Purchased as used,2004,Urban,New
+37276,40,Female,69001,University,Single,Purchased as used,2004,Urban,New
+260090,24,Female,53500,University,Single,Purchased as a new,2004,Urban,New
+188133,23,Male,26667,University,Single,Purchased as used,2004,Urban,New
+251762,30,Male,26750,University,Single,Purchased as used,2004,Urban,New
+260963,25,Male,39001,University,Single,Purchased as used,2004,Urban,New
+43514,27,Male,27001,University,Single,Purchased as a new,2004,Urban,New
+273629,27,Female,31000.3333333333,University,Single,Purchased as a new,2003.5,Urban,New
+118193,28,Female,3833.66666666667,University,Single,Purchased as used,2003,Urban,New
+46377,27,Female,20000.3333333333,University,Single,Purchased as used,2003,Urban,New
+278806,25,Female,22001,University,Single,Purchased as used,2003,Urban,New
+58278,37,Female,26000.5,University,Single,Purchased as used,2003,Urban,New
+273525,26,Female,34500.5,University,Single,Purchased as used,2003,Urban,New
+193290,47,Female,40000.5,University,Single,Purchased as used,2003,Urban,New
+261055,28,Female,45001,University,Single,Purchased as used,2003,Rural,New
+156777,27,Female,46500.5,University,Single,Purchased as used,2003,Urban,New
+310725,38,Male,26000.5,University,Single,Purchased as used,2003,Urban,New
+260926,24,Male,27001,University,Single,Purchased as used,2003,Urban,New
+117451,30,Male,60001,University,Single,Purchased as used,2002.5,Urban,New
+183976,31,Male,46500.5,University,Single,Purchased as used,2002.33333333333,Urban,New
+157662,26,Female,4500.5,University,Single,Purchased as used,2002,Urban,New
+156826,26,Female,27001,University,Single,Purchased as used,2002,Urban,New
+251184,27,Male,12000.2,University,Single,Purchased as used,2002,Urban,New
+310010,30,Male,27001,University,Single,Purchased as used,2002,Urban,New
+157279,32,Male,31000.3333333333,University,Single,Purchased as used,2002,Urban,New
+117224,28,Male,35666.6666666667,University,Single,Purchased as used,2002,Urban,New
+174232,26,Male,46500.5,University,Single,Purchased as used,2002,Urban,New
+306467,25,Male,80001,University,Single,Purchased as used,2002,Urban,New
+259308,25,Male,13500.5,University,Single,Purchased as a new,2002,Urban,New
+131813,29,Male,30000.5,University,Single,Purchased as a new,2002,Urban,New
+60154,27,Female,26750,University,Single,Purchased as used,2001.66666666667,Rural,New
+260587,26,Female,23000.3333333333,University,Single,Purchased as used,2001.5,Rural,New
+117613,28,Female,16500.5,University,Single,Purchased as used,2001,Rural,New
+158898,28,Female,23000.3333333333,University,Single,Purchased as used,2001,Rural,New
+272002,28,Female,53500,University,Single,Purchased as used,2001,Rural,New
+188443,27,Female,39001,University,Single,Purchased as a new,2001,Urban,New
+168329,30,Male,17333.6666666667,University,Single,Purchased as used,2001,Urban,New
+158799,29,Male,22500.5,University,Single,Purchased as used,2001,Rural,New
+306644,24,Male,45001,University,Single,Purchased as used,2001,Urban,New
+164207,25,Female,16500.5,University,Single,Purchased as used,2000,Rural,New
+307162,26,Female,16500.5,University,Single,Purchased as used,2000,Rural,New
+251943,26,Female,22001,University,Single,Purchased as used,2000,Urban,New
+136650,35,Female,26000.5,University,Single,Purchased as used,2000,Urban,New
+150730,25,Female,33001,University,Single,Purchased as used,2000,Urban,New
+281206,27,Female,45001,University,Single,Purchased as used,2000,Urban,New
+193280,29,Female,45001,University,Single,Purchased as used,2000,Urban,New
+273728,25,Female,33001,University,Single,Purchased as a new,2000,Rural,New
+37143,40,Female,53500,University,Single,Purchased as a new,2000,Urban,New
+73959,29,Male,7001,University,Single,Purchased as used,2000,Urban,New
+156923,29,Male,26000.5,University,Single,Purchased as used,2000,Urban,New
+141248,26,Female,22500.5,University,Single,Purchased as used,1999,Urban,New
+117847,41,Female,40000.5,University,Single,Purchased as used,1999,Urban,New
+37081,30,Female,23000.3333333333,University,Single,Purchased as used,1998,Urban,New
+117418,30,Female,23250.25,University,Single,Purchased as used,1998,Urban,New
+154072,26,Female,26000.5,University,Single,Purchased as used,1998,Urban,New
+140845,30,Female,30000.5,University,Single,Purchased as used,1998,Urban,New
+117835,27,Female,39001,University,Single,Purchased as used,1998,Urban,New
+197496,26,Female,45001,University,Single,Purchased as used,1998,Urban,New
+284217,25,Female,45001,University,Single,Purchased as used,1998,Urban,New
+37097,27,Male,40000.5,University,Single,Purchased as used,1998,Urban,New
+310933,22,Female,16500.5,University,Single,Purchased as used,1997,Urban,New
+63543,27,Female,34500.5,University,Single,Purchased as used,1997,Urban,New
+150701,33,Female,3833.66666666667,University,Single,Purchased as a new,1997,Urban,New
+157180,31,Male,19500.5,University,Single,Purchased as a new,1997,Urban,New
+131782,33,Male,31000.3333333333,University,Single,Purchased as a new,1997,Rural,New
+306604,30,Female,40000.5,University,Single,Purchased as used,1996.5,Urban,New
+186856,25,Female,18001,University,Single,Purchased as used,1996,Rural,New
+75171,29,Female,20000.3333333333,University,Single,Purchased as used,1996,Rural,New
+310890,24,Female,20000.3333333333,University,Single,Purchased as used,1996,Rural,New
+196255,28,Female,23250.25,University,Single,Purchased as used,1996,Urban,New
+251508,29,Female,69001,University,Single,Purchased as used,1996,Urban,New
+259029,26,Male,7001,University,Single,Purchased as used,1996,Urban,New
+60175,38,Male,20000.3333333333,University,Single,Purchased as a new,1996,Urban,New
+178035,27,Female,17333.6666666667,University,Single,Purchased as used,1995.5,Rural,New
+306522,29,Female,16500.5,University,Single,Purchased as used,1995,Urban,New
+117276,32,Female,52001,University,Single,Purchased as used,1995,Urban,New
+179378,28,Female,30000.5,University,Single,Purchased as a new,1995,Urban,New
+235945,47,Female,31000.3333333333,University,Single,Purchased as a new,1994.5,Urban,New
+117577,27,Male,40000.5,University,Single,Purchased as used,1994.5,Rural,New
+307352,26,Female,9000.5,University,Single,Purchased as used,1994,Rural,New
+307364,25,Female,52001,University,Single,Purchased as a new,1994,Urban,New
+142163,26,Male,15000.25,University,Single,Purchased as used,1993.5,Rural,New
+306880,29,Male,19500.5,University,Single,Purchased as used,1993.5,Rural,New
+186679,28,Female,39001,University,Single,Purchased as used,1993,Rural,New
+252378,26,Female,60001,University,Single,Purchased as a new,1993,Urban,New
+178315,27,Male,22500.5,University,Single,Purchased as used,1993,Urban,New
+183878,25,Female,17250.25,University,Single,Purchased as used,1992,Urban,New
+260876,24,Female,31000.3333333333,University,Single,Purchased as used,1992,Urban,New
+150553,31,Female,40000.5,University,Single,Purchased as a new,1992,Urban,New
+307011,25,Female,60001,University,Single,Purchased as a new,1992,Urban,New
+176044,24,Male,11501,University,Single,Purchased as used,1992,Urban,New
+193760,26,Male,19500.5,University,Single,Purchased as used,1992,Urban,New
+75355,33,Female,7001,University,Single,Purchased as used,1991,Urban,New
+277067,25,Female,26000.5,University,Single,Purchased as used,1991,Rural,New
+307377,30,Female,27001,University,Single,Purchased as used,1991,Urban,New
+158782,26,Female,19500.5,University,Single,Purchased as a new,1991,Rural,New
+275205,36,Female,35666.6666666667,University,Single,Purchased as a new,1991,Urban,New
+60681,43,Female,45001,University,Single,Purchased as a new,1991,Urban,New
+277075,29,Female,52001,University,Single,Purchased as a new,1991,Urban,New
+117463,31,Male,9000.5,University,Single,Purchased as used,1991,Urban,New
+157467,37,Male,30000.5,University,Single,Purchased as used,1991,Urban,New
+187114,32,Male,30000.5,University,Single,Purchased as used,1991,Urban,New
+201689,25,Male,40000.5,University,Single,Purchased as used,1991,Urban,New
+75466,30,Female,22500.5,University,Single,Purchased as used,1990,Urban,New
+281244,24,Female,23000.3333333333,University,Single,Purchased as used,1990,Rural,New
+163830,28,Female,26667,University,Single,Purchased as used,1990,Urban,New
+74628,27,Female,34500.5,University,Single,Purchased as used,1990,Urban,New
+188519,28,Female,22500.5,University,Single,Purchased as a new,1990,Urban,New
+184293,38,Female,39001,University,Single,Purchased as a new,1990,Urban,New
+310924,24,Female,13500.5,University,Single,Purchased as used,1989,Rural,New
+196159,26,Female,22001,University,Single,Purchased as used,1989,Urban,New
+174511,45,Female,34500.5,University,Single,Purchased as a new,1989,Urban,New
+193452,26,Male,22500.5,University,Single,Purchased as a new,1989,Urban,New
+136634,31,Male,45001,University,Single,Purchased as a new,1989,Urban,New
+196634,26,Female,20000.3333333333,University,Single,Purchased as used,1988,Urban,New
+251368,26,Male,20000.3333333333,University,Single,Purchased as a new,1988,Rural,New
+174349,26,Female,31000.3333333333,University,Single,Purchased as used,1987,Urban,New
+163803,29,Female,33001,University,Single,Purchased as used,1987,Rural,New
+166058,31,Female,33001,University,Single,Purchased as used,1987,Urban,New
+165267,33,Male,45001,University,Single,Purchased as used,1987,Urban,New
+259199,24,Female,52001,University,Single,Purchased as used,1985,Rural,New
+307409,27,Female,23000.3333333333,University,Single,Purchased as a new,1984,Urban,New
+174999,25,Female,19500.5,University,Single,Purchased as used,1983,Urban,New
+39357,32,Female,30000.5,University,Single,Purchased as used,1983,Urban,New
+159080,30,Female,20000.3333333333,University,Single,Purchased as used,1980,Urban,New
+196219,32,Female,19500.5,University,Single,Purchased as a new,1980,Urban,New
+307056,26,Male,31000.3333333333,University,Single,Purchased as used,1980,Urban,New
+33596,28,Female,39001,University,Single,Purchased as used,1979,Urban,New
+186956,33,Female,19500.5,University,Single,Purchased as a new,1976,Rural,New
+174565,35,Female,30000.5,College,Single,Purchased as a new,2012,Urban,New
+163784,27,Male,21400,College,Single,Purchased as a new,2011,Urban,New
+74155,33,Female,31000.3333333333,College,Single,Purchased as a new,2009.5,Urban,New
+281135,27,Female,34500.5,College,Single,Purchased as used,2009,Urban,New
+32974,30,Male,35666.6666666667,College,Single,Purchased as used,2009,Urban,New
+306555,27,Female,45001,College,Single,Purchased as a new,2007,Rural,New
+307199,25,Male,27001,College,Single,Purchased as a new,2007,Rural,New
+118799,27,Male,35666.6666666667,College,Single,Purchased as a new,2005.5,Urban,New
+184015,28,Male,3833.66666666667,College,Single,Purchased as used,2005,Urban,New
+141298,28,Male,69001,College,Single,Purchased as a new,2004.33333333333,Urban,New
+252346,22,Female,39001,College,Single,Purchased as used,2004,Urban,New
+310719,30,Male,31000.3333333333,College,Single,Purchased as used,2004,Urban,New
+259068,23,Female,4833.66666666667,College,Single,Purchased as used,2003,Urban,New
+175377,23,Female,26667,College,Single,Purchased as used,2003,Urban,New
+188123,32,Male,33001,College,Single,Purchased as used,2003,Urban,New
+278850,29,Female,22001,College,Single,Purchased as used,2002.5,Urban,New
+131633,22,Female,52001,College,Single,Purchased as a new,2002,Urban,New
+310101,23,Male,33001,College,Single,Purchased as used,2002,Urban,New
+174297,29,Male,52001,College,Single,Purchased as used,2002,Rural,New
+63771,29,Male,53500,College,Single,Purchased as used,2002,Urban,New
+32624,30,Male,20000.3333333333,College,Single,Purchased as used,2001,Urban,New
+307568,43,Male,39001,College,Single,Purchased as a new,2001,Rural,New
+167175,25,Female,22500.5,College,Single,Purchased as used,2000.33333333333,Urban,New
+183960,30,Female,21400,College,Single,Purchased as used,2000,Urban,New
+201703,30,Female,39001,College,Single,Purchased as a new,2000,Urban,New
+223414,22,Male,39001,College,Single,Purchased as used,2000,Urban,New
+183920,32,Male,60001,College,Single,Purchased as used,2000,Urban,New
+132806,29,Female,26667,College,Single,Purchased as used,1999,Urban,New
+273710,32,Female,26750,College,Single,Purchased as used,1998.33333333333,Urban,New
+259195,31,Female,22001,College,Single,Purchased as used,1998,Rural,New
+273499,32,Female,15000.3333333333,College,Single,Purchased as used,1994,Urban,New
+187304,23,Female,16500.5,College,Single,Purchased as used,1993.5,Urban,New
+144970,32,Female,16500.5,College,Single,Purchased as used,1993,Urban,New
+201663,25,Female,19500.5,College,Single,Purchased as used,1991,Urban,New
+136468,25,Male,40000.5,College,Single,Purchased as used,1991,Urban,New
+193539,29,Male,16500.5,College,Single,Purchased as used,1989.5,Rural,New
+144981,24,Male,26000.5,College,Single,Purchased as a new,1988.5,Urban,New
+195825,29,Female,26000.5,College,Single,Purchased as used,1988,Urban,New
+307200,26,Female,33001,College,Single,Purchased as used,1988,Urban,New
+144943,37,Female,13500.5,College,Single,Purchased as a new,1985,Urban,New
+118464,30,Female,17250.25,College,Single,Purchased as used,1982,Urban,New
+183760,28,Male,26667,Unfinished university,Single,Purchased as a new,2013,Urban,New
+174776,30,Female,20000.25,Unfinished university,Single,Purchased as a new,2010,Urban,New
+32622,32,Male,30000.5,Unfinished university,Single,Purchased as a new,2010,Urban,New
+150282,29,Female,53500,Unfinished university,Single,Purchased as a new,2009,Urban,New
+259046,32,Male,30000.5,Unfinished university,Single,Purchased as a new,2008.5,Urban,New
+252385,32,Female,40000.5,Unfinished university,Single,Purchased as a new,2008,Urban,New
+252304,25,Male,39001,Unfinished university,Single,Purchased as a new,2008,Urban,New
+260784,28,Female,31000.3333333333,Unfinished university,Single,Purchased as a new,2007.5,Urban,New
+150324,42,Female,93001,Unfinished university,Single,Purchased as used,2007,Urban,New
+175460,30,Female,3000.33333333333,Unfinished university,Single,Purchased as a new,2007,Urban,New
+26767,35,Male,26750,Unfinished university,Single,Purchased as used,2007,Urban,New
+55547,33,Male,35666.6666666667,Unfinished university,Single,Purchased as a new,2007,Urban,New
+201669,26,Male,53500,Unfinished university,Single,Purchased as a new,2007,Urban,New
+310842,36,Female,22500.5,Unfinished university,Single,Purchased as used,2006,Urban,New
+228387,28,Female,20000.25,Unfinished university,Single,Purchased as a new,2006,Urban,New
+154060,25,Male,40000.5,Unfinished university,Single,Purchased as used,2006,Urban,New
+226951,27,Female,33001,Unfinished university,Single,Purchased as used,2005,Urban,New
+33521,46,Male,9000.5,Unfinished university,Single,Purchased as a new,2005,Urban,New
+156888,26,Male,26000.5,Unfinished university,Single,Purchased as used,2004,Urban,New
+259291,25,Male,45001,Unfinished university,Single,Purchased as used,2003.5,Urban,New
+260803,33,Female,23000.3333333333,Unfinished university,Single,Purchased as used,2003,Urban,New
+144703,41,Male,26000.5,Unfinished university,Single,Purchased as used,2003,Urban,New
+117352,26,Male,30000.5,Unfinished university,Single,Purchased as used,2003,Urban,New
+156812,30,Male,17833.3333333333,Unfinished university,Single,Purchased as a new,2003,Urban,New
+118043,31,Female,3500.5,Unfinished university,Single,Purchased as used,2002,Urban,New
+310821,29,Female,26000.5,Unfinished university,Single,Purchased as used,2002,Urban,New
+55553,27,Female,46500.5,Unfinished university,Single,Purchased as used,2002,Urban,New
+58303,25,Male,27001,Unfinished university,Single,Purchased as used,2002,Urban,New
+145156,26,Female,107000,Unfinished university,Single,Purchased as used,2001,Urban,New
+306501,30,Male,3500.5,Unfinished university,Single,Purchased as used,2001,Rural,New
+46350,24,Male,33001,Unfinished university,Single,Purchased as used,2001,Urban,New
+117510,34,Male,39001,Unfinished university,Single,Purchased as used,2001,Urban,New
+252015,29,Female,3833.66666666667,Unfinished university,Single,Purchased as used,2000.5,Urban,New
+118025,25,Female,15000.3333333333,Unfinished university,Single,Purchased as used,2000,Urban,New
+46359,36,Female,35666.6666666667,Unfinished university,Single,Purchased as used,2000,Urban,New
+184306,28,Male,26000.5,Unfinished university,Single,Purchased as a new,2000,Urban,New
+272042,43,Male,14501,Unfinished university,Single,Purchased as used,1999,Urban,New
+251262,34,Male,20000.3333333333,Unfinished university,Single,Purchased as used,1998,Urban,New
+145066,25,Male,35666.6666666667,Unfinished university,Single,Purchased as used,1998,Urban,New
+57683,37,Male,46500.5,Unfinished university,Single,Purchased as used,1997,Urban,New
+306734,26,Female,23000.3333333333,Unfinished university,Single,Purchased as used,1996.5,Urban,New
+33627,26,Male,22500.5,Unfinished university,Single,Purchased as used,1996,Urban,New
+118368,32,Male,26000.5,Unfinished university,Single,Purchased as used,1995,Urban,New
+226907,23,Male,69001,Unfinished university,Single,Purchased as used,1993,Urban,New
+144913,25,Male,107000,Unfinished university,Single,Purchased as a new,1992,Urban,New
+186729,20,Female,16500.5,Unfinished university,Single,Purchased as used,1991,Rural,New
+184926,35,Male,22001,Unfinished university,Single,Purchased as a new,1991,Urban,New
+307394,27,Female,30000.5,Unfinished university,Single,Purchased as used,1990,Urban,New
+176149,37,Male,33001,Unfinished university,Single,Purchased as used,1990,Urban,New
+75092,33,Female,40000.5,Unfinished university,Single,Purchased as used,1988,Urban,New
+46356,28,Female,39001,Unfinished university,Single,Purchased as used,1987,Urban,New
+310637,33,Male,46500.5,Unfinished university,Single,Purchased as used,1987,Urban,New
+224487,27,Female,16500.5,Unfinished university,Single,Purchased as a new,1985,Urban,New
+150533,25,Female,40000.5,High school,Single,Purchased as a new,2013,Rural,New
+240412,27,Female,40000.5,High school,Single,Purchased as a new,2011,Urban,New
+274310,20,Female,69001,High school,Single,Purchased as a new,2010.5,Urban,New
+188337,20,Female,33001,High school,Single,Purchased as a new,2010,Rural,New
+158830,21,Female,53500,High school,Single,Purchased as a new,2010,Urban,New
+33791,37,Male,52001,High school,Single,Purchased as a new,2010,Urban,New
+310632,31,Female,22001,High school,Single,Purchased as used,2009,Urban,New
+37163,21,Female,5750.5,High school,Single,Purchased as a new,2009,Urban,New
+228398,28,Female,20000.3333333333,High school,Single,Purchased as a new,2009,Urban,New
+159563,24,Female,27001,High school,Single,Purchased as a new,2009,Urban,New
+310658,22,Female,34500.5,High school,Single,Purchased as a new,2009,Urban,New
+197984,24,Female,40000.5,High school,Single,Purchased as a new,2009,Urban,New
+144844,23,Female,53500,High school,Single,Purchased as a new,2009,Urban,New
+240933,21,Female,22001,High school,Single,Purchased as a new,2008,Urban,New
+39251,29,Female,23250.25,High school,Single,Purchased as a new,2008,Urban,New
+197469,22,Female,39001,High school,Single,Purchased as a new,2008,Urban,New
+223554,22,Female,53500,High school,Single,Purchased as a new,2008,Urban,New
+175041,28,Male,34500.5,High school,Single,Purchased as a new,2008,Rural,New
+307439,23,Male,39001,High school,Single,Purchased as a new,2008,Urban,New
+193458,24,Female,18001,High school,Single,Purchased as used,2007,Urban,New
+118230,27,Female,35666.6666666667,High school,Single,Purchased as used,2007,Urban,New
+224490,24,Male,33001,High school,Single,Purchased as used,2007,Rural,New
+141797,28,Male,35666.6666666667,High school,Single,Purchased as a new,2006.5,Urban,New
+146907,21,Female,30000.5,High school,Single,Purchased as used,2006,Urban,New
+117947,25,Female,34500.5,High school,Single,Purchased as used,2006,Urban,New
+158822,25,Female,39001,High school,Single,Purchased as used,2006,Rural,New
+234652,25,Female,46500.5,High school,Single,Purchased as used,2006,Urban,New
+306425,25,Female,45001,High school,Single,Purchased as a new,2006,Urban,New
+39349,35,Male,26750,High school,Single,Purchased as used,2006,Urban,New
+58251,28,Male,23250.25,High school,Single,Purchased as a new,2006,Rural,New
+184131,22,Male,34500.5,High school,Single,Purchased as a new,2006,Urban,New
+145988,29,Male,35666.6666666667,High school,Single,Purchased as a new,2006,Urban,New
+258687,30,Male,35666.6666666667,High school,Single,Purchased as used,2005.5,Urban,New
+132884,23,Male,46500.5,High school,Single,Purchased as a new,2005.33333333333,Urban,New
+163290,25,Female,20000.3333333333,High school,Single,Purchased as used,2005,Urban,New
+184140,23,Female,46500.5,High school,Single,Purchased as used,2005,Urban,New
+174814,26,Female,31000.3333333333,High school,Single,Purchased as a new,2005,Rural,New
+37193,22,Female,46500.5,High school,Single,Purchased as a new,2005,Urban,New
+131871,27,Female,53500,High school,Single,Purchased as a new,2005,Rural,New
+306867,26,Male,23000.3333333333,High school,Single,Purchased as used,2005,Rural,New
+141627,34,Male,30000.5,High school,Single,Purchased as used,2005,Urban,New
+226965,23,Male,11000.3333333333,High school,Single,Purchased as a new,2005,Urban,New
+260956,22,Male,26000.5,High school,Single,Purchased as a new,2005,Urban,New
+260964,22,Male,93001,High school,Single,Purchased as a new,2005,Urban,New
+159973,25,Male,20000.25,High school,Single,Purchased as a new,2004.5,Urban,New
+148856,30,Female,23250.25,High school,Single,Purchased as used,2004,Urban,New
+133572,23,Female,53500,High school,Single,Purchased as used,2004,Urban,New
+176214,22,Female,9000.5,High school,Single,Purchased as a new,2004,Urban,New
+260961,21,Female,27001,High school,Single,Purchased as a new,2004,Urban,New
+276775,24,Female,33001,High school,Single,Purchased as a new,2004,Urban,New
+118456,26,Female,34500.5,High school,Single,Purchased as a new,2004,Urban,New
+131873,26,Female,46500.5,High school,Single,Purchased as a new,2004,Urban,New
+306893,22,Male,40000.5,High school,Single,Purchased as used,2004,Urban,New
+175861,21,Male,45001,High school,Single,Purchased as used,2004,Urban,New
+188398,39,Male,35666.6666666667,High school,Single,Purchased as a new,2004,Urban,New
+310054,22,Female,16500.5,High school,Single,Purchased as used,2003,Urban,New
+201751,25,Female,23000.3333333333,High school,Single,Purchased as used,2003,Urban,New
+234654,18,Female,26000.5,High school,Single,Purchased as used,2003,Rural,New
+306457,24,Female,26000.5,High school,Single,Purchased as used,2003,Urban,New
+188419,20,Female,30000.5,High school,Single,Purchased as used,2003,Urban,New
+251939,23,Female,60001,High school,Single,Purchased as used,2003,Urban,New
+163426,21,Female,35666.6666666667,High school,Single,Purchased as a new,2003,Urban,New
+188213,21,Male,15000.3333333333,High school,Single,Purchased as used,2003,Rural,New
+159467,27,Male,20000.3333333333,High school,Single,Purchased as used,2003,Urban,New
+32640,28,Male,20000.3333333333,High school,Single,Purchased as used,2003,Urban,New
+67945,25,Male,21400,High school,Single,Purchased as used,2003,Rural,New
+33566,30,Male,22001,High school,Single,Purchased as used,2003,Rural,New
+133580,24,Male,23000.3333333333,High school,Single,Purchased as used,2003,Urban,New
+306434,21,Male,39001,High school,Single,Purchased as used,2003,Urban,New
+310699,22,Male,69001,High school,Single,Purchased as used,2003,Urban,New
+258913,24,Male,45001,High school,Single,Purchased as a new,2003,Urban,New
+310066,22,Male,52001,High school,Single,Purchased as a new,2003,Urban,New
+186881,24,Female,35666.6666666667,High school,Single,Purchased as a new,2002.66666666667,Urban,New
+260799,21,Female,17333.6666666667,High school,Single,Purchased as used,2002,Urban,New
+251124,19,Female,33001,High school,Single,Purchased as used,2002,Urban,New
+166060,22,Female,40000.5,High school,Single,Purchased as used,2002,Urban,New
+140878,42,Female,27001,High school,Single,Purchased as a new,2002,Urban,New
+77152,27,Male,19500.5,High school,Single,Purchased as used,2002,Urban,New
+307453,26,Male,26667,High school,Single,Purchased as used,2002,Urban,New
+117614,43,Male,26667,High school,Single,Purchased as used,2002,Urban,New
+188338,18,Male,26750,High school,Single,Purchased as used,2002,Urban,New
+32625,25,Male,26750,High school,Single,Purchased as used,2002,Urban,New
+276998,22,Male,14501,High school,Single,Purchased as a new,2002,Rural,New
+307046,20,Male,53500,High school,Single,Purchased as a new,2001.66666666667,Rural,New
+174337,22,Female,9000.5,High school,Single,Purchased as used,2001.5,Rural,New
+174682,22,Female,23250.25,High school,Single,Purchased as a new,2001.5,Urban,New
+118100,35,Male,23250.25,High school,Single,Purchased as used,2001.33333333333,Urban,New
+307425,20,Female,20000.3333333333,High school,Single,Purchased as used,2001,Urban,New
+258856,23,Female,22500.5,High school,Single,Purchased as used,2001,Urban,New
+147123,31,Female,27001,High school,Single,Purchased as used,2001,Urban,New
+166911,25,Female,45001,High school,Single,Purchased as used,2001,Urban,New
+307266,21,Female,69001,High school,Single,Purchased as used,2001,Urban,New
+307177,22,Female,26750,High school,Single,Purchased as a new,2001,Urban,New
+123013,22,Female,35666.6666666667,High school,Single,Purchased as a new,2001,Urban,New
+310614,36,Male,15000.3333333333,High school,Single,Purchased as used,2001,Rural,New
+183981,45,Male,26000.5,High school,Single,Purchased as used,2001,Urban,New
+174199,23,Male,26667,High school,Single,Purchased as used,2001,Urban,New
+277010,19,Male,27001,High school,Single,Purchased as used,2001,Rural,New
+144759,26,Male,34500.5,High school,Single,Purchased as used,2001,Urban,New
+145181,21,Male,22500.5,High school,Single,Purchased as a new,2001,Urban,New
+118142,27,Male,53500,High school,Single,Purchased as a new,2001,Urban,New
+75158,24,Male,53500,High school,Single,Purchased as used,2000.5,Rural,New
+259114,22,Female,13500.5,High school,Single,Purchased as used,2000,Urban,New
+159835,25,Female,15000.25,High school,Single,Purchased as used,2000,Urban,New
+259313,23,Female,16500.5,High school,Single,Purchased as used,2000,Urban,New
+251279,21,Female,18001,High school,Single,Purchased as used,2000,Rural,New
+175420,23,Female,52001,High school,Single,Purchased as used,2000,Urban,New
+306458,22,Female,60001,High school,Single,Purchased as used,2000,Urban,New
+141335,21,Female,22500.5,High school,Single,Purchased as a new,2000,Urban,New
+251260,26,Female,60001,High school,Single,Purchased as a new,2000,Urban,New
+310679,21,Male,19500.5,High school,Single,Purchased as used,2000,Urban,New
+306621,42,Male,23000.3333333333,High school,Single,Purchased as used,2000,Urban,New
+186760,20,Female,11000.5,High school,Single,Purchased as used,1999,Urban,New
+310011,25,Male,5750.5,High school,Single,Purchased as used,1999,Urban,New
+307356,22,Male,18001,High school,Single,Purchased as used,1999,Rural,New
+310872,23,Female,27001,High school,Single,Purchased as used,1998,Urban,New
+306818,19,Female,46500.5,High school,Single,Purchased as a new,1998,Urban,New
+158844,28,Male,7250.5,High school,Single,Purchased as used,1998,Urban,New
+306607,39,Male,13500.5,High school,Single,Purchased as used,1998,Urban,New
+144689,31,Male,14501,High school,Single,Purchased as used,1998,Urban,New
+310671,21,Male,34500.5,High school,Single,Purchased as used,1998,Urban,New
+193593,34,Male,26000.5,High school,Single,Purchased as a new,1998,Urban,New
+307421,29,Female,34500.5,High school,Single,Purchased as a new,1997.5,Urban,New
+307137,23,Female,39001,High school,Single,Purchased as used,1997,Urban,New
+310828,26,Male,26667,High school,Single,Purchased as used,1997,Rural,New
+157377,23,Female,19500.5,High school,Single,Purchased as used,1996.5,Urban,New
+154480,23,Female,40000.5,High school,Single,Purchased as used,1996.5,Urban,New
+310678,23,Male,53500,High school,Single,Purchased as used,1996.5,Rural,New
+307014,33,Male,18001,High school,Single,Purchased as used,1996,Rural,New
+75097,28,Male,33001,High school,Single,Purchased as used,1996,Urban,New
+307067,25,Female,26000.5,High school,Single,Purchased as used,1995,Rural,New
+307556,24,Female,39001,High school,Single,Purchased as used,1995,Urban,New
+307506,27,Male,22001,High school,Single,Purchased as used,1995,Urban,New
+306615,35,Male,19500.5,High school,Single,Purchased as a new,1995,Urban,New
+188365,39,Female,26667,High school,Single,Purchased as used,1994,Urban,New
+157172,23,Female,33001,High school,Single,Purchased as used,1994,Urban,New
+307381,22,Male,7333.66666666667,High school,Single,Purchased as used,1994,Rural,New
+162766,25,Female,16500.5,High school,Single,Purchased as used,1993,Urban,New
+251611,21,Female,19500.5,High school,Single,Purchased as used,1993,Rural,New
+188436,27,Male,27001,High school,Single,Purchased as used,1993,Urban,New
+284196,26,Male,69001,High school,Single,Purchased as used,1993,Urban,New
+271972,24,Female,30000.5,High school,Single,Purchased as used,1992,Urban,New
+144786,22,Male,19500.5,High school,Single,Purchased as used,1992,Urban,New
+117997,28,Female,20000.3333333333,High school,Single,Purchased as used,1991,Urban,New
+307483,23,Female,33001,High school,Single,Purchased as used,1991,Urban,New
+273633,23,Female,34500.5,High school,Single,Purchased as used,1991,Urban,New
+136664,26,Female,27001,High school,Single,Purchased as a new,1991,Rural,New
+193800,23,Male,19500.5,High school,Single,Purchased as used,1991,Urban,New
+131833,34,Male,27001,High school,Single,Purchased as used,1991,Urban,New
+247099,31,Male,33001,High school,Single,Purchased as used,1990.5,Urban,New
+33583,25,Male,35666.6666666667,High school,Single,Purchased as used,1990.33333333333,Urban,New
+141223,25,Female,14501,High school,Single,Purchased as used,1990,Urban,New
+37117,24,Female,16500.5,High school,Single,Purchased as used,1990,Rural,New
+273503,24,Female,16500.5,High school,Single,Purchased as used,1990,Urban,New
+159990,25,Female,33001,High school,Single,Purchased as used,1990,Urban,New
+132052,26,Male,19500.5,High school,Single,Purchased as used,1990,Urban,New
+39313,24,Male,26667,High school,Single,Purchased as a new,1990,Urban,New
+117986,24,Female,34500.5,High school,Single,Purchased as a new,1989,Rural,New
+277545,21,Female,69001,High school,Single,Purchased as a new,1989,Urban,New
+118462,27,Male,17333.6666666667,High school,Single,Purchased as used,1989,Urban,New
+183918,27,Male,27001,High school,Single,Purchased as used,1989,Urban,New
+193726,33,Male,60001,High school,Single,Purchased as used,1989,Urban,New
+131567,33,Male,19500.5,High school,Single,Purchased as a new,1989,Urban,New
+158780,35,Male,26667,High school,Single,Purchased as a new,1989,Urban,New
+277528,20,Female,26000.5,High school,Single,Purchased as used,1988,Urban,New
+310697,21,Female,26000.5,High school,Single,Purchased as used,1988,Urban,New
+307223,48,Female,26000.5,High school,Single,Purchased as used,1988,Urban,New
+184268,27,Female,31000.3333333333,High school,Single,Purchased as used,1988,Urban,New
+178175,24,Male,53500,High school,Single,Purchased as used,1988,Urban,New
+133866,27,Female,14501,High school,Single,Purchased as used,1987,Urban,New
+306511,20,Female,19500.5,High school,Single,Purchased as used,1987,Urban,New
+144727,20,Female,26000.5,High school,Single,Purchased as used,1987,Urban,New
+201728,26,Female,27001,High school,Single,Purchased as used,1986,Urban,New
+142214,25,Female,27001,High school,Single,Purchased as a new,1986,Urban,New
+306427,32,Female,33001,High school,Single,Purchased as a new,1986,Urban,New
+310068,20,Male,33001,High school,Single,Purchased as a new,1986,Urban,New
+251454,21,Male,20000.3333333333,High school,Single,Purchased as used,1985,Urban,New
+310936,23,Female,45001,High school,Single,Purchased as used,1984.5,Urban,New
+32460,26,Female,9001,High school,Single,Purchased as used,1984,Urban,New
+260843,26,Female,26000.5,High school,Single,Purchased as used,1984,Urban,New
+259262,23,Female,11000.5,High school,Single,Purchased as used,1983,Urban,New
+183876,34,Female,9000.5,High school,Single,Purchased as a new,1981,Urban,New
+228404,22,Female,18001,High school,Single,Purchased as used,1980,Urban,New
+276989,34,Male,22500.5,Craftsman,Single,Purchased as used,1990,Urban,New
+258796,37,Male,22500.5,Not finsihed high school,Single,Purchased as used,1995,Urban,New
+260809,18,Female,34500.5,Elementary school,Single,Purchased as a new,2009,Urban,New
+156790,19,Female,53500,Elementary school,Single,Purchased as a new,2009,Urban,New
+286847,18,Female,35666.6666666667,Elementary school,Single,Purchased as a new,2004,Urban,New
+252366,34,Male,7001,Elementary school,Single,Purchased as used,2002,Rural,New
+67620,19,Female,18001,Elementary school,Single,Purchased as used,1996,Rural,New
+252177,19,Female,34500.5,Elementary school,Single,Purchased as a new,1994,Urban,New
+74581,19,Male,33001,Elementary school,Single,Purchased as used,1986,Urban,New
