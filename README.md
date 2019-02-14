@@ -13,6 +13,17 @@ This book is enriched with features such as Tableau extracts, Tableau advanced c
 
 By the end of the book, you will be ready to tackle business intelligence challenges using Tableau's feature.
 
+This book covers the following exciting features:
+
+* Understand the basic and advanced skills of Tableau Desktop
+* Implement best practices of visualization, dashboard, and storytelling
+* Learn advanced analytics with the use of build in statistics
+* Deploy the multi-node server on Linux and Windows
+* Use Tableau with big data sources such as Hadoop, Athena, and Spectrum
+* Cover Tableau built-in functions for forecasting using R packages
+* Combine, shape, and clean data for analysis using Tableau Prep
+* Extend Tableau’s functionalities with REST API and R/Python
+
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1-789-53338-4) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
