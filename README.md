@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B11430?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Tableau 2019.x Cookbook 
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/tableau-2019x-cookbook?utm_source=github&utm_medium=repository&utm_campaign=">  <img src="https://www.packtpub.com/sites/default/files/9781789533385_New.png" alt="Tableau 2019.x Cookbook" height="256px" align="right"></a>
